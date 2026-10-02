@@ -16,7 +16,7 @@
 
 在线头像库：
 
-<https://liangyou-channels.wintry-oasis-8264.chatgpt.site>
+<https://liangyou-channels.rf6mzd6g4q.chatgpt.site>
 
 本仓库同时包含完整静态网页，可直接交给 GitHub Pages 或其他静态托管服务使用。GitHub Pages 的仓库设置选择 **Deploy from a branch / main / (root)** 即可。
 
