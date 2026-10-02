@@ -142,12 +142,16 @@ async function loadChannels() {
     let response = await fetch('./liangyouchannels.json', {cache: 'no-cache'});
     if (!response.ok) response = await fetch(RAW_BASE + 'liangyouchannels.json', {cache: 'no-cache'});
     if (!response.ok) throw new Error('Could not read channels');
-    const channels = await response.json();
+    const data = await response.json();
+    const channels = Array.isArray(data) ? data : data.channels;
     if (!Array.isArray(channels) || !channels.length || channels.some(channel =>
       typeof channel.copyValue !== 'string' || typeof channel.roomId !== 'string' ||
       channel.copyValue !== channel.roomId || !PLATFORMS.some(platform => platform.id === channel.platform) ||
       typeof channel.icon !== 'string' || !/^icons\/[a-z]+\/[\w-]+\.png$/.test(channel.icon))) {
       throw new Error('Invalid channel data');
+    }
+    if (typeof data.description === 'string') {
+      document.getElementById('collection-description').textContent = data.description;
     }
     render(channels);
   } catch (_) {
