@@ -410,6 +410,25 @@
       "canonicalRoomId": "8834570"
     },
     {
+      "name": "女流66",
+      "platform": "douyu",
+      "platformLabel": "斗鱼",
+      "roomId": "156277",
+      "copyValue": "156277",
+      "type": "anchor",
+      "id": "douyu-156277",
+      "liveUrl": "https://www.douyu.com/156277",
+      "canonicalRoomId": "156277",
+      "currentName": "女流66",
+      "avatarSource": "https://apic.douyucdn.cn/upload/avatar_v3/202204/f84ce4b7e1684b1793a700ea7df86e68_big.jpg",
+      "avatarSourcePage": "https://www.douyu.com/156277",
+      "avatarFetchedAt": "2026-10-03",
+      "copyType": "room_id",
+      "icon": "icons/douyu/156277.png",
+      "avatar": "https://raw.githubusercontent.com/MaddestAlistar/LiangyouChannels/main/icons/douyu/156277.png",
+      "listConfirmedAt": "2026-10-03"
+    },
+    {
       "id": "huya-527988",
       "name": "童锦程",
       "platform": "huya",
@@ -605,6 +624,24 @@
       "avatarSource": "https://huyaimg.msstatic.com/avatar/1091/0e/140cfd7cbaddc5db2c25a97e0aa83e_180_135.jpg?1610275378",
       "avatarSourcePage": "https://www.huya.com/660001",
       "avatarFetchedAt": "2026-10-03",
+      "listConfirmedAt": "2026-10-03"
+    },
+    {
+      "name": "姿态",
+      "platform": "huya",
+      "platformLabel": "虎牙",
+      "roomId": "333003",
+      "copyValue": "333003",
+      "type": "anchor",
+      "id": "huya-333003",
+      "liveUrl": "https://www.huya.com/333003",
+      "currentName": "Zz1tai姿态",
+      "avatarSource": "https://huyaimg.msstatic.com/avatar/1076/84/3eb4c9c4877fc675df448a78bd768f_180_135.jpg?1549028836",
+      "avatarSourcePage": "https://www.huya.com/333003",
+      "avatarFetchedAt": "2026-10-03",
+      "copyType": "room_id",
+      "icon": "icons/huya/333003.png",
+      "avatar": "https://raw.githubusercontent.com/MaddestAlistar/LiangyouChannels/main/icons/huya/333003.png",
       "listConfirmedAt": "2026-10-03"
     },
     {
@@ -872,6 +909,25 @@
       "avatarFetchedAt": "2026-10-03",
       "listConfirmedAt": "2026-10-03",
       "platformUid": "2051617240"
+    },
+    {
+      "name": "老E / EdmundDZhang",
+      "platform": "bilibili",
+      "platformLabel": "B站",
+      "roomId": "5050",
+      "copyValue": "5050",
+      "type": "anchor",
+      "id": "bilibili-5050",
+      "liveUrl": "https://live.bilibili.com/5050",
+      "platformUid": "433351",
+      "currentName": "EdmundDZhang",
+      "avatarSource": "https://i1.hdslb.com/bfs/face/50900541a74f7875867c38a1e8e572b44b388060.jpg",
+      "avatarSourcePage": "https://api.live.bilibili.com/live_user/v1/UserInfo/get_anchor_in_room?roomid=5050",
+      "avatarFetchedAt": "2026-10-03",
+      "copyType": "room_id",
+      "icon": "icons/bilibili/5050.png",
+      "avatar": "https://raw.githubusercontent.com/MaddestAlistar/LiangyouChannels/main/icons/bilibili/5050.png",
+      "listConfirmedAt": "2026-10-03"
     },
     {
       "id": "yy-4841",
