@@ -139,8 +139,8 @@ function render(channels) {
 async function loadChannels() {
   container.setAttribute('aria-busy', 'true');
   try {
-    let response = await fetch('./liangyouchannels.json', {cache: 'no-cache'});
-    if (!response.ok) response = await fetch(RAW_BASE + 'liangyouchannels.json', {cache: 'no-cache'});
+    let response = await fetch('./channel-data.json', {cache: 'no-cache'});
+    if (!response.ok) response = await fetch(RAW_BASE + 'channel-data.json', {cache: 'no-cache'});
     if (!response.ok) throw new Error('Could not read channels');
     const data = await response.json();
     const channels = Array.isArray(data) ? data : data.channels;

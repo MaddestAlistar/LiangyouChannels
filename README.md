@@ -12,7 +12,7 @@
 
 ## 访问地址
 
-频道数据 JSON：
+播放器图标库订阅 JSON（在 App 的图标库入口添加）：
 
 <https://raw.githubusercontent.com/MaddestAlistar/LiangyouChannels/main/liangyouchannels.json>
 
@@ -34,7 +34,19 @@
 - 盛宇：`DamnshinX`。
 - 斗鱼靓号仍按确认名单复制，例如若若 `171717`、南波儿 `123455`；头像从当前直播间页面获取，避免旧接口把靓号识别成其他账号。
 
-## JSON 字段
+## 图标库格式
+
+`liangyouchannels.json` 使用与良友媒体图标库相同的 `name / description / icons` 格式。每个图标含 `name` 和绝对 HTTPS 地址 `url`，可用于支持此格式的播放器图标库入口。
+
+图标库订阅提供头像，不是直播播放列表。点击头像复制房间号的功能在在线头像库中使用。
+
+## 频道数据字段
+
+`channel-data.json` 保存在线头像库需要的完整频道数据；原有名称、平台、房间号、复制值和头像来源均在此文件中。
+
+频道数据地址：
+
+<https://raw.githubusercontent.com/MaddestAlistar/LiangyouChannels/main/channel-data.json>
 
 JSON 顶层包含 `description`（整理者及更新时间）、`updatedAt`（`2026-10-03`）和 `channels`（频道数组）。每个频道的字段如下：
 
@@ -57,6 +69,6 @@ JSON 顶层包含 `description`（整理者及更新时间）、`updatedAt`（`2
 | `avatarFetchedAt` | 头像获取日期 |
 | `listConfirmedAt` | 名单确认日期 |
 
-此页面使用浏览器原生复制功能，兼容回退复制及手动长按复制；支持键盘操作和手机浏览。网页读取同目录的 JSON，更新名单时保留原始字符串。
+此页面使用浏览器原生复制功能，兼容回退复制及手动长按复制；支持键盘操作和手机浏览。网页读取同目录的 `channel-data.json`。以后增删频道时，应先更新此文件，再从 `channels` 按顺序重建 `liangyouchannels.json` 的 `icons`：`name` 取频道名称，`url` 取 `avatar`，同时同步两份文件的 `description`。房间号与 `copyValue` 必须保留原始大小写和全部符号。
 
 本库由良哥看未来整理；主播、平台名称及头像属于各自对应的主体。
