@@ -1,6 +1,7 @@
 {
   "description": "由小红书：良哥看未来整理，更新时间：2026 年 10 月 4 日",
   "updatedAt": "2026-10-04",
+  "total": 2081,
   "channels": [
     {
       "id": "douyin-646454278948",
@@ -3432,5 +3433,27 @@
       "canonicalRoomId": "1382700801",
       "platformUid": "2710827453"
     }
+  ],
+  "monthlyAuthorFiles": [
+    "data/monthly-authors-01.json",
+    "data/monthly-authors-02.json",
+    "data/monthly-authors-03.json",
+    "data/monthly-authors-04.json",
+    "data/monthly-authors-05.json",
+    "data/monthly-authors-06.json",
+    "data/monthly-authors-07.json",
+    "data/monthly-authors-08.json",
+    "data/monthly-authors-09.json",
+    "data/monthly-authors-10.json",
+    "data/monthly-authors-11.json",
+    "data/monthly-authors-12.json",
+    "data/monthly-authors-13.json",
+    "data/monthly-authors-14.json",
+    "data/monthly-authors-15.json",
+    "data/monthly-authors-16.json",
+    "data/monthly-authors-17.json",
+    "data/monthly-authors-18.json",
+    "data/monthly-authors-19.json",
+    "data/monthly-authors-20.json"
   ]
 }

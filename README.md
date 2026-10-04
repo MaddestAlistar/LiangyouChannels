@@ -4,7 +4,7 @@
 
 点击网页里的主播头像，复制完整房间号或抖音账号标识，随后在汇流选择对应平台并手动粘贴添加。
 
-- 抖音：50
+- 抖音：1953
 - 斗鱼：32
 - 虎牙：32
 - B站：35
@@ -24,7 +24,7 @@
 
 ## 头像和复制规则
 
-178 张头像来自对应平台的公开主播或频道头像，制作成 256×256 PNG；每张图片左上角都包含平台文字角标。图标保存在 `icons/<平台>/<编号>.png`，头像原始来源保存在 JSON 的 `avatarSource` 和 `avatarSourcePage` 中。
+2081 张头像来自对应平台的公开主播或频道头像，制作成 256×256 PNG；每张图片左上角都包含平台文字角标。原有178张图标保存在本仓库的 `icons/<平台>/<编号>.png`，新增1903张精选作者图标使用频道库网站上的固定图片地址。头像原始来源保存在频道记录的 `avatarSource` 和 `avatarSourcePage` 中。
 
 **所有房间号均为字符串，点击时原样复制 `copyValue`。** 不去除句点，不转换为数字，不改变大小写：
 
@@ -59,10 +59,13 @@ JSON 顶层包含 `description`（整理者及更新时间）、`updatedAt`（`2
 | `roomId` | 原样保存的房间号或账号标识，字符串 |
 | `copyValue` | 点击头像时复制的字符串，与 `roomId` 一致 |
 | `copyType` | `room_id` 或 `douyin_id` |
-| `type` | `anchor`（主播）、`channel`（直播间）或 `event`（赛事） |
+| `type` | `anchor`（主播）、`author`（精选作者）、`channel`（直播间）或 `event`（赛事） |
 | `icon` | 仓库内的 PNG 路径，含平台角标 |
 | `avatar` | PNG 的 GitHub Raw 直链，含平台角标 |
-| `liveUrl` | 对应平台的直播入口 |
+| `liveUrl` | 已确认直播间的入口（精选作者可不提供） |
+| `profileUrl` | 精选作者的官方个人主页 |
+| `platformUid` | 平台的稳定账号标识，字符串 |
+| `monthlySelected` | 精选作者入选月份，如 `2026-08` |
 | `currentName` | 获取头像时的平台名称 |
 | `avatarSource` | 原平台头像地址 |
 | `avatarSourcePage` | 获取头像的页面或接口 |
@@ -180,3 +183,20 @@ JSON 顶层包含 `description`（整理者及更新时间）、`updatedAt`（`2
 | YY | [李萝莉](https://www.yy.com/7940) | `7940` |
 | YY | [李大鑫](https://www.yy.com/1418) | `1418` |
 | YY | [小胖晚](https://www.yy.com/1860) | `1860` |
+
+
+## 抖音历年月度精选作者
+
+已核对官方往期目录公布的 **2024 年 7 月至 2026 年 8 月，共26期**，合计2119条入选记录；按官方UID去重后为1904位作者。李亚鹏已经在原库中，其余1903位新增，当前全库2081个频道，其中抖音1953个。
+
+精选作者使用官方 `unique_id`（抖音号）；未设置时使用官方 `short_id`。所有复制值均保持原始大小写、下划线及句点。`type` 为 `author`，个人主页保存在 `profileUrl`，各次入选月份保存在 `monthlySelected`。作者是否开播以平台显示为准。原有178个频道记录、复制值和导入图标名均完整保留。
+
+[官方月度精选作者页面](https://www.douyin.com/weekly_activity/user/) · [完整月份及作者名册](https://liangyou-channels.rf6mzd6g4q.chatgpt.site/monthly-selected.json)
+
+网页仅优先加载首屏8张头像，其余按浏览位置加载。
+
+## 数据读取
+
+`liangyouchannels.json` 保持标准头像包格式和原订阅地址，共2081个图标。原有178个头像地址保持完整，新增精选作者头像由频道库网站提供固定URL。
+
+网站的 `channel-data.json` 保留完整2081条记录；GitHub的同名文件保留原有178条记录，并通过 `monthlyAuthorFiles` 指向20份作者数据。按文件顺序合并这些文件的 `channels` 即可获得全部频道；网页会自动完成读取。`monthly-selected.json` 的 `authorFiles` 同样指向20份完整作者名册，各期UID名单和覆盖统计仍保存在索引中。

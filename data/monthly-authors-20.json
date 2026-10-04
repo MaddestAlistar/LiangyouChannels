@@ -1,0 +1,70 @@
+{
+  "channels": [
+    {
+      "id": "douyin-monthly-1903983896039966",
+      "name": "蛋特DANTE",
+      "platform": "douyin",
+      "platformLabel": "抖音",
+      "roomId": "DANTEEE",
+      "copyValue": "DANTEEE",
+      "copyType": "douyin_id",
+      "type": "author",
+      "icon": "icons/douyin/selected-1903983896039966.png",
+      "avatar": "https://liangyou-channels.rf6mzd6g4q.chatgpt.site/icons/douyin/selected-1903983896039966.png",
+      "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAANtA_9CmcNTMtk1YtMCMXv1lK_d2HoTXrf_hFwsZQ10HdsY2L_w8iu4S7WIft8bx6",
+      "currentName": "蛋特DANTE",
+      "avatarSource": "https://p3.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_f187356b685034f64ae57607a0195765~c5_300x300.jpeg?from=2956013662",
+      "avatarSourcePage": "https://www.douyin.com/douyin/select/author/billboard/?term=1&rt=0",
+      "avatarFetchedAt": "2026-10-04",
+      "listConfirmedAt": "2026-10-04",
+      "platformUid": "1903983896039966",
+      "monthlySelected": [
+        "2024-07"
+      ]
+    },
+    {
+      "id": "douyin-monthly-2128284713759567",
+      "name": "米三汉",
+      "platform": "douyin",
+      "platformLabel": "抖音",
+      "roomId": "misanhan666",
+      "copyValue": "misanhan666",
+      "copyType": "douyin_id",
+      "type": "author",
+      "icon": "icons/douyin/selected-2128284713759567.png",
+      "avatar": "https://liangyou-channels.rf6mzd6g4q.chatgpt.site/icons/douyin/selected-2128284713759567.png",
+      "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAAV_3KkQ1cmgh6x-QXUKXEyjiVGA4qgbjvH163IzfcgS_jb9OS7NBUh-ALpMB3h7-c",
+      "currentName": "米三汉",
+      "avatarSource": "https://p3.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_8e93fe2bc3154274a99480073d86a44a~c5_300x300.jpeg?from=2956013662",
+      "avatarSourcePage": "https://www.douyin.com/douyin/select/author/billboard/?term=1&rt=0",
+      "avatarFetchedAt": "2026-10-04",
+      "listConfirmedAt": "2026-10-04",
+      "platformUid": "2128284713759567",
+      "monthlySelected": [
+        "2024-07"
+      ]
+    },
+    {
+      "id": "douyin-monthly-3131014265177224",
+      "name": "原野郎中",
+      "platform": "douyin",
+      "platformLabel": "抖音",
+      "roomId": "Dr_Champaign",
+      "copyValue": "Dr_Champaign",
+      "copyType": "douyin_id",
+      "type": "author",
+      "icon": "icons/douyin/selected-3131014265177224.png",
+      "avatar": "https://liangyou-channels.rf6mzd6g4q.chatgpt.site/icons/douyin/selected-3131014265177224.png",
+      "profileUrl": "https://www.douyin.com/user/MS4wLjABAAAABG_gUz-1mNGxmqF90F40Ynq1NgTRd0--hNOu-Ept_LyovmCU4_ybkYyu4o1OjSG8",
+      "currentName": "原野郎中",
+      "avatarSource": "https://p3.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_dcb24373b733442d917f8712f5b7a28e~c5_300x300.jpeg?from=2956013662",
+      "avatarSourcePage": "https://www.douyin.com/douyin/select/author/billboard/?term=1&rt=0",
+      "avatarFetchedAt": "2026-10-04",
+      "listConfirmedAt": "2026-10-04",
+      "platformUid": "3131014265177224",
+      "monthlySelected": [
+        "2024-07"
+      ]
+    }
+  ]
+}

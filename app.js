@@ -72,6 +72,7 @@ function copyGlyph() {
 
 function render(channels) {
   const fragment = document.createDocumentFragment();
+  let imageIndex = 0;
   for (const platform of PLATFORMS) {
     const entries = channels.filter(channel => channel.platform === platform.id);
     if (!entries.length) continue;
@@ -97,7 +98,8 @@ function render(channels) {
       card.type = 'button';
       card.className = 'channel-card';
       card.dataset.channelId = channel.id;
-      card.setAttribute('aria-label', '复制' + channel.name + '的' + platform.label + '房间号：' + channel.copyValue);
+      const identifierLabel = channel.copyType === 'douyin_id' ? '抖音号' : platform.label + '房间号';
+      card.setAttribute('aria-label', '复制' + channel.name + '的' + identifierLabel + '：' + channel.copyValue);
       card.title = '点击复制：' + channel.copyValue;
       const wrap = document.createElement('span');
       wrap.className = 'image-wrap';
@@ -106,7 +108,7 @@ function render(channels) {
       image.alt = channel.name + ' · ' + platform.label;
       image.width = 256;
       image.height = 256;
-      image.loading = platform.id === 'douyin' ? 'eager' : 'lazy';
+      image.loading = imageIndex++ < 8 ? 'eager' : 'lazy';
       image.decoding = 'async';
       image.addEventListener('error', () => {
         if (image.dataset.retried) return;
@@ -140,10 +142,26 @@ async function loadChannels() {
   container.setAttribute('aria-busy', 'true');
   try {
     let response = await fetch('./channel-data.json', {cache: 'no-cache'});
-    if (!response.ok) response = await fetch(RAW_BASE + 'channel-data.json', {cache: 'no-cache'});
+    let dataBase = './';
+    if (!response.ok) { response = await fetch(RAW_BASE + 'channel-data.json', {cache: 'no-cache'}); dataBase = RAW_BASE; }
     if (!response.ok) throw new Error('Could not read channels');
     const data = await response.json();
-    const channels = Array.isArray(data) ? data : data.channels;
+    let channels = Array.isArray(data) ? data : data.channels;
+    if (Array.isArray(data.monthlyAuthorFiles)) {
+      const batches = await Promise.all(data.monthlyAuthorFiles.map(async file => {
+        if (typeof file !== 'string' || !/^data\/monthly-authors-\d+\.json$/.test(file)) throw new Error('Invalid author file');
+        const part = await fetch(dataBase + file, {cache: 'no-cache'});
+        if (!part.ok) throw new Error('Could not read authors');
+        const body = await part.json();
+        if (!Array.isArray(body.channels)) throw new Error('Invalid authors');
+        return body.channels;
+      }));
+      channels = channels.slice();
+      let insertAt = 0;
+      channels.forEach((channel, i) => { if (channel.platform === 'douyin') insertAt = i + 1; });
+      channels.splice(insertAt, 0, ...batches.flat());
+      if (channels.length !== data.total) throw new Error('Incomplete channel data');
+    }
     if (!Array.isArray(channels) || !channels.length || channels.some(channel =>
       typeof channel.copyValue !== 'string' || typeof channel.roomId !== 'string' ||
       channel.copyValue !== channel.roomId || !PLATFORMS.some(platform => platform.id === channel.platform) ||
