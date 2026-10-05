@@ -12,6 +12,14 @@
 
 ## 访问地址
 
+汇流直播专用主播单（在 App 的主播单入口选择「订阅网址」）：
+
+<https://raw.githubusercontent.com/MaddestAlistar/LiangyouChannels/main/liangyouchannels-conflux.json>
+
+依据[汇流官方主播单格式 v1](https://conflux.kami.asia/streamer-list-format)生成，共2081条：抖音1953、斗鱼32、虎牙32、B站35、YY29。按平台分区，并设「抖音月度精选」分区；每条保留原始房间号、头像和显示名称。精选作者按官方抖音号收录，入选月份写在备注中，是否开播以平台显示为准。
+
+更新频道数据后，可运行 `python scripts/build-conflux-list.py --updated-at YYYY-MM-DD` 重建此主播单；日期填写本次实际更新日期。未指定日期时使用北京时间当天。
+
 播放器图标库订阅 JSON（在 App 的图标库入口添加）：
 
 <https://raw.githubusercontent.com/MaddestAlistar/LiangyouChannels/main/liangyouchannels.json>
