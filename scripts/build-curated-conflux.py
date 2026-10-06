@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""Build the ten-section editorial draft and the verified-only Conflux v1 list.
+"""Build the complete ten-section Conflux v1 subscription and legacy aliases.
 
-Only `valid` room checks enter the verified list. A resolved account without a
-room, access challenges, network failures and unchecked entries stay in the
-draft. Never infer deletion from an offline state or a CAPTCHA.
+Include unverified records with their editorial notes. Keep validation metadata
+in data/room-validation.json, separate from the public subscription. Exclude only
+confirmed invalid rooms; an offline state or CAPTCHA is not proof of invalidity.
 """
 import argparse
 import json
@@ -85,36 +85,37 @@ def build(updated_at):
         if check['status']=='invalid':
             excluded.append(c['id'])
             continue
-        entries.append({**entry,'validationStatus':check['status']})
+        entries.append(entry)
         if check['status']=='valid':
             if not check.get('checkedAt') or not check.get('sourceUrl') or not check.get('ownerUid'):
                 raise ValueError('Verified entry has incomplete evidence: '+c['id'])
             if not check.get('resolvedRoomId'):
-                raise ValueError('Account-only entry cannot enter verified list: '+c['id'])
-            checked_day=datetime.fromisoformat(check['checkedAt']).astimezone(ZoneInfo('Asia/Shanghai')).date()
-            if checked_day != day:
-                raise ValueError('Recheck rooms before publishing a new dated list: '+c['id'])
+                raise ValueError('Verified audit record is missing a room: '+c['id'])
             verified.append(entry)
     order={x['id']:i for i,x in enumerate(sections)}
     entries.sort(key=lambda e:order[e['sections'][0]])
-    verified.sort(key=lambda e:order[e['sections'][0]])
     common={'schemaVersion':1,'author':{'name':'良哥看未来','url':'https://github.com/MaddestAlistar/LiangyouChannels'},
             'updatedAt':day.isoformat(),'sections':sections}
     label=f'由小红书：良哥看未来整理，更新时间：{day.year} 年 {day.month} 月 {day.day} 日。'
-    verified_doc={**common,'name':'良友频道库 · 汇流直播（已核验）',
-        'description':label+f'共 {len(verified)} 个已确认房间，按内容分为10区，每条附一句简介。核验确认房间归属，不代表当前正在开播。',
-        'entries':verified}
-    draft_doc={**common,'name':'良友频道库 · 全量分类整理稿（待完成核验）',
-        'description':label+f'共 {len(entries)} 条，分区和简介已整理；全量房间核验尚未完成。只确认到账号、访问受限及未检查的条目保留在此整理稿，不计入已核验名单。',
-        'auditSummary':audit['summary'],'entries':entries}
-    write('liangyouchannels-conflux-verified.json',verified_doc)
-    write('drafts/liangyouchannels-conflux-categorized.json',draft_doc)
-    return {'source':len(channels),'draft':len(entries),'verified':len(verified),'invalidExcluded':len(excluded),
-            'sections':len(sections),'verifiedByPlatform':dict(Counter(e['platform'] for e in verified)),
-            'verifiedBySection':dict(Counter(e['sections'][0] for e in verified))}
+    document={**common,'name':'良友频道库 · 汇流直播',
+        'description':label+f'共 {len(entries)} 个频道与作者。抖音月度精选包含短视频作者，按官方抖音号收录；开播情况以平台显示为准。',
+        'entries':entries}
+    # Keep previously shared URLs working with the same complete, clean content.
+    for output in ('liangyouchannels-conflux.json',
+                   'liangyouchannels-conflux-verified.json',
+                   'drafts/liangyouchannels-conflux-categorized.json'):
+        write(output,document)
+    return {'source':len(channels),'entries':len(entries),'recordedValidRooms':len(verified),
+            'invalidExcluded':len(excluded),'sections':len(sections),
+            'byPlatform':dict(Counter(e['platform'] for e in entries)),
+            'bySection':dict(Counter(e['sections'][0] for e in entries))}
 
 
-if __name__=='__main__':
+def main():
     p=argparse.ArgumentParser()
     p.add_argument('--updated-at',default=datetime.now(ZoneInfo('Asia/Shanghai')).date().isoformat())
     print(json.dumps(build(p.parse_args().updated_at),ensure_ascii=False))
+
+
+if __name__=='__main__':
+    main()

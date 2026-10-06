@@ -2,7 +2,7 @@
   "version": 1,
   "updatedAt": "2026-10-06",
   "generatedAt": "2026-10-06T09:35:04+00:00",
-  "policy": "No invalid inference from offline, CAPTCHA, empty response, missing live history, or network errors. Unrequested rows retain status not_checked. Only valid room records enter the verified list.",
+  "policy": "No invalid inference from offline, CAPTCHA, empty response, missing live history, or network errors. Unrequested rows retain status not_checked. Unverified records may remain in the public subscription; exclude only confirmed invalid rooms. Keep audit metadata in this separate manifest, not in public subscription names, descriptions or notes.",
   "summary": {
     "sourceTotal": 2081,
     "actuallyRequested": 263,
