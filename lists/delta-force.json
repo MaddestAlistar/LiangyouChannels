@@ -1,0 +1,2164 @@
+{
+  "schemaVersion": 1,
+  "name": "三角洲行动主播单",
+  "description": "三角洲行动热门主播合集（含各平台分区人气前列主播与不限开播状态的知名主播）：虎牙、斗鱼、B站、抖音、快手三角洲分区人气主播，以及 Twitch 海外主播。按 2026-10-11 各平台分区在线人气，并补充平台搜索、榜单与第三方统计中不限开播状态的知名主播整理。",
+  "author": {
+    "name": "小红书·良哥看未来"
+  },
+  "updatedAt": "2026-10-11",
+  "sections": [
+    {
+      "id": "cn",
+      "name": "国内主播"
+    },
+    {
+      "id": "global",
+      "name": "海外主播"
+    },
+    {
+      "id": "stars",
+      "name": "知名主播（不限开播状态）"
+    },
+    {
+      "id": "p-bilibili",
+      "name": "B站"
+    },
+    {
+      "id": "p-huya",
+      "name": "虎牙"
+    },
+    {
+      "id": "p-douyu",
+      "name": "斗鱼"
+    },
+    {
+      "id": "p-douyin",
+      "name": "抖音"
+    },
+    {
+      "id": "p-kuaishou",
+      "name": "快手"
+    },
+    {
+      "id": "p-twitch",
+      "name": "Twitch"
+    }
+  ],
+  "entries": [
+    {
+      "platform": "douyin",
+      "roomId": "tuantuanxhchibb",
+      "name": "一条小团团OvO",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_1c083c0dbf41fe009fffa450d44e869d.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "stars",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "21241703813",
+      "name": "三角洲行动",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_oYPLyBE8IH7EHvAJ2eleYQBZPeAGcGRc2AIAAB.jpeg?from=3067671334",
+      "sections": [
+        "stars",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "zhixun7",
+      "name": "智勋勋勋勋（晚上9点半开播）",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/mosaic-legacy_1cb1c0008affbe1724999.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "stars",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "117908807",
+      "name": "张大仙",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/mosaic-legacy_a09a001cbe87a5ffee25.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "stars",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "287021720",
+      "name": "林小北Lindo",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/mosaic-legacy_5fd0001fa2bc45fe81f6.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "stars",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "131653385",
+      "name": "笑笑_孙亚龙",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/mosaic-legacy_312ee00052ba5f9b3e366.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "stars",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "37320704820",
+      "name": "三角洲行动赛事",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-c9aec8xkvj_1d6faccfa30b44d08eeaae53fef13934.jpeg?from=3067671334",
+      "sections": [
+        "stars",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "694562812381",
+      "name": "imxiaoxin",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_e56e3bc34abf364a00496127d929cf98.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "837618638924",
+      "name": "阿战（三角洲行动）",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_fad5902db5c1a41eae20c15f63264ce7.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "94192409364",
+      "name": "王宇昊（三角洲行动）",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_1009e2524751b4685820241dd2a7ee75.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "359765653648",
+      "name": "yjjimpaopao",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c000-ce_osGZAOCzIFfM1EIIde7YBmNJXOEbsgznAfAALR.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "941373694962",
+      "name": "17爱神大王（三角洲行动）",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_ooET54AJeAIy7fGgAGsfKfQSFIEYLHAe8iAQXh.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "897866748433",
+      "name": "汉跑跑（三角洲行动）",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/douyin-user-image-file_28f7b7a6ff71a5e1f76ea6ac28cd76db.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "508940516366",
+      "name": "不求入（三角洲行动）",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_d44f7b8bd2be675535583f6072a940ea.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "236005977998",
+      "name": "竹简（三角洲行动）",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_5a84c7e333a9b77aeb75454c862fe1c5.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "8045051869",
+      "name": "PeRo败(三角洲行动)",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_29884ffc68ee4a697fac605c4261222a.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "768725521983",
+      "name": "紫盾（三角洲行动）",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_ca5233fe05ec6f40ae8eb5656acd5717.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "569073155973",
+      "name": "赛伊德⁹⁹⁸⁶（三角洲行动）",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_c8a670a027a1e35006b87e65c627cacd.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "458599614630",
+      "name": "重楼（三角洲行动）",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_fdcaf5a95c9d874358b07fb2d62e7d49.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "309604916758",
+      "name": "龟壳（三角洲唐王教练）",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c000-ce_oA1nEUfBeE5B97oAy2zvDeFm0EdAVizAiAAuIw.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "518129840867",
+      "name": "敌败（三角洲行动）",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_ad38ad46902104ce3f21ded4c25177e8.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "791847887304",
+      "name": "幸子（三角洲行动）",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_oom8C1AHEEkWx5AAYgpAZDLCGIo2NoAfgAfFA9.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "775455531953",
+      "name": "AAK（三角洲行动）",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_51490f3bf09ea17608ab41bd3fe3b77b.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "417255778059",
+      "name": "二狗子（三角洲行动）",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_ad975e2dd050b59863669fad86f950e4.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "988234551630",
+      "name": "懒懒大王（三角洲测评）",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_ef596cc102d957ac78bbd9aa8dc0348a.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "964343681554",
+      "name": "小可爱（三角洲测评）",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_688ff84078c875dc4035106325fd2b50.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "851495211067",
+      "name": "小里(三角洲行动)",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/douyin-user-image-file_b6e7888cafc6974f8ba1249b0730872d.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "30088561599",
+      "name": "一颗黎星星",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_202f773d47f9ab4d0571d309b940d462.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "685394710899",
+      "name": "逍遥（三角洲行动）",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_e2fc0789b66ffbd0752d4301964af0c1.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "681582780002",
+      "name": "林元素（三角洲行动）",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c000-ce_ooPAVAFFsID9MqAAgAAwfmEWqsQw9TFEeAAneE.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "451816852457",
+      "name": "南柯（三角洲）",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_ada5e2e65b2546b857ccdacf4ce7c16c.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "867414852558",
+      "name": "绝对压制（三角洲行动）",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_4e196d18adaf2b063254417aae640d28.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "49256866509",
+      "name": "仲基（三角洲）",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_872209603475822ae33191cb3a71763c.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "836239186353",
+      "name": "它妈头炖牛肉(三角洲巡查)",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_oI5IJDH4ADih6CtOWCFEgRQE9AyfA9PfAACoA0.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "179803757156",
+      "name": "露娜(三角洲行动)",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_0b53ab442469d2d91733c13497a40f74.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "550394625458",
+      "name": "娜哥亡命天涯",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_oclFETFpAhCavp2lAADAIpZo9sqgOCBAATEffB.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "633986383480",
+      "name": "海超人（三角洲行动）",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_983685e8d92df2e6e5d032e8d480fdfe.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "863850430984",
+      "name": "影月（三角洲行动）",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c000-ce_oYwAAMiWmh7D2lBAinAn45aYvABAaI2PAEPuK.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "288684395635",
+      "name": "法神（三角洲行动）",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_oUkz3rPRAAAIAeQmgEf1GRNzutvEG9ChAACAwI.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "78240873378",
+      "name": "张跑跑（航天混烟王）",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_o4AUAPzCBAC0iAUALni1f5EC0CCIUxpg9yemUA.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "791401939168",
+      "name": "小漫心结（三角洲行动）",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_ee75d5cee373df927c22476236975b5f.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "931338186235",
+      "name": "丑橘（三角洲手游）",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_5aaa1e26d92c280fee5e0c966231ade2.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "510200350291",
+      "name": "南波万（三角洲行动）",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ],
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_596269b0a58f7a7daec6c2ddc3f64799.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "185458602012",
+      "name": "老魅魔（三角洲行动）",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ],
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-c9aec8xkvj_8d51d2a350a04b22829254309a54ade6.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "38381168921",
+      "name": "悟凯（三角洲行动）",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ],
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_5aa6ce8a87d86f8838df131fb3cab9e2.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "768644204060",
+      "name": "诉说caa",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ],
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_c4ad3d2a884787cc3e69a3ada31e8b58.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "432235379303",
+      "name": "安澜（三角洲行动）",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ],
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_o044V9OgEwGLAi4BAIuPBA6iAgaAl5IughPAA.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "950356885941",
+      "name": "小扑（方方电竞明星）",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ],
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c000-ce_oEDYDfe4AEUnIPMWBAqwFCtjE59zAADkBEgANo.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "88699368789",
+      "name": "EGG大权（三角洲行动）",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ],
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_f2a02910474f3e5aec20ebd5464e1092.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "169580186322",
+      "name": "余温（三角洲行动）",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ],
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_4e8ed8e5b35c6ecd02ee0f97b306d5a3.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "463465170633",
+      "name": "PeRo雨末（三角洲行动）",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ],
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_18bfce31a88d858bd836919672105d77.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "276643274668",
+      "name": "PeRos1x（三角洲行动）",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ],
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_f6bc6da566bed2e31d9502b4e30aa898.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "193467658669",
+      "name": "西游董事长（三角洲行动）",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ],
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_1af0760a9f1d186092e25d6f493fbe94.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "73122820005",
+      "name": "Kaisa",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ],
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_226037b417458327e5845d545369d4b8.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "496806745004",
+      "name": "余烬（三角洲行动）",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ],
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_b1fc3e904ff6a8a7a2105445516da5f6.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "681680491314",
+      "name": "哟西（三角洲）",
+      "sections": [
+        "cn",
+        "p-douyin"
+      ],
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c000-ce_o8B2pA9AeIaAlngP2AEAMzB1AqmiiEWKCwueXA.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "666743",
+      "name": "zzc啊哦额",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar/face/201606/14/f8f8fe050f500f334e07aae34be9802b_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "479079",
+      "name": "龙四爷攻略组",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202009/f28fe21a50a5437baae877fb03141c49_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "11831478",
+      "name": "小熊超努力qwq",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202310/2a134567f5b0408e82e793ab568c64cd_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "535321",
+      "name": "狼人杀洛阳",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/201912/02a8c22343814ae19ce8efed3bd66c9d_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "1222615",
+      "name": "Zy丶腰子",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202001/a1b21246eeb54512b348ae478a8cf284_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "12860660",
+      "name": "天才小CoO",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202608/7312f08f20b54d348530ae456ceac6eb_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "12614585",
+      "name": "可乐大王来巡山",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202512/f34cf697e1de408986d7fc9c46a1952f_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "1910041",
+      "name": "TAT大白",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202109/115f9dd4b5d841edb1d1f104f5e83074_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "7459835",
+      "name": "阿乐fps",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202609/6b18734395c14dceb709425cdbe3ec74_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "5123514",
+      "name": "鱼不晚",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202402/a1db05e98d944cb2af693a0f633feb3a_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "3173219",
+      "name": "Xiaorourourou",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202512/7cfeccfcf5a84967acca1e1e35d1c043_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "12215729",
+      "name": "瑞宝又困了",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202606/3831611135eb4035bf89bdd031cda5f3_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "535049",
+      "name": "宋丹是鸟人",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/201901/91b9e39223cf244a47e49ce3e8db8f19_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "10403169",
+      "name": "ISvV子",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202605/082d0155903a405a9c28f2c045e96e4b_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "11609066",
+      "name": "Sucre均弟",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202306/c4a20944088b4a6b802ae25f4965dd5b_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "2745090",
+      "name": "小喝宝贝",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202608/33d47a054488487aa96045a0510d2180_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "12333006",
+      "name": "偷吃一口淼",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202609/1774e3fbc79143939c329769ae203d6d_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "11658426",
+      "name": "寻凉ovO",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202407/6b652bf104da4c63810c8885aba86786_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "339315",
+      "name": "紫渝、",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202609/9ea1a0dd6e7d440ea731c5f36771c7b0_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "10436812",
+      "name": "当内鬼",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202112/b07a7669a13544df8041356b2d74d1ca_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "9666457",
+      "name": "咩柒柒吖",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202506/5f010d865fba4cb29d99f272211d6960_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "8368573",
+      "name": "贝贝猪oo",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202109/d0372091e7e24ce584f768ab3507695f_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "12712424",
+      "name": "1573-ikun",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202606/d813780ab31443d999917df288bee8c2_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "11576927",
+      "name": "糖朩糖",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202601/ccf73a220dac48b190f59e3164189de3_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "12225871",
+      "name": "fffouo",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202408/a0df33713f504cd7b4f58770c731929a_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "12829342",
+      "name": "4AM-Black",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202604/ba6ec680204b4edb83c3636a5b35c780_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "12891953",
+      "name": "菜瓜三角洲",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202609/31ef74fbabd6402cb8a04281752b26a5_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "12893815",
+      "name": "迷雾190434",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202609/bfacff84e3f2403a95ae74356018eabb_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "12896839",
+      "name": "不渐心dy",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202302/a0281d6883ed44708c805916f5594bc7_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "12895821",
+      "name": "郭靖丶三角洲行动",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202009/681afe2651c149c2a5dcda4748329b47_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "12844568",
+      "name": "Knife17",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202605/5bd98b8b67974952aa083ecd12cdbd3d_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "12830578",
+      "name": "见崎鸣026",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202604/dcd495b9e3524fb7870146912c7877e9_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "7362647",
+      "name": "白河愁zzzZ",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202403/9b123c482437460a844b8f75f5fd7f7d_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "11306371",
+      "name": "清柠Bea",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202607/f951ab7956ae48938ac59c6d45b2e7e4_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "7571257",
+      "name": "兔子璐璐",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202608/7caf4ccda08345bcbe9bf6616d14a164_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "3567521",
+      "name": "ICEKING",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202102/f0ab4a8e2da44b9aab9b9a51a534b681_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "12882965",
+      "name": "超绝饱饱酱",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202608/47c66e03a11e43bf8c357a3fbc64b843_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "18088",
+      "name": "南西oYo",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202607/5632248d061d4e8db1b13e77b3c5dc48_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "10044682",
+      "name": "北北子呀",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202312/f33f27baec5b498cb8126f5cbdcadad1_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "9640128",
+      "name": "少君SJ",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202505/787137360171485692ee80cf50be9780_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "12844429",
+      "name": "龙小梦Q",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202605/0353887a6f9b4ecf8facb4516fae9f0f_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "12394388",
+      "name": "聪明的板宝",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202604/cd8a1d2f46134904b14fe10bb48e9c6c_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "12854433",
+      "name": "荔枝啵啵QAQ",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202610/1de8041513224029aa9e182ad57711de_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "8769913",
+      "name": "小娜宝QvQ",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202408/55575df5a69d484d87021423939de080_big.jpg"
+    },
+    {
+      "platform": "huya",
+      "roomId": "60066",
+      "name": "杨齐家丶",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1061/a8/1022d89590c71bbeec6c3a4cbf4d04_180_135.jpg?1733833558",
+      "sections": [
+        "cn",
+        "stars",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "141516",
+      "name": "杀手",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1002/58/7850e9ab76555dbeb3c0f049a29bdf_180_135.jpg?1545325932",
+      "sections": [
+        "cn",
+        "stars",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "118944",
+      "name": "杨齐家丶Nice",
+      "sections": [
+        "cn",
+        "stars",
+        "p-huya"
+      ],
+      "avatar": "https://huyaimg.msstatic.com/avatar/1028/d3/4c9c0f14ad1a67b5919038f0d15f54_180_135.jpg?1513995690"
+    },
+    {
+      "platform": "huya",
+      "roomId": "30587937",
+      "name": "龙城靖少",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1027/c8/406f7882c0b8cff6a1167eb62bde30_180_135.jpg?1739865335",
+      "sections": [
+        "cn",
+        "stars",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "30255461",
+      "name": "Big茄子",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1076/7f/26b3cc1c43e7a8eec5e34c835b8543_180_135.jpg?1727393528",
+      "sections": [
+        "cn",
+        "stars",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "152694",
+      "name": "杨齐家丶随便掏",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1012/b4/d4adc51069875df31e0de29272aa0f_180_135.jpg?1773118258",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "31132492",
+      "name": "天众丶七七酱7udrin",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1040/99/e947817dd6f1e301e17bcb8f989799_180_135.jpg?1767611295",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "136496",
+      "name": "狂鸟丶小沐子",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1090/d9/f937ef80da2483b44470c7ece13be9_180_135.jpg?1788258079",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "22744626",
+      "name": "万星-小乔【806】",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1005/4a/78de9da11a361cabd0509747d834ff_180_135.jpg?1783006723",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "27426259",
+      "name": "WH-乔音音",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1085/8e/c5051e000460c5ce6d32322a051564_180_135.jpg?1718952624",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "31319721",
+      "name": "毛毛妹妹-MG",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1078/a5/705cef91d55a9f6433a07eb40db866_180_135.jpg?1791633191",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "265372",
+      "name": "狂鸟丶A神-90327",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1004/fe/1061cf60c490b6900f9050332a3dc7_180_135.jpg?1634460899",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "29395057",
+      "name": "风起-里香丶",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1033/32/bcae1bce4b0509d7757dc682ceb7e9_180_135.jpg?1697378526",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "175281",
+      "name": "疼宝睡不醒【TT】",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1010/a2/bc22640bd15295ba85a6fd6a796649_180_135.jpg?1775221837",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "127682",
+      "name": "天菜小牛",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1065/60/24cf1208c3461e64121b933e1bcd63_180_135.jpg?1780890184",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "124576",
+      "name": "狂鸟丶佩奇吖",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1078/1c/405e236c5f850d343902c99751a26a_180_135.jpg?1623906426",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "31331981",
+      "name": "清禾揽月",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1083/89/5739758cd3b2628dfee3781d6c7254_180_135.jpg?1784391993",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "132591",
+      "name": "温柔可爱小糖纸o",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1068/3d/aa6b048c538af8e7fe25153c50a72c_180_135.jpg?1774227578",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "152892",
+      "name": "一个欣-MG",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1039/77/bf293a4b4e03e605a4fcfebe0dd3dc_180_135.jpg?1732638664",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "19756853",
+      "name": "MG-林清",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1038/fe/f4e7e1f6472163680a761b0429bb70_180_135.jpg?1783780701",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "30937154",
+      "name": "猛攻破产哥",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1028/fe/cbdd052382ddcd7729747a965d080d_180_135.jpg?1755029980",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "19838810",
+      "name": "TXG-往事随风",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1070/b7/ef0da452a527a427f4a7d50f72c4fa_180_135.jpg?1602234401",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "29496685",
+      "name": "天众丶蓓蓓",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1001/c9/36c457c62214507b4a01327e4a1f8d_180_135.jpg?1700411075",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "10786364",
+      "name": "天众丶蛙蛙鸡",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1088/77/1d35c1f8064d93ac42c0b20fef7c69_180_135.jpg?1670337180",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "25298615",
+      "name": "天众丶海妹",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1021/a7/290c1ed187c16a453b748f21b53158_180_135.jpg?1628180187",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "143194",
+      "name": "天众丶凉城【欧皇城】",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1082/4a/bab567aca4afd25f8c4cbc849c801a_180_135.jpg?1710395786",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "156834",
+      "name": "天众丶昱安",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1053/6d/464e174823a86d55a39d547a8d602c_180_135.jpg?1791398756",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "148527",
+      "name": "天众丶223",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1075/7f/67efb30ad4cd946897991ab4f97535_180_135.jpg?1727080100",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "152875",
+      "name": "狂鸟丶杨导",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1098/35/c373aa855e703d12adf6121bdf170e_180_135.jpg?1683288604",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "30887554",
+      "name": "天众丶织羽",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1041/65/42d01504fd760fb6cdb891200f8c69_180_135.jpg?1764368022",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "531973",
+      "name": "狂鸟丶小白-90098",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1023/e6/1245b49b9cf51f047f6c0e625013ae_180_135.jpg?1783441468",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "31217904",
+      "name": "天众、阿强",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1089/9e/bb211c0815b65642c23b3b28cfaed6_180_135.jpg?1774862515",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "31145528",
+      "name": "杨齐家丶姜泥泥",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1089/0c/38065606bc92827f02befe3b65ae64_180_135.jpg?1768562352",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "156238",
+      "name": "小天锦鲤",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1086/94/1df7216163654a7cf856dc2e817871_180_135.jpg?1778911334",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "30198420",
+      "name": "清寒",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1027/80/437af64258b6a9b9658662517d9f16_180_135.jpg?1725068343",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "31039782",
+      "name": "丶不喜欢喝水水",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1076/a4/d19f483f57d2234ac5bd078f6a9794_180_135.jpg?1761451009",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "31335617",
+      "name": "卡帝三角洲行动",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1042/9b/421469938b595b4a71df44e5ef0507_180_135.jpg?1784650260",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "30567591",
+      "name": "高能丶木子皮",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1002/64/ecd12eddeec1eec250d16f4bbfff2c_180_135.jpg?1740506925",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "136279",
+      "name": "MG-白鹿",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1050/de/d01fe9a8e26f2c10eb9340746bb41e_180_135.jpg?1758018508",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "9179622",
+      "name": "奥莉安娜的微笑",
+      "avatar": "https://i0.hdslb.com/bfs/face/aafe7ad942f6397fec14cc11fef04e85eb7294d3.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1700303259",
+      "name": "艾呀呀草莓",
+      "avatar": "https://i2.hdslb.com/bfs/face/3d366a0afd5f8ed57b7a56e8ac7e15eb524dc958.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "24074804",
+      "name": "陈泽工作室幻梦",
+      "avatar": "https://i2.hdslb.com/bfs/face/a3ef9841058746792fbec5c729ceec654b3428f9.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "23239999",
+      "name": "小草莓林杉杉",
+      "avatar": "https://i0.hdslb.com/bfs/face/d81262bbe8f175bf7c1594d8e90bc74b7cccc5f3.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "804456",
+      "name": "六式zy",
+      "avatar": "https://i2.hdslb.com/bfs/face/dd0206e14258383fc32eb3b0d7c808ad1acb3c57.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "27277424",
+      "name": "心叶三角洲行动",
+      "avatar": "https://i1.hdslb.com/bfs/face/db5db871438e63a0e0d91638bec7c83c0e9c3741.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "13308358",
+      "name": "甜药Jamren",
+      "avatar": "https://i1.hdslb.com/bfs/face/cb2a3fce4296d6e3ed74e3a7070071067e4422b7.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1931024523",
+      "name": "三角洲代肝保险箱",
+      "avatar": "https://i1.hdslb.com/bfs/face/87cb2789e11c3ceebf020a1371372720f57e57bd.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "24701937",
+      "name": "吹紫",
+      "avatar": "https://i2.hdslb.com/bfs/face/d096ebdefcbd6eac5548c870188806ca31f51da7.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "21348897",
+      "name": "亮_Sama",
+      "avatar": "https://i1.hdslb.com/bfs/face/61e3a6495487d32b518827e0edffd4cf4566f4a0.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1841634955",
+      "name": "北鸢酱OvO",
+      "avatar": "https://i2.hdslb.com/bfs/face/6dc184e05c4835d35f3e805c9d8b139c3ddf48d2.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1861307113",
+      "name": "何文凯大王66",
+      "avatar": "https://i1.hdslb.com/bfs/face/f6ca4436921be14678c808d74efa7bbc4149a033.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1837276826",
+      "name": "十七三角洲行动ovo",
+      "avatar": "https://i0.hdslb.com/bfs/face/77d03c20023e956d20fe137e2cb9085e83e00a5c.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "26958193",
+      "name": "果果bgg",
+      "avatar": "https://i0.hdslb.com/bfs/face/7772c34de4cb489996a13ddb417330ad96d0cb91.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1853540354",
+      "name": "安恩-洲角三",
+      "avatar": "https://i1.hdslb.com/bfs/face/a187635887547632891acac56a092f1f9ea602eb.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1726558205",
+      "name": "陈胜-三角洲行动",
+      "avatar": "https://i0.hdslb.com/bfs/face/50e9ff8b2979e3b5472dfe89238ca2d0c0de1c3a.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1828277379",
+      "name": "羊几ovo",
+      "avatar": "https://i2.hdslb.com/bfs/face/f790d2553e9833d924d1b0eaa5e9a7c984693d0b.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "7713984",
+      "name": "热心胖哥骑行",
+      "avatar": "https://i1.hdslb.com/bfs/face/d47adff8e84eb9f3e2e99f78fa1114e3e4c04570.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1725436816",
+      "name": "_77酱_",
+      "avatar": "https://i2.hdslb.com/bfs/face/96954814465260de4592b4e1a62d5e3b70030818.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1741043270",
+      "name": "盒子iuk",
+      "avatar": "https://i0.hdslb.com/bfs/face/66eab58d7354d1c963eb8519b328385cc300b374.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "127314",
+      "name": "米尔Miru",
+      "avatar": "https://i1.hdslb.com/bfs/face/9b39c80f2c33e810914b4ff7478de956c7d05961.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "12858967",
+      "name": "袖子杨杨",
+      "avatar": "https://i0.hdslb.com/bfs/face/2c6961aa961fd047dfba581923f3bb967ee3e40a.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1749939044",
+      "name": "沈幼妍-",
+      "avatar": "https://i1.hdslb.com/bfs/face/7428d56bf1e9c6058feb6a686a5da6a5efba9df9.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "249746",
+      "name": "安安aya",
+      "avatar": "https://i2.hdslb.com/bfs/face/f65de9f7524763abe498eb74b25bf1ca4ed47ab4.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1806395",
+      "name": "一勺拌面酱",
+      "avatar": "https://i1.hdslb.com/bfs/face/96b811a6ca23c4b5cccaf4a99abab6537b26f06b.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "26815358",
+      "name": "月落夜_",
+      "avatar": "https://i0.hdslb.com/bfs/face/36dc217e61bef7f11ad3eed4ab83b5aa0d855ca8.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1890519194",
+      "name": "遥遥-三角洲行动",
+      "avatar": "https://i1.hdslb.com/bfs/face/7d70fe0c3bc66db1f8bac8dd20af335d53e06f77.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "26412975",
+      "name": "满棠ManTang",
+      "avatar": "https://i1.hdslb.com/bfs/face/0711ab18b6fcf72b97804c8b842f036942e2d790.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "26903567",
+      "name": "单排很厉害",
+      "avatar": "https://i1.hdslb.com/bfs/face/d96396eb114610c280905470938d20f0d4ad5eae.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1778468068",
+      "name": "腓腓-三角洲行动",
+      "avatar": "https://i0.hdslb.com/bfs/face/2d4390c296616f7b7ad9fa124fb2f80509e719b5.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1732283516",
+      "name": "苏楠三角洲行动",
+      "avatar": "https://i2.hdslb.com/bfs/face/1ef3917bce755b0f754363ddba9aadbe073d5023.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "30892554",
+      "name": "安妮Annie丶",
+      "avatar": "https://i2.hdslb.com/bfs/face/f24f7ceeecdf0536aa0c00bdc6b1d0290a6efe93.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1889481076",
+      "name": "摸鱼小听o",
+      "avatar": "https://i2.hdslb.com/bfs/face/0ffac671a7f765b69989fea2469a8e9eb2975459.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1887786641",
+      "name": "慵懒的十里",
+      "avatar": "https://i2.hdslb.com/bfs/face/0860f410567a2a96447c280432b16d5662b7b5de.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "kuaishou",
+      "roomId": "www0-0www",
+      "name": "王小歪✨和平精英",
+      "sections": [
+        "cn",
+        "stars",
+        "p-kuaishou"
+      ]
+    },
+    {
+      "platform": "kuaishou",
+      "roomId": "3xs856itqc5ivgm",
+      "name": "三角洲行动赛事",
+      "sections": [
+        "stars",
+        "p-kuaishou"
+      ]
+    },
+    {
+      "platform": "kuaishou",
+      "roomId": "songsonghby",
+      "name": "松松很棒哟（三角洲行动）",
+      "avatar": "https://p2-pro.a.yximgs.com/uhead/AB/2026/02/11/16/BMjAyNjAyMTExNjA3MjJfODMwMjQzNzg0XzJfaGQ2NzlfNTE2_s.jpg",
+      "sections": [
+        "cn",
+        "p-kuaishou"
+      ]
+    },
+    {
+      "platform": "kuaishou",
+      "roomId": "Y88888888Z8888888",
+      "name": "小志（三角洲行动）",
+      "avatar": "https://p5-pro.a.yximgs.com/uhead/AB/2026/01/17/06/BMjAyNjAxMTcwNjQ4MzRfNTIyNzMxNjQwOV8xX2hkOTE1XzYyOA==_b.jpg",
+      "sections": [
+        "cn",
+        "p-kuaishou"
+      ]
+    },
+    {
+      "platform": "kuaishou",
+      "roomId": "HT1521043",
+      "name": "海涛（三角洲行动）",
+      "avatar": "https://p2-pro.a.yximgs.com/uhead/AB/2022/06/07/14/BMjAyMjA2MDcxNDA4NThfNDYzODgxNTM2XzFfaGQyNjRfNTc=_s.jpg",
+      "sections": [
+        "cn",
+        "p-kuaishou"
+      ]
+    },
+    {
+      "platform": "kuaishou",
+      "roomId": "ob200616",
+      "name": "内向的欧宝",
+      "avatar": "https://p4-pro.a.yximgs.com/uhead/AB/2026/06/18/01/BMjAyNjA2MTgwMTM3MTZfNDg4NjAzNDYxXzFfaGQ2MTBfMTUy_s.jpg",
+      "sections": [
+        "cn",
+        "p-kuaishou"
+      ]
+    },
+    {
+      "platform": "kuaishou",
+      "roomId": "3xn4ixjpwst8w9m",
+      "name": "露小娜.三角洲行动",
+      "avatar": "https://p5-pro.a.yximgs.com/uhead/AB/2026/08/21/11/BMjAyNjA4MjExMTUwNDZfNDk3MDM4NzkwM18yX2hkMTMwXzQyNg==_s.jpg",
+      "sections": [
+        "cn",
+        "p-kuaishou"
+      ]
+    },
+    {
+      "platform": "kuaishou",
+      "roomId": "3xc7sis6zkq5bce",
+      "name": "牢亿般（白词电竞）",
+      "avatar": "https://p2-pro.a.yximgs.com/uhead/AB/2025/07/17/16/BMjAyNTA3MTcxNjE3MzVfMzkzMzUwMTQxNF8yX2hkMjg1XzkyMg==_s.jpg",
+      "sections": [
+        "cn",
+        "p-kuaishou"
+      ]
+    },
+    {
+      "platform": "kuaishou",
+      "roomId": "beiqiustelx",
+      "name": "北秋stelx",
+      "avatar": "https://p2-pro.a.yximgs.com/uhead/AB/2026/09/11/14/BMjAyNjA5MTExNDQyMzdfNDU2ODk5OTg2MV8yX2hkMjc3XzkyMw==_s.jpg",
+      "sections": [
+        "cn",
+        "p-kuaishou"
+      ]
+    },
+    {
+      "platform": "kuaishou",
+      "roomId": "a192173714",
+      "name": "某哈（三角洲行动）",
+      "avatar": "https://p2-pro.a.yximgs.com/uhead/AB/2026/09/09/17/BMjAyNjA5MDkxNzUyMjBfMTg2NjM3NDUyMF8xX2hkNDk4Xzg4Ng==_s.jpg",
+      "sections": [
+        "cn",
+        "p-kuaishou"
+      ]
+    },
+    {
+      "platform": "kuaishou",
+      "roomId": "3xa5e5vkbsm396m",
+      "name": "姑娘百毒不侵为何流泪？",
+      "avatar": "https://p2-pro.a.yximgs.com/uhead/AB/2025/09/16/13/BMjAyNTA5MTYxMzI1MzNfMTU4OTkzNzU5Nl8xX2hkNDI4XzM5Ng==_s.jpg",
+      "sections": [
+        "cn",
+        "p-kuaishou"
+      ]
+    },
+    {
+      "platform": "kuaishou",
+      "roomId": "3x9ecerdzve46mc",
+      "name": "哈基鼠（三角洲纯绿跑刀）",
+      "avatar": "https://p2-pro.a.yximgs.com/uhead/AB/2025/06/21/18/BMjAyNTA2MjExODM1MDNfNjI0NjYyNDk3XzJfaGQzODdfNzc0_s.jpg",
+      "sections": [
+        "cn",
+        "p-kuaishou"
+      ]
+    },
+    {
+      "platform": "kuaishou",
+      "roomId": "3xqrtvtecwp7cnm",
+      "name": "小哈仔（三角洲行动）",
+      "avatar": "https://p2-pro.a.yximgs.com/uhead/AB/2023/10/03/19/BMjAyMzEwMDMxOTI5MjVfMzc1MzkyNzA3OV8yX2hkODhfNTc1_s.jpg",
+      "sections": [
+        "cn",
+        "p-kuaishou"
+      ]
+    },
+    {
+      "platform": "kuaishou",
+      "roomId": "3xz5u8vb9rfge99",
+      "name": "三角洲行动17",
+      "avatar": "https://p2-pro.a.yximgs.com/uhead/AB/2026/07/09/22/BMjAyNjA3MDkyMjQ5NDVfNTM5NDY2NDU5Nl8yX2hkMTQ3XzI1_s.jpg",
+      "sections": [
+        "cn",
+        "p-kuaishou"
+      ]
+    },
+    {
+      "platform": "kuaishou",
+      "roomId": "3xu75uswrpz9bcc",
+      "name": "宇成三角洲（尽力电竞）",
+      "avatar": "https://p2-pro.a.yximgs.com/uhead/AB/2026/08/19/18/BMjAyNjA4MTkxODE1MzhfMjA0NDY0MTk0Nl8yX2hkOTIxXzg2MQ==_s.jpg",
+      "sections": [
+        "cn",
+        "p-kuaishou"
+      ]
+    },
+    {
+      "platform": "kuaishou",
+      "roomId": "yebaoyyds666",
+      "name": "小夜（三角洲行动）",
+      "avatar": "https://p2-pro.a.yximgs.com/uhead/AB/2026/03/01/20/BMjAyNjAzMDEyMDE2MzhfMTYzMzE0MjIyN18yX2hkNzAyXzcyNA==_s.jpg",
+      "sections": [
+        "cn",
+        "p-kuaishou"
+      ]
+    },
+    {
+      "platform": "kuaishou",
+      "roomId": "ww330844",
+      "name": "十五（三角洲行动）",
+      "avatar": "https://p5-pro.a.yximgs.com/uhead/AB/2026/09/25/21/BMjAyNjA5MjUyMTExMTRfNTc4MjY4NDQ5Nl8yX2hkNDEwXzMzNA==_s.jpg",
+      "sections": [
+        "cn",
+        "p-kuaishou"
+      ]
+    },
+    {
+      "platform": "kuaishou",
+      "roomId": "zhc2008925",
+      "name": "SY曜石（三角洲行动）",
+      "avatar": "https://p5-pro.a.yximgs.com/uhead/AB/2026/09/29/18/BMjAyNjA5MjkxODIxMTBfMjQwNDI0NjMxN18xX2hkNDUwXzE1Mw==_s.jpg",
+      "sections": [
+        "cn",
+        "p-kuaishou"
+      ]
+    },
+    {
+      "platform": "kuaishou",
+      "roomId": "Hxxx20091201",
+      "name": "三角洲行动 怀星",
+      "avatar": "https://p5-pro.a.yximgs.com/uhead/AB/2024/08/09/09/BMjAyNDA4MDkwOTIxNTRfMTk3ODAwMDEyM18xX2hkMjE0XzIwMw==_s.jpg",
+      "sections": [
+        "cn",
+        "p-kuaishou"
+      ]
+    },
+    {
+      "platform": "kuaishou",
+      "roomId": "ND4177633",
+      "name": "楠弟三角洲（楠弟俱乐部）",
+      "avatar": "https://p2-pro.a.yximgs.com/uhead/AB/2026/03/08/01/BMjAyNjAzMDgwMTQyNDZfMzk2MTY2MDM0M18xX2hkNTA2XzQyNw==_s.jpg",
+      "sections": [
+        "cn",
+        "p-kuaishou"
+      ]
+    },
+    {
+      "platform": "kuaishou",
+      "roomId": "HovQ0930",
+      "name": "心软（2142电竞）",
+      "avatar": "https://p4-pro.a.yximgs.com/uhead/AB/2026/09/15/18/BMjAyNjA5MTUxODUzMDBfNjU5MzM0OTM2XzFfaGQ3MjFfMjg2_s.jpg",
+      "sections": [
+        "cn",
+        "p-kuaishou"
+      ]
+    },
+    {
+      "platform": "kuaishou",
+      "roomId": "baicai2026",
+      "name": "白菜·地铁逃生",
+      "avatar": "https://p2-pro.a.yximgs.com/uhead/AB/2026/08/20/19/BMjAyNjA4MjAxOTIzMzBfNTY5Nzg2NzAwMF8xX2hkNjc3XzI5NQ==_s.jpg",
+      "sections": [
+        "cn",
+        "p-kuaishou"
+      ]
+    },
+    {
+      "platform": "kuaishou",
+      "roomId": "3xfpqp38x9bf384",
+      "name": "看不见",
+      "avatar": "https://p2-pro.a.yximgs.com/uhead/AB/2021/03/15/11/BMjAyMTAzMTUxMTIzMzNfMTI5Nzk4ODkxMF8yX2hkOTgyXzM0NA==_s.jpg",
+      "sections": [
+        "cn",
+        "p-kuaishou"
+      ]
+    },
+    {
+      "platform": "kuaishou",
+      "roomId": "MOVOTYTOVOM",
+      "name": "sy白酒（没架子）",
+      "avatar": "https://p2-pro.a.yximgs.com/uhead/AB/2026/07/28/23/BMjAyNjA3MjgyMzAxMTlfMjU3NTAxNTYwNF8xX2hkMzA3XzE3MQ==_s.jpg",
+      "sections": [
+        "cn",
+        "p-kuaishou"
+      ]
+    },
+    {
+      "platform": "kuaishou",
+      "roomId": "x1952512965",
+      "name": "夕夕（凌夕电竞）",
+      "avatar": "https://p2-pro.a.yximgs.com/uhead/AB/2026/04/18/04/BMjAyNjA0MTgwNDUxMzNfMTc2NTMxODg4OV8xX2hkOTg1XzcxNA==_s.jpg",
+      "sections": [
+        "cn",
+        "p-kuaishou"
+      ]
+    },
+    {
+      "platform": "kuaishou",
+      "roomId": "3xtd3nzn4xrm4t4",
+      "name": "小叶（三角洲行动）",
+      "avatar": "https://p2-pro.a.yximgs.com/uhead/AB/2026/07/04/16/BMjAyNjA3MDQxNjI0MjFfNTU4NDk4MzY0M18xX2hkMjU4XzE0Nw==_s.jpg",
+      "sections": [
+        "cn",
+        "p-kuaishou"
+      ]
+    },
+    {
+      "platform": "kuaishou",
+      "roomId": "Y7926123",
+      "name": "齐夏（团员电竞）",
+      "avatar": "https://p5-pro.a.yximgs.com/uhead/AB/2026/06/06/06/BMjAyNjA2MDYwNjI1MzhfMTcxNzQ3MDcxNV8xX2hkMzY4XzExMQ==_s.jpg",
+      "sections": [
+        "cn",
+        "p-kuaishou"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "skipnho",
+      "name": "SkipNhO",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/269e2683-5533-42a3-a64c-403828c08be1-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "stars",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "gingy",
+      "name": "Gingy",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/28727dba-1142-4d2c-90c7-0c28b1521094-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "stars",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "terasite",
+      "name": "Terasite",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/03e45847-1fcf-4ada-a0bb-4f3ab3b0335e-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "siingsong",
+      "name": "siingsong",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b925b464-0f22-4ee8-ae5c-e510743f2f8e-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "riversthepotato",
+      "name": "RiversThePotato",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5f2b18d8-0c79-4c85-a2db-48b57a65efdc-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "immadness",
+      "name": "ImMadness",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/04923cbd-3693-497b-9d1e-7e08380696b7-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "thejdevise",
+      "name": "TheJDevise",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/0293a5fe-28e9-4aee-a717-dc876b0faada-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "da0aaa",
+      "name": "我是振宇",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/d52d4dc9-a418-421c-8fea-43efc7f3f0d9-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "forever_lonely878",
+      "name": "道心",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/71bc28df-43c8-44cd-a08f-4aabf11bc4cd-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "leissik",
+      "name": "Leissik",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/7cf15799-0793-4b17-82e9-1b62399c69f2-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    }
+  ]
+}

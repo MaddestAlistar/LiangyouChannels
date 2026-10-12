@@ -1,0 +1,1924 @@
+{
+  "schemaVersion": 1,
+  "name": "带货主播单",
+  "description": "直播带货主播合集：抖音带货达人与品牌直播间（取自蝉妈妈 2026 第 40 周抖音带货达人榜前 150 名，逐一用抖音接口核对直播间），加上抖音生活分区正在带货的直播间、B站购物分区主播与京东采销直播间。",
+  "author": {
+    "name": "小红书·良哥看未来"
+  },
+  "updatedAt": "2026-10-11",
+  "sections": [
+    {
+      "id": "douyin",
+      "name": "抖音带货达人"
+    },
+    {
+      "id": "brand",
+      "name": "抖音品牌直播间"
+    },
+    {
+      "id": "bili",
+      "name": "B站购物"
+    },
+    {
+      "id": "jd",
+      "name": "京东采销"
+    }
+  ],
+  "entries": [
+    {
+      "platform": "douyin",
+      "roomId": "JGPYZBJ",
+      "name": "交个朋友直播间",
+      "sections": [
+        "douyin"
+      ],
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_f446b7451ce31af830724e04e10d7cb2.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "19733746",
+      "name": "朱瓜瓜",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/mosaic-legacy_7be800178b5fd7d2aad3.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "80017709309",
+      "name": "东方甄选",
+      "sections": [
+        "douyin"
+      ],
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_ee06287c378b803c3ce54e33f5b9cfd2.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "AresCheng",
+      "name": "广东夫妇",
+      "sections": [
+        "douyin"
+      ],
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_5d7932d234c9539030aeef6c4a38f1f1.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "jianailiang2019",
+      "name": "贾乃亮",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_e70b8b6648782c389dc8ae7bb895bf7e.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "liuyuanyuan1991",
+      "name": "刘媛媛·媛之有物",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_b8f61310c899f2d1f4fa5f0cd25963e0.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "56697889278",
+      "name": "与辉同行",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_ddf8fc7092c454daf3810f9a645b1522.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "lluo9527",
+      "name": "洛哥AP",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_35f3cc6a91824945a913d35bfa248d21.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "M5181718",
+      "name": "老郑美伦美玉珠宝",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_a23abb5f11e5877fec0e88b5b9c1218f.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "LiuDingDang",
+      "name": "刘叮当🔔轻奢女包",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_a038317fdf9f7abb6e65dfce4fb58a05.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "87182029500",
+      "name": "沐光而行(罗宝）",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_47aa82ca6fc5f3cf452f892a513579e7.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "83033400459",
+      "name": "兰知春序",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_ed95f61b46bd049e9e146b3b35a09c63.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "pobingyizhan",
+      "name": "蔡磊破冰驿站",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_fab5747803ed89eb9bbbe488c2d7c4dd.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "wa101",
+      "name": "小小101❤️",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/mosaic-legacy_1b5f700020bf6b0a2d3f2.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "27639475082",
+      "name": "领丰金严选",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_7280bbfa799d1b08f8cdf21451da55b9.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "zuojiawudi",
+      "name": "左家皮具",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_4b9bebbee55b866ae87397619e7771b4.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "fino1122",
+      "name": "老杨的私服",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_eb8cf5e1a56cd2be2d9fc58a987e7c29.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "76689663282",
+      "name": "善良的小帅",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_d7ffb6af5fb504fd32765c137dfc0754.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "86302008229",
+      "name": "后陡门向前冲",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/douyin-user-private-image_1836651550349012_2fd2dcaac287eda6f06dd4ae9dfc64ddc60a7c00a04d85a048bcda4a7ff279b3.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "64184136276",
+      "name": "RENATHING",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_9d0e161850c6677584ca94bd1954451b.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "577894592",
+      "name": "希娜💗",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_ff528771fac656370967a6b77f982c8c.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "huanjielel",
+      "name": "欢姐 0220",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_d9137a234fb2d38ea01e8cbeca51aaf9.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "107603ZH",
+      "name": "阿朱💋（金朱传媒）228",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_oEA2GIAjIYcAZBDeQIDAjILAeBoZrCe147AWfL.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "1991869870",
+      "name": "四火姐姐",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_639fc7e8a470f299491d2347e955a895.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "chensanfeigg31",
+      "name": "陈三废姐弟",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_3d41c211a081d48da78b5cfca4db4759.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "longjie7788",
+      "name": "龙姐源头工厂10月15号 7:30开播",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_ddf451c85c48d4fd13a77fc013bd90a7.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "75555582883",
+      "name": "Apple产品思亿数码",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_155f998a27320fbf76776871e3b5b5ae.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "AP.huangling",
+      "name": "AP.黄龄",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_b22b145fe740711e7136e215813eb3cd.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "SCH19901993",
+      "name": "彩虹夫妇（12号万益蓝益生菌有货啦！）",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_92541ee90adf0e5c926dc6b2e763b76e.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "dhz880088",
+      "name": "大胡子茶器阿星",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_b45cb597cdb7ef2c302f824c1148e1f7.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "MS1407",
+      "name": "森与知己",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_d07cb017056b4df38430610a502d670d.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "mingsir17177",
+      "name": "铭舍｜陈一铭",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_c90fa70c22da9c5aab28dc6a2faabc56.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "Thursdaylucky",
+      "name": "星期四数码",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/mosaic-legacy_31b7c0002ff2d1e459150.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "xbzb777",
+      "name": "小北珠宝",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_oobhEenW7BBpdIAKpCDEffEA3AZA8MAdBMb1FA.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "PK277PK",
+      "name": "田老丝儿·田甜",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_07ffcd957d67fa1f8752b331505f1c9e.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "1706638111",
+      "name": "小明正能量（今晚5点直播）",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_b74154326473c6e36d641a595216dba6.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "107957000",
+      "name": "浩哥Asher",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_a07ad366ce3c25a14651641b4bc3224e.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "chaibiyun",
+      "name": "柴碧云",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_850e03d17d1012e8811effa58165b1c3.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "120327357",
+      "name": "老谭私服",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_07f232c92249fb5a19965efdfb0276da.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "xiaoniu_245",
+      "name": "豆豆的兜兜",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_5d58d2376c7e228d6c16af38462462ad.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "886941560",
+      "name": "阿忠推荐",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_6161f19685a2c81b4b5f3e6e07b2a3d5.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "gezi6668888",
+      "name": "张白鸽🕊️",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_564966934daabe8eaf2afd9e5c972073.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "AP.huohuo",
+      "name": "AP.宋火火",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_8d4bbc61d68e60fd138c2789814cae08.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "Guagualala",
+      "name": "瓜瓜 ART ME 15号超级大新",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_1cfeef0b8f453626fed96e9baf114743.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "Senlinbei0707",
+      "name": "森林北🦌",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_9337f4717f94b2952b74653e02f8f747.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "67362372833",
+      "name": "喵际黄金珠宝坊",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_7e8139a60e67444ede38a4798350dcb9.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "Z.blues",
+      "name": "外贸家z.blues",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_5d280143c01e0b77a39173a19b9ba5bf.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "24057179698",
+      "name": "种花小花匠（花花）",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_086895c004a418b55a6bd2d0d656baf2.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "76272727404",
+      "name": "张二狗珠宝",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_0d4d261c26487b893b14637d51c08731.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "duoduo2016aa",
+      "name": "多多在美国💜",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_2738ab6c81b8d76302ce8e3ea0edbe94.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "1444985458",
+      "name": "阿雅",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_406e38efdbb7e50187f9bb58830f9037.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "38327610744",
+      "name": "领丰金黄金甄选",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_20ec5eba0840ebe23a6a33a4d62d4897.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "dbrijgkadirbd",
+      "name": "KEKE LUXE服饰定制",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-c9aec8xkvj_e9df4f3eb685443685896c5301644d89.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "MRHALA",
+      "name": "MRHALA",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_b101811dbb00690212907670c7fa664c.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "95144913203",
+      "name": "东方甄选美丽生活",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_75ce70f2b2b718ce824429a8a0ecac5e.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "Hanxue0111",
+      "name": "韩雪cecilia",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/mosaic-legacy_2d6c100046bd1172e1578.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "2133179497",
+      "name": "-临禧",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c000-ce_oYJJAZVg4gOGfExjgn8MEeIZLBA7JAPdf8ZWAQ.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "74555349649",
+      "name": "央视网文旅",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/douyin-user-private-image_90624368318688_b0014e4522130dbd53b0184a4fa94648ce21895f400ff492db4d8097160823eb.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "Lovemimius",
+      "name": "Lovemimius游鹿鹿",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/mosaic-legacy_20acb0004760d0cedcdcd.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "60595152440",
+      "name": "喵际黄金优选",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_1a511f7c7dcdd03278ad804c69016e65.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "66685918373",
+      "name": "玉美人菲菲",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_os2I7LCjA3ReFPo22qaLAe0RpAIDQA7NGffRIA.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "meelychy789",
+      "name": "我是晴天",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_499e20cc32635f9ffbf1b8f2602625b6.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "Xiaosha666",
+      "name": "小小莎老师11号小韩明星verish内衣",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_9f95b33f796a04a90ca23246b383bac5.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "dongxianshengzb",
+      "name": "董先生10月11号9点德国双心年度破价！",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_bfe8b8551c35036f4183abdd07e6da6a.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "LDINGDONG",
+      "name": "刘叮咚🔔轻奢女鞋",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_b21d59fccc508a79ab1bc8055a0b9986.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "MM11270202",
+      "name": "美美护肤彩妆💄(清货号）",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_eda62997118fd7bcbfdaad4651830551.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "65151068867",
+      "name": "佛山品正家居（老板娘直播号）",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_c1bb036f5424541472f519ea987c718a.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "51637302760",
+      "name": "东方甄选生鲜",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_os2LfD7NBePsMhTHGd5toQAtBcAfgAEDLHAGaA.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "79384842369",
+      "name": "米兰兄弟 女包",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c000-ce_o8BnDAhPFcl2BwAEcAiiMA9ZhiI8PJzAcAM6p.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "qiqizhengpin",
+      "name": "117幺幺七",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_720ad928a0830df1218e05a921982c4e.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "love_Peaches11",
+      "name": "陈什么陈 10.13皮草节",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_a773b37c1dcc98b16820e57b2f71310e.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "46735940863",
+      "name": "轮回（129）",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_57e2c6862ca373154e77131835ce379e.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "Zzzzzzrr112200",
+      "name": "蓉蓉 WE",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_6651461f87725d72047d2d7544089ce0.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "42644753799",
+      "name": "荣耀旗舰手机直播间",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_b65b52543184874d4b942040fc2e121f.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "LF117788",
+      "name": "刘芳老师",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_3bd9e5fe037807bb9f053112bdb59eec.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "SRGQ",
+      "name": "诗妮歌 品牌服饰",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_139e0a703977fbb61a62905a31f86a2e.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "beili881",
+      "name": "老贝Bayberyl",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_a49120dc9486237629b5fa3ce49cc00b.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "22601555751",
+      "name": "留器茶斋",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_c85348d88722e387ef45f1f13da2e1c1.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "mj8818858",
+      "name": "杭州四季青服装批发市场小封家",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_782cd6a62ab994dfc8b9c3900f0ee678.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "yinanyinan__wang",
+      "name": "王一楠",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/mosaic-legacy_318fa000b0c20f8216ca7.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "34167433739",
+      "name": "玉经纶珠宝精选",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_dc91b4d42daadefb97236a21eaa10ba8.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "dyrl0jpfvk3p",
+      "name": "HR赫莲娜",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_8537dd99ed48b346ad43b642d32c75ed.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "MEIYANG2019",
+      "name": "美洋MEIYANG",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_a2abef75827eaeb0be8d8edda3b3dc13.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "guoyue999999",
+      "name": "国岳14号草本初色花园润护收腹裤秋冬首发",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_4620def2ff34daa745ba8e23c98ab1b5.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "93688285630",
+      "name": "飞哥源头家具工厂",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_oknXi5bXARSWleAAVedCALC4DEQAyImg9ZAAb7.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "628027715",
+      "name": "雅诗兰黛",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_6c37b4f7df4894b4e538c91f43a8e1b3.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "1894020348",
+      "name": "阿文鉴机",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_140acc111e36bb03ea28e71b3a363aab.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "1939395880",
+      "name": "猫哥评测手机甄选",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_bf5b7ff78c93ae1c0888537f41d65887.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "90804000904",
+      "name": "秦秦在美国",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_e4a300f8a8e43401d4b5a521681ad8ce.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "36347136043",
+      "name": "Coach蔻驰奥莱",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_e396e431b6fd4cceb69fe602f6f09811.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "42479476145",
+      "name": "手机数码专场直播间",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_oII78FQlGAftARGPEAe8LeAGApIGkAqLBTJUOB.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "gymgirls",
+      "name": "淼淼(早6点直播)",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_b6e9da7e68261170403b476a7b10c289.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "62299357401",
+      "name": "涵果优选",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_oI3V5yv7AAA3A72IAILsNiGG9efD5f4IBBEE3Q.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "wlb5666",
+      "name": "魏老板私服-周六早7:50直播",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_cfc12954e2dfc896db637f0a87d67983.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "32265763366",
+      "name": "老三珠宝康康优选",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_7303ec4715de482978613d8168d77cf4.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "56892962448",
+      "name": "Fonani原创服饰",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_6f43c6a80542d612f2a158772be86206.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "Atong188",
+      "name": "阿彤女装",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_463c0d4f7978e3c370bcfa4b98751f8e.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "dyyuefu",
+      "name": "抖音月付",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_7a4b4d6efc1aaedd563410596874e285.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "dadaheixiong",
+      "name": "搭搭",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_65e2102a5d8598955ecd96a491843e6f.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "38528421809",
+      "name": "水贝巧玲老板娘",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_c63e3fb02f877cfc20c4d0a24883480b.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "PPMM88",
+      "name": "娘娘NNS",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_8227d9aba302c5b55fbc7c3c737677ef.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "26195023105",
+      "name": "弘连美物",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c000-ce_osQqXADzIECEAC35fAAwQyAF0te8n8OjPGq9o2.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "kaweiduo",
+      "name": "卡唯朵扬姐-草本祛斑",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_a5c12d6a2afe7639e7a76aa98b33e316.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "79581011998",
+      "name": "水贝阿祖",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_22ffa67d29836fab844d52429346d727.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "jyl52665555",
+      "name": "杨红霞健康密码",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c000-ce_okVrpiAt020avBABCIkBATOYYgiAADHMq3ZPE.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "yushuqin001",
+      "name": "老琴私服（专注时尚穿搭）",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_e9c6c97946155ab46c2e126a7a482698.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "mmq2022",
+      "name": "一秋妈（10月13麦麦秋冬款大上新）",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_9b96eb5290800ae36f9983515f68ccea.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "nishuihan163",
+      "name": "网易逆水寒",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-23auat310x_4944ebf6f11d4cefb393fc1c135d0b76.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "73995415204",
+      "name": "老王黄金（深圳水贝黄金批发）",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_2f15f6ae219d9be2e80a314465b480d7.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "chensisi0614",
+      "name": "陈思斯",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_ae91bc5b4485d4b539c1287408ab6eb8.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "36252417723",
+      "name": "阿康新农人",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_2160f6eabbb4529979ad04fe67a1e395.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "659352065",
+      "name": "小柴有米盐",
+      "sections": [
+        "douyin"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_177ad07ae16727674a20a0b4a102c490.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "appleqcsm",
+      "name": "Apple产品青橙数码旗舰店",
+      "sections": [
+        "brand"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_e1eddda279ab608600da775083d5e7c7.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "MEMSKSWH",
+      "name": "Apple产品锦里数码旗舰店",
+      "sections": [
+        "brand"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c000-ce_ooAfDFPpA819bDreISMEGiAWC7EAnoDewAEcE8.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "applentyt",
+      "name": "Apple产品远通旗舰店",
+      "sections": [
+        "brand"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_0b529398936a00246e40d43baa1512bf.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "92086381862",
+      "name": "金川黄金官方旗舰店",
+      "sections": [
+        "brand"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_fc1e5a53ec78f3263f5f90fa9db5e37a.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "lingfengjewelry",
+      "name": "领丰金官方旗舰店",
+      "sections": [
+        "brand"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_bf6f037f1840381a75f1cfbd8193bb27.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "iQOO2233",
+      "name": "iQOO官方旗舰店",
+      "sections": [
+        "brand"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_d9f9afbba4404bafb2694d3d83604ee8.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "93660836161",
+      "name": "Apple产品思亿数码旗舰店",
+      "sections": [
+        "brand"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_oIAmAbsVnBBKeAZBHzDzeLIgcEaQ2EWAR47ecA.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "HWZD",
+      "name": "华为终端",
+      "sections": [
+        "brand"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_e6a4232118b74ae79fa2c16237d78468.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "camel6688",
+      "name": "骆驼官方旗舰店",
+      "sections": [
+        "brand"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_6f32e87fe85a822af23d474a8e86ac17.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "69752593730",
+      "name": "Apple授权专营店-国家补贴",
+      "sections": [
+        "brand"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_af2d4ee3379ad71ef9e669992461a9fb.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "iQOOgf",
+      "name": "iQOO官方自营直播间",
+      "sections": [
+        "brand"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_f7dbd6150e7e795dfdf57291e21ef083.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "39112109432",
+      "name": "厚德金官方旗舰店",
+      "sections": [
+        "brand"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_oQwuAAuheCqNjkAsEgAwaIAFEAGzVKzXM7nAfC.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "589529553",
+      "name": "TWOI Design Lab旗舰店",
+      "sections": [
+        "brand"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_29190330ab79d0f262a422b040f15fea.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "honor_",
+      "name": "荣耀手机",
+      "sections": [
+        "brand"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_ow89GTyIsbQIAiOtDmsqPOPijraBB6aAAhAEA.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "2023__iQOO",
+      "name": "iQOO手机",
+      "sections": [
+        "brand"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_oAbpHBECiCAeeoKEAIVASAAQ9R1gUlTjnA9IDC.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "VMALL_HWSC",
+      "name": "华为商城",
+      "sections": [
+        "brand"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_oQf4A9vCJqjeIgEDP7TFTAhDCXA8VQ9p94CAAA.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "40381408240",
+      "name": "嘉统官方旗舰店",
+      "sections": [
+        "brand"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_o0FFWACfEC9NAMAiJf2pxIVLpyAU5DIMMAEgAA.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "HONOR_520",
+      "name": "荣耀官方旗舰店",
+      "sections": [
+        "brand"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_okUwGK2egA3oEnZBQJAGeBAbA7LshGeXPAVGrI.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "25111613354",
+      "name": "adidas运动休闲旗舰店",
+      "sections": [
+        "brand"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_bb77cf3c508f81d58fb8ea4efe9f4a13.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "35669063566",
+      "name": "宫藏黄金旗舰店",
+      "sections": [
+        "brand"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_87a1ca157a32cad223708c2536a5b34f.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "CTFZCS",
+      "name": "周大福官方旗舰店",
+      "sections": [
+        "brand"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_24d8c46a36b09f45270f4fc382df4522.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "lululemon_China",
+      "name": "lululemon",
+      "sections": [
+        "brand"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_c1dfdc57930accaaaff9126897a78442.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "XH869311",
+      "name": "霞湖世家官方旗舰店",
+      "sections": [
+        "brand"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_79c14144fd3b4a08846c4258536776ff.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "29718046765",
+      "name": "泡泡玛特官方旗舰店",
+      "sections": [
+        "brand"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-ke512zj2cu_fc51ebe4fc3e485eb822ffa1c510a341.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "94059597310",
+      "name": "Kola Kola服饰旗舰店",
+      "sections": [
+        "brand"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_oQIXQABA7b0VAjGQdLBheUC5UxeBJIAAaA2EEe.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "adidasFlagship",
+      "name": "adidas官方旗舰店",
+      "sections": [
+        "brand"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_850a938e1136e30e38a805668308a6fd.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "58527959436",
+      "name": "adidas潮流运动旗舰店",
+      "sections": [
+        "brand"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_f99354c03c92db9f80ccfffa15932c56.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "MSBEAST",
+      "name": "MSBEAST野兽小姐官方旗舰店",
+      "sections": [
+        "brand"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_fe4e20588bb69a29fb6995b0c375b81e.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "yaduoxingqiu001",
+      "name": "亚朵星球官方旗舰店",
+      "sections": [
+        "brand"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_2d47bd228913e9c150160d6cead8d6ad.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "74331058180",
+      "name": "金川黄金投资金官方旗舰店甄选",
+      "sections": [
+        "brand"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_83bc9308b56717b728d56b52c6dfba69.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "1621432134",
+      "name": "JNBY官方旗舰店",
+      "sections": [
+        "brand"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_25278e82a45b9e858af83bda64bc6268.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "46205691950",
+      "name": "永和豆浆冲饮旗舰店",
+      "sections": [
+        "brand"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_ea502a12efe271f27eccdabb510fe273.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "90305642880",
+      "name": "公仔牌官方旗舰店",
+      "sections": [
+        "brand"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_oEAA74EgNIAiQiqSDFeo0dfbAUBHACAIPAnzlt.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "37560108210",
+      "name": "维多利亚的秘密官方旗舰店",
+      "sections": [
+        "brand"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_4dfb635f52361e777b4c4ad4b703f812.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "taranis100",
+      "name": "泰兰尼斯TARANIS儿童旗舰店",
+      "sections": [
+        "brand"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_06a1492c4d5364d080c3f3b6a2b698d6.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "64729443383",
+      "name": "苏泊尔烨拾专卖店-k2G洗地机",
+      "sections": [
+        "brand"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_2e4505534157ae9f242832357175a43c.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "52419733505",
+      "name": "COACH蔻驰海外旗舰店",
+      "sections": [
+        "brand"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_owGEEZCyAgAIIDeiAhiPNAtAd5yz7fMpsNdlRA.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "80811905746",
+      "name": "Gap官方旗舰店",
+      "sections": [
+        "brand"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_81db9c0a5c0217c0efff1965f03b041f.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "98402894358",
+      "name": "活力28衣物清洁旗舰店",
+      "sections": [
+        "brand"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_oQSdBfwbAiVCITaWIAzgiCvrEjebAA5XDAdAsy.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "ZHIZHI2022_",
+      "name": "致知官方旗舰店",
+      "sections": [
+        "brand"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_46dd278b0dc30b21089bb54f1faa5664.jpeg?from=3067671334"
+    },
+    {
+      "platform": "douyin",
+      "roomId": "MGSS0589",
+      "name": "MSBEAST野兽小姐潮流女装旗舰店",
+      "sections": [
+        "brand"
+      ],
+      "note": "蝉妈妈带货达人榜上榜",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_22b6f7e238cf97c0e6f05c7e67eed932.jpeg?from=3067671334"
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "24878470",
+      "name": "大嘴儿美食挠儿哥",
+      "avatar": "https://i1.hdslb.com/bfs/face/d3ede4b75bb3dddeb9ec445fd23a5d0f940bb71f.jpg",
+      "sections": [
+        "bili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1843684489",
+      "name": "洱盏堂",
+      "avatar": "https://i2.hdslb.com/bfs/face/cc3d71d07d8e9a0d0fb705518137cfbd8b2fd363.jpg",
+      "sections": [
+        "bili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "23202464",
+      "name": "Akko艾酷官方",
+      "avatar": "https://i1.hdslb.com/bfs/face/eda79e151a102135da821f4f1b7256741926ace6.jpg",
+      "sections": [
+        "bili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1045421",
+      "name": "赵清歌GEGE",
+      "avatar": "https://i2.hdslb.com/bfs/face/4a4f166f5cac7ed39897c3b979f4b6d3e00e4cde.jpg",
+      "sections": [
+        "bili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "21898920",
+      "name": "老疯杨",
+      "avatar": "https://i2.hdslb.com/bfs/face/85c6606eb2d70ea303b0b24912e1b57a85147e05.jpg",
+      "sections": [
+        "bili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "5055636",
+      "name": "哔哩哔哩会员购",
+      "avatar": "https://i2.hdslb.com/bfs/face/91db180a8175da648188d2b7d2f37f4fba548dad.jpg",
+      "sections": [
+        "bili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "23558742",
+      "name": "SERGEY谢尔盖",
+      "avatar": "https://i0.hdslb.com/bfs/face/3754fd49df9adce7b01039919a14bedcd6fdc39d.jpg",
+      "sections": [
+        "bili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "23756442",
+      "name": "老蒋根雕",
+      "avatar": "https://i2.hdslb.com/bfs/face/050fbf7b3faee427edc3efd482d69c64134c1317.jpg",
+      "sections": [
+        "bili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1809428433",
+      "name": "鬼谷子一翡翠",
+      "avatar": "https://i2.hdslb.com/bfs/face/f87fb8f656cf0f661fae49c5594ac4e7f723b4f8.jpg",
+      "sections": [
+        "bili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1824228096",
+      "name": "听风的蚕",
+      "avatar": "https://i2.hdslb.com/bfs/face/61a4bb385062abe013bbd08d749f6b91548551a3.jpg",
+      "sections": [
+        "bili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1866959192",
+      "name": "YY潮玩",
+      "avatar": "https://i0.hdslb.com/bfs/face/b0f9741f9b8f02cbf581fbc5216df6f8194bb055.jpg",
+      "sections": [
+        "bili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "21544607",
+      "name": "钻石林老五丶",
+      "avatar": "https://i2.hdslb.com/bfs/face/10d95c571cd65353acb58e96aa50f022523ab6de.jpg",
+      "sections": [
+        "bili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1838217601",
+      "name": "无尽藏西票神",
+      "avatar": "https://i0.hdslb.com/bfs/face/d934abcde8ab0141ed120eb2499f45ff5d053a41.jpg",
+      "sections": [
+        "bili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "31381032",
+      "name": "美玉出和田",
+      "avatar": "https://i2.hdslb.com/bfs/face/31df4cc895937ae5d489a5c69635a39094c863c4.jpg",
+      "sections": [
+        "bili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1819585011",
+      "name": "津沽老二老味花茶",
+      "avatar": "https://i2.hdslb.com/bfs/face/50f7592d95cbd4557ee575b7d10a9b0bf3211011.jpg",
+      "sections": [
+        "bili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1978200284",
+      "name": "PTCG六六拆卡社",
+      "avatar": "https://i1.hdslb.com/bfs/face/0e43c34e57ce83b6dd40d41e79674ee7f9ac05b2.jpg",
+      "sections": [
+        "bili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "4522620",
+      "name": "福饮沸别",
+      "avatar": "https://i2.hdslb.com/bfs/face/9afbffc620914a594206606b2bb14e2657f916ec.jpg",
+      "sections": [
+        "bili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1852632155",
+      "name": "红尘刻翡翠墨翠玉雕",
+      "avatar": "https://i0.hdslb.com/bfs/face/7da4822907073bf65c1745671433ad7cb4873102.jpg",
+      "sections": [
+        "bili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "24624923",
+      "name": "差生文具盒",
+      "avatar": "https://i1.hdslb.com/bfs/face/c85fe7a881a2e013c2898d9025df579da3fceb9b.jpg",
+      "sections": [
+        "bili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1880712",
+      "name": "吾昂王的模玩分享",
+      "avatar": "https://i2.hdslb.com/bfs/face/637f17b6900075f7e5324bd2b2095ae1f22bec9e.jpg",
+      "sections": [
+        "bili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1763577165",
+      "name": "屁桃爱拆卡",
+      "avatar": "https://i1.hdslb.com/bfs/face/62db01f59189ba972706b293af67354de948ab1b.jpg",
+      "sections": [
+        "bili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1804897317",
+      "name": "鬼鬼拆卡",
+      "avatar": "https://i1.hdslb.com/bfs/face/bd7a59b05341b0fd60107a86d03031bf4838a6b8.jpg",
+      "sections": [
+        "bili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1919958310",
+      "name": "贰贰酱原创设计",
+      "avatar": "https://i0.hdslb.com/bfs/face/98f69aa30251b85c20e8172dbb97ee6662cdd2ad.jpg",
+      "sections": [
+        "bili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "10617862",
+      "name": "中正评测",
+      "avatar": "https://i1.hdslb.com/bfs/face/ae2190dbef9e7ab741de4dedec96c12d35be959c.jpg",
+      "sections": [
+        "bili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1931160964",
+      "name": "JOJO的雕刻屋",
+      "avatar": "https://i1.hdslb.com/bfs/face/44a23113ae09751b677c0f9a5a2c7d7a800ffbb7.jpg",
+      "sections": [
+        "bili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1773208966",
+      "name": "ptcg锦鲤拆卡ovo",
+      "avatar": "https://i0.hdslb.com/bfs/face/22bcda84905a965ac035609c3925b513d7bfbe7f.jpg",
+      "sections": [
+        "bili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1757328091",
+      "name": "五月麻麻的小可爱们",
+      "avatar": "https://i1.hdslb.com/bfs/face/5213a19ab5fe2e92c60cd248307b4c5986fc66c5.jpg",
+      "sections": [
+        "bili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1773206924",
+      "name": "PTCG肉妮拆卡",
+      "avatar": "https://i1.hdslb.com/bfs/face/bc9bb72c58d02dd1b53b291032c17fef728eb464.jpg",
+      "sections": [
+        "bili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1940989135",
+      "name": "双子星荟翠",
+      "avatar": "https://i2.hdslb.com/bfs/face/ca714d98092a500575edde7ec415437417f253b5.jpg",
+      "sections": [
+        "bili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1881507081",
+      "name": "HoC纸牌屋",
+      "avatar": "https://i2.hdslb.com/bfs/face/f445ee01dad78fe61fcb06a2d4b7c5ef759ebd9a.jpg",
+      "sections": [
+        "bili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1838159373",
+      "name": "天天今天戴什么",
+      "avatar": "https://i2.hdslb.com/bfs/face/880d9b51362b36f3cad6fb4629789b3dd88a8e46.jpg",
+      "sections": [
+        "bili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1943675675",
+      "name": "天子收藏",
+      "avatar": "https://i2.hdslb.com/bfs/face/3584cf65de9bc8d2ed35644011ad0fc01ad71482.jpg",
+      "sections": [
+        "bili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "21654133",
+      "name": "元古工作室",
+      "avatar": "https://i0.hdslb.com/bfs/face/4a107bbe19aa2c1b04363389ac1146902e088457.jpg",
+      "sections": [
+        "bili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1822073996",
+      "name": "晨兮拆卡",
+      "avatar": "https://i0.hdslb.com/bfs/face/7d0a0cbd272e373b574857ae7d75f72595f466cc.jpg",
+      "sections": [
+        "bili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "24430035",
+      "name": "MRA-曹叔",
+      "avatar": "https://i0.hdslb.com/bfs/face/fca0090cd0884c389e3adf469e1ed0d04ee2a5d0.jpg",
+      "sections": [
+        "bili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1866951363",
+      "name": "卡尔威登官方旗舰店",
+      "avatar": "https://i0.hdslb.com/bfs/face/4db0e4b28be2f3bec73b171970a9735f6e207c0d.jpg",
+      "sections": [
+        "bili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1912487799",
+      "name": "潘潘拆卡",
+      "avatar": "https://i2.hdslb.com/bfs/face/3336f3f41ca48a0b84dabeb1bbeb11bac4d16a12.jpg",
+      "sections": [
+        "bili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "31329146",
+      "name": "三个损友友",
+      "avatar": "https://i1.hdslb.com/bfs/face/9e8e16e507f19496ba04630499d67b81477babb1.jpg",
+      "sections": [
+        "bili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1730073125",
+      "name": "回血强哥高端籽料",
+      "avatar": "https://i0.hdslb.com/bfs/face/c3fd029c86ad2eeee6063943db2a0f288fdc5ad9.jpg",
+      "sections": [
+        "bili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1896526210",
+      "name": "小玉米拆卡",
+      "avatar": "https://i2.hdslb.com/bfs/face/76b443e19729d354e013e9188c6e991c79ef22cb.jpg",
+      "sections": [
+        "bili"
+      ]
+    },
+    {
+      "platform": "jd",
+      "roomId": "22581995",
+      "name": "京东美妆采销",
+      "sections": [
+        "jd"
+      ]
+    }
+  ]
+}

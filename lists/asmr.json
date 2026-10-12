@@ -1,0 +1,1850 @@
+{
+  "schemaVersion": 1,
+  "name": "ASMR 助眠直播",
+  "description": "ASMR / 助眠 / 哄睡类主播：B站虚拟声优与电台分区的 3D 麦助眠主播、虎牙与斗鱼的知名助眠主播、Twitch ASMR 分区人气主播，以及 YouTube 头部 ASMR 频道。按 2026-10-11 各平台分区在线人气，并参考第三方 ASMR 主播整理站点补充不限开播状态的知名主播。",
+  "author": {
+    "name": "小红书·良哥看未来"
+  },
+  "updatedAt": "2026-10-11",
+  "sections": [
+    {
+      "id": "stars",
+      "name": "知名主播（不限开播状态）"
+    },
+    {
+      "id": "p-bilibili",
+      "name": "B站"
+    },
+    {
+      "id": "p-douyin",
+      "name": "抖音"
+    },
+    {
+      "id": "p-huya",
+      "name": "虎牙"
+    },
+    {
+      "id": "p-douyu",
+      "name": "斗鱼"
+    },
+    {
+      "id": "p-twitch",
+      "name": "Twitch"
+    },
+    {
+      "id": "p-youtube",
+      "name": "YouTube"
+    }
+  ],
+  "entries": [
+    {
+      "platform": "douyin",
+      "roomId": "XXiaoxue_",
+      "name": "小雪As（助眠声控）",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_bba176641abff7b99667782427b8e7ec.jpeg?from=3067671334",
+      "sections": [
+        "stars",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "soul68235",
+      "name": "海海呀（助眠解压ASMR）",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_64fd2492f6fbbc43387d212da0002088.jpeg?from=3067671334",
+      "sections": [
+        "stars",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "481359872721",
+      "name": "小柔困困",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_4029dc31459be15c8ce1c418c7d20605.jpeg?from=3067671334",
+      "sections": [
+        "stars",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "in0731",
+      "name": "耳边蓝心",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_8c8cc3b9b0131d24a501b299bdf4f427.jpeg?from=3067671334",
+      "sections": [
+        "stars",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "517137458562",
+      "name": "量子奶泡兽（asmr助眠",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_6b221c9283bcc58e80ad4450222a88cc.jpeg?from=3067671334",
+      "sections": [
+        "stars",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "JMangoOvO",
+      "name": "芒果小布丁ASMR",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_0711462679d8d1b22346c1de4fb7eec2.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "704100854468",
+      "name": "小初收到",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_66a973981c81c34b89d4a4e37b10d712.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "ying.12138_",
+      "name": "小颖（轻语助眠）",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_32183adefeb99fd2d484d2065ffb04f7.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "Xixii77",
+      "name": "小xi（助眠版）",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_2e596ad9666775d0d35e246a672c223b.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "1605618114",
+      "name": "秋秋🍼声控助眠",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_bfdce21e5adbd877acbe8f6b470c68fb.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "lxc999888.",
+      "name": "一只奶油💤助眠哄睡",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_d7cc690def76115b436e5faa87fb3a55.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "76268719105",
+      "name": "牛牛捏捏在助眠",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_7125320ccd955744a0c4a908738679f1.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "SXSG668",
+      "name": "助眠圆圆",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_c8e51c23cef4455c937426a5d29c37e1.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "12346646..",
+      "name": "好h好（助眠）",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_osQDqUA0RmgKAC4JyBHAnHAAECNehTAI5gfF9Q.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "dyben1wy4rh2",
+      "name": "莓猫饼（助眠）",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_00e3739bb9357dc8cd5b36c7849cab4f.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "703545583247",
+      "name": "混的滢/. ¹⁷³助眠",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_e9e1723edb17ababf78ba6340d269aa4.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "483986939128",
+      "name": "软喵喵✨声控助眠",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_3c7d85088e9c9ac7ca66020778c54f6e.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "66098214358",
+      "name": "小猫坚果果",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_ed4e95f87d849df6cd3ec449158051fb.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "348147797596",
+      "name": "是喵喵吖🐱10.24生日庆（声控助眠）",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_ef257d5d9096d1fff83c757b96ff405c.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "58591399298",
+      "name": "白榆（轻语助眠）",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_owhEENs8QzAiovADAtfGA9kADApgvC1fIqNb9h.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "86562050354",
+      "name": "小栗泡饭助眠",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_7f01eb2ff44783ec03d57e08d5dbd093.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "58024143515",
+      "name": "三瓶酱油 | 轻语助眠",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_ae842327547adb89edf1ccbea903b9e1.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "81765014440",
+      "name": "露露（轻语助眠）",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_c4b51582b5e7e89e6e63094396f4e86e.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "80186075977",
+      "name": "佳妮Nia_（声控助眠）",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_988ffdc80dc7fa0d05d99c23ac1a3054.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "88565848571",
+      "name": "麦穗（助眠版）",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_0d9d2226c142be12a7235198ff39e5eb.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "0220ao",
+      "name": "泠欢儿（助眠）",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_c036ab582a64cdce03f83c8b8cc314ab.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "iqen1113",
+      "name": "黑涩会美眉（助眠版）",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_81b9c46ee30a1b0aa0bfe88fe454fb90.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "Maren134689",
+      "name": "小尾巴-ASMR",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_226735b7833f227b8fd6369f36e3c532.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "yuyu_ava",
+      "name": "鱼夹钱（助眠版）",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_b9436a84114675b1f05f7205737f6950.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "Paofufu2333",
+      "name": "泡芙（ASMR助眠）",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_331db54345538672405caf816df70de6.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "ZQ999009",
+      "name": "百香果声控助眠",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_a11c428dd78ca151727ec4b21958544c.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "LQ1314159520",
+      "name": "百香果，助眠",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_053ac8eb324eb0ea43e91c094a49a782.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "60020245661",
+      "name": "小柔（轻语助眠）",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_e01c2550b3086d0a08419ef5cb96e5ca.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "zc04.",
+      "name": "冰70（助眠）",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_c098cf2eaa8562ed24a0cc4f95577ce5.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "575264385",
+      "name": "捣蛋猫(声控助眠)",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_6a9fd6053abc522d53f1a32458a56d2f.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "yingwangigi",
+      "name": "樱晚GiGi",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_73134232762a3e2c2cdbd6ef4649cd2b.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "59789950220",
+      "name": "助眠天才（图图）",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_91449b99610e13250ef752b4ae481366.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "44631756647",
+      "name": "烤饼（声控助眠）",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_9660b309a2fb95c0927576bb0a485313.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "32965125260",
+      "name": "眠眠💤声控助眠",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_4b97b104134bea21fdd0787080861bb5.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "315760328166",
+      "name": "天才胃（ASMR）",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c000-ce_oozIfK9gEDyA6nJByaFAwXQE9A23Aw9fAACpAO.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "72081980190",
+      "name": "灵儿ASMR",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c000-ce_ooEbIOQMAf8JiePA9TPwBIIQsAXYz7AMUDFIeg.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "68207520110",
+      "name": "半勺图图（轻语助眠Asmr）",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_40826b39568e993dbb03fe4b6b88563c.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "cx330_._11",
+      "name": "小新新新新",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_c2af537bfb7c1149cafa7efe8730bcd0.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "Willyo3owonka",
+      "name": "揪揪兔🐰",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c000-ce_oIfw419AEACEAfwg2vDDnpIruEAKgY9FGFYACh.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "38897544493",
+      "name": "小源困了=_=",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_osEANi05qCANAGBOIfIEADAgiISSx5zpmDVAet.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "37665379",
+      "name": "璐溪儿【声控助眠】",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_6718a748c53b71f1e0d29467e3104c11.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "530460076211",
+      "name": "柚柚子-助眠",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_oE8IpgaKAT3BCiiPgnEAp27BCwgwPpEzAIAAO.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "30456236087",
+      "name": "千亿亿（轻语助眠）",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_00b41a9ec4894a6310c13e046e226cc7.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "632286539619",
+      "name": "暖暖不困（轻语助眠）",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_40add667d14cc5112b55711e39fd6faa.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "231079447040",
+      "name": "速度给你邦邦两拳",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_1216a292d791f07316a5a19f16a7b3e1.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "583973294284",
+      "name": "忙碌小蜜蜂（助眠版）",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/douyin-user-image-file_6fb111aa8cb32b96de3382472b5e7390.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "946476562296",
+      "name": "羊咩咩丫🐑（ASMR助眠）",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/douyin-user-image-file_5db548146b40f28229103827d4b827a1.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "273311441309",
+      "name": "鸣心",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_6e02d7877e9bc9d1287024e6ffc33618.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "22778916982",
+      "name": "可爱椒椒（助眠版）",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/douyin-user-image-file_dcd7a3caea1973a55cef531f229e182b.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "MY663106",
+      "name": "沈梦逸o",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_5626e35ab25a8d4f68d2dd7d8f671b9c.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "146881368409",
+      "name": "沐沐助眠（asmr）",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c000-ce_o809AbBTnOMwhA3ACIvAIJhUTYplEAsiPia6D.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "68203574230",
+      "name": "诗诗子（助眠版）",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_f2d6035ca198c1dca892df164e316d00.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "79230748694",
+      "name": "丸子（助眠版）",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_637f0a6a9ec851b61756de6996f8bf23.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "65587775155",
+      "name": "帕尼尼🍔Asmr助眠",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_c8a8f18565c9ab0185ba7e46631c69ed.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "42985433687",
+      "name": "姜姜糖助眠",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_f0a07e08ba659133bb620f2b47ab880d.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "24895602967",
+      "name": "恋宝（助眠版）",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_8a6536b140d58aae99cd0052023317f3.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "810339218646",
+      "name": "圆圆困了🥱（助眠版）",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_c5197dbe0dbfcba1f3e1b6a4f5977f28.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "414985742373",
+      "name": "蚕宝宝(声控助眠）",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_okspS2DAAAAmA9MGgEFejkCDEfc1BMpEAACCOI.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "20496.l",
+      "name": "存玉小青椒 轻语哄睡🌙",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_965b075f255bf18301caed4be44775c8.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "80873313547",
+      "name": "兔子牙 (助眠🐰）",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_f8f956e299b0de1c34d7a96a4e4dcc24.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "31257549548",
+      "name": "Oni.在助眠（10.13🎂）",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_7213a7a60d3343a4cb53e28ba68bad95.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "td.zhumian",
+      "name": "土豆助眠🥔",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_a4a10daaf51c89a6b0dfd65cd3431251.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "517615616844",
+      "name": "昕昕是个软妹",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_47f5df2b740950915ed6d205ceb99423.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "281537467699",
+      "name": "香香（ASMR助眠）",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_244e2cec1393949f39cb64de63b0bd82.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "42772720474",
+      "name": "酒酿圆子（无人声助眠）",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_adc70da565ee6f80d261f244f6d0c862.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "74819609967",
+      "name": "吱吱煮面（轻语助眠）",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c000-ce_okiTYAh1PAvOETBAixaXBe6CoO6fI7JAAypwEB.jpeg?from=3067671334",
+      "sections": [
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyu",
+      "roomId": "5092355",
+      "name": "二呆啾",
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202506/3e8cc86c703249e49b70ab29ec103220_big.jpg",
+      "sections": [
+        "stars",
+        "p-douyu"
+      ]
+    },
+    {
+      "platform": "douyu",
+      "roomId": "3276456",
+      "name": "贝拉小姐姐",
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202208/7e908a17ced54f0a9e4eea6fd543500b_big.jpg",
+      "sections": [
+        "stars",
+        "p-douyu"
+      ]
+    },
+    {
+      "platform": "douyu",
+      "roomId": "9636697",
+      "name": "电音狗子",
+      "sections": [
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202104/a766ccce7bb9466ebc58ac6eadc11ee5_big.jpg"
+    },
+    {
+      "platform": "huya",
+      "roomId": "26892031",
+      "name": "乐听、莉莉安",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1072/c3/f9be8212f9c191dd80d988a99e77b0_180_135.jpg?1649959487",
+      "sections": [
+        "stars",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "127693",
+      "name": "慕雪drrr",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1058/47/493baf1eaf1a8dfe04c9508543d233_180_135.jpg?1678259602",
+      "sections": [
+        "stars",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "12565767",
+      "name": "庄暖晨2",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1048/13/e17d4a7b44a22a29cd48aa9d883970_180_135.jpg?1645915897",
+      "sections": [
+        "stars",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "26546446",
+      "name": "鲤鲤子v",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1007/80/b82cb1012d0eab796c93039130813c_180_135.jpg?1707134040",
+      "sections": [
+        "stars",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "691349",
+      "name": "温舒蕾",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1042/88/0051a293c991cb6f021d57d3f15850_180_135.jpg?1758324918",
+      "sections": [
+        "stars",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "222624",
+      "name": "可爱的埋埋",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1099/47/a4cbbc6fce82bd5e696060f34e6dac_180_135.jpg?1632403907",
+      "sections": [
+        "stars",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "415355",
+      "name": "深情默指导",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1026/67/fb386bded71910f1dfec349ae82ec4_180_135.jpg?1677095414",
+      "sections": [
+        "stars",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "238767",
+      "name": "冷水先森123",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1048/34/ac9b4c38fa56c579f5743313735422_180_135.jpg?1680966391",
+      "sections": [
+        "stars",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "253896",
+      "name": "夏乔恩Q-Q",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1056/b9/04d543c5673b197f3e6cf3df236c63_180_135.jpg?1600930442",
+      "sections": [
+        "stars",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "666323",
+      "name": "不染【Ran】",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1071/34/74cd3de9d244f04838c891a2aff87a_180_135.jpg?1749173185",
+      "sections": [
+        "stars",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "52719",
+      "name": "阿稀稀ovo",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1026/44/cb42e00eeaa7a497097d5f7d577a9c_180_135.jpg?1773173438",
+      "sections": [
+        "stars",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "29374996",
+      "name": "视觉-兔栗",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1042/81/3d94eb94a8ca2548151e6f3d9ff18c_180_135.jpg?1790429359",
+      "sections": [
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "502594",
+      "name": "兔儿药药",
+      "avatar": "https://i2.hdslb.com/bfs/face/2aea0b23d70983d6bcbd1f8f879b7e4d65f0e335.jpg",
+      "sections": [
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1790624857",
+      "name": "神崎宁宁Nini",
+      "avatar": "https://i0.hdslb.com/bfs/face/9e0d2933812ca204e53e58828807920f1c69d509.jpg",
+      "sections": [
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1887154790",
+      "name": "枕枕眠Hanon",
+      "avatar": "https://i0.hdslb.com/bfs/face/18d0b52b9672e84ec418b4dc6ae467113b926d42.jpg",
+      "sections": [
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1702260284",
+      "name": "千早澪Lynn",
+      "avatar": "https://i1.hdslb.com/bfs/face/44c31308c8d1ca9e3d1f520d2c241e5c4543ee2c.jpg",
+      "sections": [
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1705531194",
+      "name": "由乃suki",
+      "avatar": "https://i1.hdslb.com/bfs/face/4f590c98665d35b358969141f5e8655f95a39865.jpg",
+      "sections": [
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1817646098",
+      "name": "迟早早oi",
+      "avatar": "https://i1.hdslb.com/bfs/face/8cf8e52d109720cd7c2e313831ba63542eb3866e.jpg",
+      "sections": [
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "32644881",
+      "name": "优优酱yomi",
+      "avatar": "https://i2.hdslb.com/bfs/face/863f7993d704cccdc599049a12a46b053198b690.jpg",
+      "sections": [
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "27582152",
+      "name": "要抱好顶",
+      "avatar": "https://i1.hdslb.com/bfs/face/917093f81329e4d65374c1cb4018a800d5292c52.jpg",
+      "sections": [
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1896165591",
+      "name": "兰兰小苍Freesia",
+      "avatar": "https://i0.hdslb.com/bfs/face/13756bfb2fc0c162af005be9cddb925979401a62.webp",
+      "sections": [
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "25481267",
+      "name": "星间泉izumi",
+      "avatar": "https://i2.hdslb.com/bfs/face/5050103ae9556fba4e7b9579d6de40192d4a9357.jpg",
+      "sections": [
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "8283520",
+      "name": "池奈伶rei",
+      "avatar": "https://i2.hdslb.com/bfs/face/c61684a9e0944862ce521a47ca20bb58f2bc5a62.webp",
+      "sections": [
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "26206886",
+      "name": "狸酱lino",
+      "avatar": "https://i0.hdslb.com/bfs/face/66a5e52b9b482c0eda4f2600c891f48c3ed84ad9.jpg",
+      "sections": [
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "32098296",
+      "name": "白水Jimmy",
+      "avatar": "https://i0.hdslb.com/bfs/face/2ece99b59a1bb1f2ffa61bd1f4d3a7e2e2283b2b.jpg",
+      "sections": [
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1916952583",
+      "name": "啵啵眠眠",
+      "avatar": "https://i0.hdslb.com/bfs/face/dcdd3c63ac57ecb579204798b02bdbc7ef3d264c.jpg",
+      "sections": [
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "360169",
+      "name": "鹿子kanoco",
+      "avatar": "https://i2.hdslb.com/bfs/face/a40184495571cafaed0918818b16393db0dc919e.jpg",
+      "sections": [
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "26259713",
+      "name": "璐璐呼噜蛋",
+      "avatar": "https://i2.hdslb.com/bfs/face/7fcf84d16f19c7d93d7d006cc9d595557cac35d5.jpg",
+      "sections": [
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1884457556",
+      "name": "羽波奈奈",
+      "avatar": "https://i2.hdslb.com/bfs/face/e71b0b31ebd8bce55c2049e411f6391037bdbc45.jpg",
+      "sections": [
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "25225998",
+      "name": "樱桃软喵Yami",
+      "avatar": "https://i1.hdslb.com/bfs/face/331bd168849f912ba831925260b25980802ec943.jpg",
+      "sections": [
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1823592937",
+      "name": "阮糖honey",
+      "avatar": "https://i1.hdslb.com/bfs/face/aa127f81631bce73495934cc32ca197c43ac5b69.jpg",
+      "sections": [
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "21728563",
+      "name": "烛灵儿Hikari",
+      "avatar": "https://i2.hdslb.com/bfs/face/6941ec5ec3e649f45dd010abfc7d6e89ce5a70d0.webp",
+      "sections": [
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "8559949",
+      "name": "椰椰拿铁助眠",
+      "avatar": "https://i0.hdslb.com/bfs/face/0ec569cbe35db74227aca5eeb03b4c536e46e821.jpg",
+      "sections": [
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "23578004",
+      "name": "织月黛黛",
+      "avatar": "https://i2.hdslb.com/bfs/face/cb11d7b3a74fb0ae2a1649acaea061bb795924f6.jpg",
+      "sections": [
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "26103248",
+      "name": "甜夕sweet",
+      "avatar": "https://i1.hdslb.com/bfs/face/48d23c6702e7ef0468a3f084abe2302ae8c599a8.webp",
+      "sections": [
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "26088559",
+      "name": "希丝奈cisne",
+      "avatar": "https://i0.hdslb.com/bfs/garb/caef5c7c2fd002d70f7bfbba51eabbfb8cf5ea02.png",
+      "sections": [
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "7494115",
+      "name": "啊团有点困",
+      "avatar": "https://i2.hdslb.com/bfs/face/2edbd507410d36571f02604352e25fbe88c1fc07.jpg",
+      "sections": [
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "22700040",
+      "name": "露珀塔_Ruperta",
+      "avatar": "https://i2.hdslb.com/bfs/face/581da85496645531ed3c99b1e86251a987a8d51a.jpg",
+      "sections": [
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "27842395",
+      "name": "梵拉-Valar",
+      "avatar": "https://i2.hdslb.com/bfs/face/ed0fff24edfca4db6b748a0e8b97fdccda6494e6.jpg",
+      "sections": [
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "21752762",
+      "name": "芝恩㱏",
+      "avatar": "https://i1.hdslb.com/bfs/face/81f95a92d5b8c091bc83f0a94c5e09e2c91d5d7b.webp",
+      "sections": [
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "22554425",
+      "name": "桥桥Erio",
+      "avatar": "https://i1.hdslb.com/bfs/garb/22a177a64f4d8ad3e9c2524bada7b23d1f49f438.png",
+      "sections": [
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "31580082",
+      "name": "清影助眠",
+      "avatar": "https://i2.hdslb.com/bfs/face/734d64a56e75ad10e50f496d9791584c6d4fbacc.jpg",
+      "sections": [
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "22111664",
+      "name": "䪭诱",
+      "avatar": "https://i0.hdslb.com/bfs/face/173a36402d1ec58334d22724b13734055febcee5.jpg",
+      "sections": [
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "4389425",
+      "name": "煙Yanh",
+      "avatar": "https://i0.hdslb.com/bfs/face/8a0dd5072a23b53261705b0d7a329de22322cbb9.jpg",
+      "sections": [
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1773208550",
+      "name": "To绒茸-Rr",
+      "avatar": "https://i0.hdslb.com/bfs/face/b06b33f85f02a20f14762f06c834a9af25f23c66.jpg",
+      "sections": [
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "26102732",
+      "name": "猫羽芙漓Foli",
+      "avatar": "https://i0.hdslb.com/bfs/face/75779673a66f3e723b60f032de1a722e2cd9aa57.jpg",
+      "sections": [
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "24080824",
+      "name": "吹耳艺术家",
+      "avatar": "https://i2.hdslb.com/bfs/face/2a6de48709e3b832f092d85047786f3cb8f7bb18.jpg",
+      "sections": [
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "32538019",
+      "name": "眠眠susu",
+      "avatar": "https://i2.hdslb.com/bfs/face/892881d8a4da6417966ba7b6c413ffa0729b19f6.jpg",
+      "sections": [
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1709467911",
+      "name": "酥软软sur",
+      "avatar": "https://i1.hdslb.com/bfs/face/7d7a783e7097472b8325a178c78a6a12898aa45c.jpg",
+      "sections": [
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "26995307",
+      "name": "雪糕绒绒roro",
+      "avatar": "https://i0.hdslb.com/bfs/face/d4652a299c0d8d736db2f65a7639a15061ae64eb.jpg",
+      "sections": [
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1734605793",
+      "name": "夏烟Mist",
+      "avatar": "https://i0.hdslb.com/bfs/face/5463a89932db3ee3e22028c274e2f847aaa29bb7.jpg",
+      "sections": [
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "24416278",
+      "name": "塞满Sama",
+      "avatar": "https://i1.hdslb.com/bfs/face/b5ffb176bdb8adcbbc901dc6dfdbd4d8ca18f433.jpg",
+      "sections": [
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1732287048",
+      "name": "弦音Sora",
+      "avatar": "https://i0.hdslb.com/bfs/face/1ebd8b6ccaef8622c1f2ac2087f5ff5a2eca9daa.jpg",
+      "sections": [
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "14389249",
+      "name": "月岛绪Tsuki",
+      "avatar": "https://i2.hdslb.com/bfs/face/3fbfb188b5cc4cf729205372543f19636a46ad71.jpg",
+      "sections": [
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "32101433",
+      "name": "雾沁音",
+      "avatar": "https://i1.hdslb.com/bfs/face/3340c80e6e3124a3b3edcd740d18c759ad69d956.jpg",
+      "sections": [
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1944722767",
+      "name": "奈奈Heale_轻语",
+      "avatar": "https://i0.hdslb.com/bfs/face/4b7baa7c7d4867925e1c516ad412bb051cb32f14.jpg",
+      "sections": [
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1907441840",
+      "name": "大耳朵兔兔_bb",
+      "avatar": "https://i1.hdslb.com/bfs/face/89e0beb437ab5c7c7e995c4aa144669f08716075.jpg",
+      "sections": [
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "26515355",
+      "name": "曦月拉姆",
+      "avatar": "https://i0.hdslb.com/bfs/face/0da6e327e7a8e46844f9fd5259156fa17fe22d5e.jpg",
+      "sections": [
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1851403785",
+      "name": "月眠奈奈",
+      "avatar": "https://i1.hdslb.com/bfs/face/9ea4378e0b7d3045bbd39de7cc51beca1016fc9f.jpg",
+      "sections": [
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1941167551",
+      "name": "幼月乃亚Darling",
+      "avatar": "https://i2.hdslb.com/bfs/face/6002584ea6a8532e4ffcb1a6ffaa0e221f0d4865.jpg",
+      "sections": [
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1746171741",
+      "name": "喵九_Sama",
+      "avatar": "https://i1.hdslb.com/bfs/face/ddbf2fb926a8df7c6b202f1e370225f512a6cf1d.jpg",
+      "sections": [
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "27929334",
+      "name": "甜茶sakari",
+      "avatar": "https://i1.hdslb.com/bfs/face/296b86a0df6c14c249ee9a91df4fb083ca422c07.jpg",
+      "sections": [
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1917433779",
+      "name": "Tortoise海川",
+      "avatar": "https://i2.hdslb.com/bfs/face/2c2d341f5594be0943a0548cf20664b87a499a57.jpg",
+      "sections": [
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1773206858",
+      "name": "陵川先生-17号百天",
+      "avatar": "https://i0.hdslb.com/bfs/face/760c408ca26bba733fa976a71d415cab99873ea7.jpg",
+      "sections": [
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1741639503",
+      "name": "酥萘sleep",
+      "avatar": "https://i1.hdslb.com/bfs/face/6c855cf74edc24bd2863a261b6688e52f63f812d.jpg",
+      "sections": [
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1879004465",
+      "name": "弦九安_冲舰不连版",
+      "avatar": "https://i2.hdslb.com/bfs/face/be57d51230c0b2e91f59234f138243d5fb398160.jpg",
+      "sections": [
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "23607606",
+      "name": "i米粒儿啊",
+      "avatar": "https://i2.hdslb.com/bfs/face/1ec660c00924b91a799f392bb4aa4bc479de18ce.jpg",
+      "sections": [
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1963455549",
+      "name": "小卿爱助眠",
+      "avatar": "https://i2.hdslb.com/bfs/face/867997c75e8739fa50945be686714b9cbf438a34.jpg",
+      "sections": [
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1943677173",
+      "name": "北辰Fm-11号满月",
+      "avatar": "https://i2.hdslb.com/bfs/face/4430730e5dba013d7c2ef7fa075b902e8242e3ca.jpg",
+      "sections": [
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1741630445",
+      "name": "美艳の欲母",
+      "avatar": "https://i0.hdslb.com/bfs/face/6f00a298ca60b8e274a1fb655627d6eef9508122.jpg",
+      "sections": [
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1732287510",
+      "name": "小野今今Soft-幸运版",
+      "avatar": "https://i1.hdslb.com/bfs/face/949c053ca811c5159b0f424d309e76b40ca1adcd.jpg",
+      "sections": [
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1876318274",
+      "name": "长温温温大人",
+      "avatar": "https://i0.hdslb.com/bfs/face/8322ac85294f61a67a9f6d1555e472b9ddeb90fd.jpg",
+      "sections": [
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1822709802",
+      "name": "玖氿子",
+      "avatar": "https://i1.hdslb.com/bfs/face/f8cb593162e574a9c5b97cd0267d2ced4a6ad021.jpg",
+      "sections": [
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "30203180",
+      "name": "茗包包official",
+      "avatar": "https://i1.hdslb.com/bfs/face/8aeb84522e0b889058e9ce218a541f716dd349c6.jpg",
+      "sections": [
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1753107799",
+      "name": "酥泠泠Lyra",
+      "avatar": "https://i1.hdslb.com/bfs/face/9a66c1ea1b61fb83306edea5230f1cbba0e79f18.jpg",
+      "sections": [
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1930402132",
+      "name": "半半Lumos",
+      "avatar": "https://i1.hdslb.com/bfs/face/38cb265670ee933fb12c5902a6f863c7714086ab.jpg",
+      "sections": [
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1838242776",
+      "name": "米饭ino",
+      "avatar": "https://i0.hdslb.com/bfs/face/c897d38675f750031743b46e19229b73abbbe46e.jpg",
+      "sections": [
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1978208498",
+      "name": "温叙声oO",
+      "avatar": "https://i1.hdslb.com/bfs/face/37191a893755d54cb370b1a5780bcbbe834c3f79.jpg",
+      "sections": [
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "31464829",
+      "name": "白粥崽崽",
+      "avatar": "https://i1.hdslb.com/bfs/face/90e10a18de46f613aa777d56508410b35cab62f4.jpg",
+      "sections": [
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "roomId": "UCE6acMV3m35znLcf0JGNn7Q",
+      "name": "Gibi ASMR",
+      "avatar": "https://yt3.googleusercontent.com/cJCDu07LHkcqjm42aCnZtkUZVJggQL5loPR56BrCiLoREppQ9dYKLuJHYwMjYMLyDhzXO6_ImQ=s900-c-k-c0x00ffffff-no-rj",
+      "sections": [
+        "stars",
+        "p-youtube"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "roomId": "UCzGEGjOCbgv9z9SF71QyI7g",
+      "name": "asmr zeitgeist",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_nRxsDcRNLjvGYwPGgRh7ojlOIrjB4VM-_Tjsca_eBOefI=s900-c-k-c0x00ffffff-no-rj",
+      "sections": [
+        "stars",
+        "p-youtube"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "simoneasmr",
+      "name": "simoneasmr",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/afb8d95a-3b71-4e7b-9da1-cba71a4bf6b3-profile_image-300x300.png",
+      "sections": [
+        "stars",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "lewnabun",
+      "name": "Lewnabun",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/d8ff1d7e-aa32-40c6-8b62-ba2a9fbf20b6-profile_image-300x300.png",
+      "sections": [
+        "stars",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "zephyruwu",
+      "name": "ZephyrUwU",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8986fe29-e63b-4d3f-83de-1d57b4c80738-profile_image-300x300.png",
+      "sections": [
+        "stars",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "natymoon",
+      "name": "NatyMoon",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/963c00ea-6d6a-4e37-bb24-2b418492059f-profile_image-300x300.png",
+      "sections": [
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "veronika",
+      "name": "veronika",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c1204488-53b9-4883-a26c-bc35915757da-profile_image-300x300.png",
+      "sections": [
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "lunanyx",
+      "name": "LunaNyx",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/40702d83-ccf9-4f0c-a7be-0c4a0b62b86c-profile_image-300x300.png",
+      "sections": [
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "lllprincess",
+      "name": "lllPrincess",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9f39b40a-d017-4e6e-b97f-832a2c8d402c-profile_image-300x300.png",
+      "sections": [
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "luminousxox",
+      "name": "LuminousXOX",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/6eef2f05-c387-4447-83bd-83ac238a652d-profile_image-300x300.png",
+      "sections": [
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "aurorafractubela_uwu",
+      "name": "Aurorafractubela_uwu",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/7946ce09-c360-4c70-acaa-4dad16f30370-profile_image-300x300.jpeg",
+      "sections": [
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "atzuli",
+      "name": "Atzuli",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/45a55214-9315-434e-8e2d-f2933be781bf-profile_image-300x300.png",
+      "sections": [
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "hihoneko",
+      "name": "HiHoNeko",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1fab0c60-148a-4d5c-8db2-cebc86c7a7df-profile_image-300x300.png",
+      "sections": [
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "aquaivy_asmr",
+      "name": "AquaIvy_ASMR",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ba8128f-340c-4c4a-a405-caf09bcc830a-profile_image-300x300.png",
+      "sections": [
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "georgiewen",
+      "name": "georgiewen",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3a587119-a109-4325-a3b6-6cba95a4f04e-profile_image-300x300.png",
+      "sections": [
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "yennamae",
+      "name": "yennamae",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a2c5bc7e-0af7-43f2-9f80-49a864be1f82-profile_image-300x300.png",
+      "sections": [
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "ldliion_asmr",
+      "name": "LDLiion_ASMR",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/406346c7-d93a-467c-a4cc-26cd66dc00d6-profile_image-300x300.png",
+      "sections": [
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "nympheahimeros",
+      "name": "nympheahimeros",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d967011-7657-4deb-be7d-4697c9f9b30a-profile_image-300x300.png",
+      "sections": [
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "sharonqueen",
+      "name": "SharonQueen",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/2fa82a48-74bd-4428-a89e-fcd27b549e1a-profile_image-300x300.png",
+      "sections": [
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "sarenewild",
+      "name": "SareneWild",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e40e27f-9724-40f5-8f8a-dbcbb191b824-profile_image-300x300.png",
+      "sections": [
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "tingting57",
+      "name": "Tingting57",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ff01145-1291-4b8b-8792-4ec0027c6a69-profile_image-300x300.png",
+      "sections": [
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "baedoesasmr",
+      "name": "BaeDoesASMR",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/fbcf0597-aa44-4103-bfb5-7cd8aa707144-profile_image-300x300.png",
+      "sections": [
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "amberhoneyasmr",
+      "name": "AmberHoneyASMR",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/82feebd7-9d2d-4b22-8859-dde192a8f22c-profile_image-300x300.png",
+      "sections": [
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "leahdeasmr",
+      "name": "leahdeasmr",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9a4830fc-9fd2-42a8-a39b-1100ad68a99b-profile_image-300x300.png",
+      "sections": [
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "gersiucsasmr",
+      "name": "GersiucsAsmr",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5aed63d-408c-4d60-9159-0e2e1c7479f1-profile_image-300x300.png",
+      "sections": [
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "daintywilderasmr",
+      "name": "daintywilderasmr",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/83fe57c6-b95c-4abb-9422-b5d4b4e0ebc5-profile_image-300x300.png",
+      "sections": [
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "shigureasmr",
+      "name": "ShigureASMR",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3661787b-f622-4fa2-9226-94b4584138c0-profile_image-300x300.png",
+      "sections": [
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "kira030500",
+      "name": "きらぼしきら綺羅星きら",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c678518-6d38-4c8a-9624-af071087b3f1-profile_image-300x300.png",
+      "sections": [
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "lillyxoliver",
+      "name": "lillyxoliver",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d8818d6-9f14-4893-b570-2884b7bac9f0-profile_image-300x300.png",
+      "sections": [
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "asmrnami",
+      "name": "asmrnami",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5f99404e-3bf0-4da3-b725-f49c8d1af7a6-profile_image-300x300.jpeg",
+      "sections": [
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "asmr_whale",
+      "name": "ASMR_Whale",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c2d1d223-e6b8-41bc-af50-27cc4e910db1-profile_image-300x300.png",
+      "sections": [
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "beaux_asmr",
+      "name": "Beaux_ASMR",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3afce5fe-0b10-4d67-a689-01923f952946-profile_image-300x300.png",
+      "sections": [
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "whispersbyjen",
+      "name": "WhispersbyJen",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/227b93f3-6937-4bc5-be2c-2a52f3916561-profile_image-300x300.png",
+      "sections": [
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "asmrsanctuary",
+      "name": "ASMRSanctuary",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/91615166-e89c-48d7-8aef-8040a8668f8e-profile_image-300x300.png",
+      "sections": [
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "argelyasmr",
+      "name": "argelyASMR",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/50389bff-b2d4-4e51-963e-2941722085eb-profile_image-300x300.png",
+      "sections": [
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "rheasie",
+      "name": "Rheasie",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c92b72ae-0c92-46f7-982c-17c8b856bef0-profile_image-300x300.png",
+      "sections": [
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "bizzybunnyy",
+      "name": "Bizzybunnyy",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a994c3a0-b30d-49b1-99a7-297c31ea1363-profile_image-300x300.jpeg",
+      "sections": [
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "asmrlunaa",
+      "name": "ASMRLunaa",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5628e638-acc8-4f68-ad1e-95247ae54e0e-profile_image-300x300.png",
+      "sections": [
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "xinxetart",
+      "name": "xinxetart",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/796e776f-951b-43c6-9b69-265a4ce45ca8-profile_image-300x300.png",
+      "sections": [
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "rhinospiritx",
+      "name": "RhinoSpiritX",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/4dcc8d23-857b-473b-bb21-4be9fb68a933-profile_image-300x300.png",
+      "sections": [
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "minibunasmr",
+      "name": "minibunasmr",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/70760595-1d66-44cc-ad8d-e1a65057021b-profile_image-300x300.png",
+      "sections": [
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "jamesbond235",
+      "name": "Jamesbond235",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/6cd9fbad-a875-4264-87ba-c5087f69efee-profile_image-300x300.png",
+      "sections": [
+        "p-twitch"
+      ]
+    }
+  ]
+}

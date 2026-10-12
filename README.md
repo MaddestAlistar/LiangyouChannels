@@ -1,38 +1,29 @@
 # 良友频道库 · LiangyouChannels
 
-由小红书：良哥看未来整理，更新时间：2026 年 10 月 6 日
+由小红书：良哥看未来整理，更新时间：2026 年 10 月 11 日
 
-## 10月6日：内容分区与主播简介
+## 10月11日：良友主播单
 
-全库 **2,081条** 已按内容整理为 **10个分区**，每条附一句简介：英雄联盟、王者荣耀、吃鸡与射击、其他游戏、聊天与户外、唱歌与音乐、舞蹈、知识与读书、赛事与官方频道、带货直播间。
+主播单改名为 **良友主播单**，内容整体换成新一版：按 24 个内容分区，收录国内外 16 个直播平台的热门主播，共 **3,480 个直播间**。旧版 2,081 条名单（以抖音精选作者为主）不再放进主播单；频道数据、图标库和原始资料仍保留在仓库里。
 
 **汇流主播单：在「订阅网址」中添加以下链接。**
 
 <https://raw.githubusercontent.com/MaddestAlistar/LiangyouChannels/main/liangyouchannels-conflux.json>
 
-名称：**良友频道库 · 汇流直播**
+`liangyouchannels-conflux-verified.json` 和 `drafts/liangyouchannels-conflux-categorized.json` 这两个旧地址继续可用，内容与上方完整版一致。已订阅的用户刷新即可拿到新版。
 
-说明：由小红书：良哥看未来整理，更新时间：2026 年 10 月 6 日。共 2081 个频道与作者。抖音月度精选包含短视频作者，按官方抖音号收录；开播情况以平台显示为准。
+- 分区：英雄联盟 293、聊天颜值 281、唱歌 237、三角洲行动 210、ASMR 助眠 195、带货 194、王者荣耀 188、和平精英 172、户外 157、虚拟主播 147、跳舞 146、魔兽·炉石 143、无畏契约 142、主机·单机 133、DOTA2 127、我的世界 127、CS2 112、金铲铲·云顶之弈 106、体育 97、绝地求生 96、穿越火线 86、棋牌 83、地下城与勇士 57、美食 53
+- 平台：B站 844、虎牙 755、抖音 620、Twitch 518、斗鱼 403、快手 98、SOOP 58、CHZZK 47、花椒 42、猫耳 32、YY 25、Bigo 15、来秀 12、YouTube 6、映客 4、京东 1
 
-之前分享的 `liangyouchannels-conflux-verified.json` 和 `drafts/liangyouchannels-conflux-categorized.json` 地址继续可用，内容与上方完整版保持一致。已添加旧地址的用户刷新即可获得完整名单。
+同一个直播间出现在多个分区时，在完整版里只算一条，同时挂在这几个分区下。
 
-订阅文件只包含名称、简介、内容分区、头像和原始房间标识等汇流字段。尚未核验成功的频道与作者一并收录，核验状态单独记录在下方维护文件中。
+### 单个分区
 
-- [内容分区与一句话简介](data/channel-curation.json)
-- [逐条核验状态与来源（维护记录）](data/room-validation.json)
-- [实际请求记录（维护记录）](data/room-check-attempts.jsonl)
+只想看某一类，可以单独订阅 `lists/` 里的分区主播单，每份都是独立的汇流主播单，分区内再按国内 / 海外 / 赛事官方 / 知名主播 / 平台细分。文件对照见 [lists/说明.md](lists/说明.md)。订阅地址格式：
 
-本轮房间复核实际请求263条，其中229条确认有房间、31条只确认到账号、3条访问受限；其余1,818条尚未请求。确认失效0条。记录保留原始检查时间，更新订阅日期不会改写核验时间；未开播、验证码或请求失败不会当作失效删除。
+`https://raw.githubusercontent.com/MaddestAlistar/LiangyouChannels/main/lists/<文件名>.json`
 
-重建订阅：`python scripts/build-curated-conflux.py --updated-at 2026-10-06`。脚本读取全量频道数据、分区简介和独立核验记录，生成完整订阅并同步两个旧地址；只排除确认失效的条目。原 `scripts/build-conflux-list.py` 命令也调用同一生成流程。
-
-点击网页里的主播头像，复制完整房间号或抖音账号标识，随后在汇流选择对应平台并手动粘贴添加。
-
-- 抖音：1953
-- 斗鱼：32
-- 虎牙：32
-- B站：35
-- YY：29
+例如英雄联盟：<https://raw.githubusercontent.com/MaddestAlistar/LiangyouChannels/main/lists/league-of-legends.json>
 
 ## 访问地址
 
@@ -40,9 +31,9 @@
 
 <https://raw.githubusercontent.com/MaddestAlistar/LiangyouChannels/main/liangyouchannels-conflux.json>
 
-依据[汇流官方主播单格式 v1](https://conflux.kami.asia/streamer-list-format)生成，共2081条：抖音1953、斗鱼32、虎牙32、B站35、YY29。按上方10个内容分区排列，每条备注为一句主播或作者简介；保留原始房间号、头像和显示名称。精选作者按官方抖音号收录，入选月份保存在仓库原始资料中，开播情况以平台显示为准。
+依据[汇流官方主播单格式 v1](https://conflux.kami.asia/streamer-list-format)生成，共 3,480 条，按 24 个内容分区排列。`lists/` 里的 24 份分区主播单是源文件，完整版由它们按「平台 + 房间号」合并而成。
 
-更新频道数据后，可运行 `python scripts/build-conflux-list.py --updated-at YYYY-MM-DD` 重建此主播单；日期填写本次实际更新日期。未指定日期时使用北京时间当天。
+注意：`scripts/build-conflux-list.py` 和 `scripts/build-curated-conflux.py` 仍按旧版频道数据生成主播单，运行后会把上面三个文件改回旧版 2,081 条。更新主播单时请改 `lists/` 里的文件，不要再运行这两个脚本。
 
 播放器图标库订阅 JSON（在 App 的图标库入口添加）：
 

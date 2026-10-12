@@ -1,0 +1,1544 @@
+{
+  "schemaVersion": 1,
+  "name": "虚拟主播单",
+  "description": "虚拟主播（VTuber）合集：B站虚拟区人气主播（虚拟Singer / Gamer / 声优 / 日常 / 男V）、虎牙虚拟偶像与韩国 CHZZK 虚拟主播。",
+  "author": {
+    "name": "小红书·良哥看未来"
+  },
+  "updatedAt": "2026-10-11",
+  "sections": [
+    {
+      "id": "cn",
+      "name": "国内主播"
+    },
+    {
+      "id": "kr",
+      "name": "韩国主播"
+    },
+    {
+      "id": "stars",
+      "name": "知名主播（不限开播状态）"
+    },
+    {
+      "id": "p-bilibili",
+      "name": "B站"
+    },
+    {
+      "id": "p-huya",
+      "name": "虎牙"
+    },
+    {
+      "id": "p-chzzk",
+      "name": "CHZZK"
+    },
+    {
+      "id": "p-douyin",
+      "name": "抖音"
+    }
+  ],
+  "entries": [
+    {
+      "platform": "douyin",
+      "roomId": "hanser15255",
+      "name": "hanser",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_162aa97b24de236095c975025db1e9e2.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "stars",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "AceTaffy",
+      "name": "永雏塔菲",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_0353d2b537091758365db0fb28dcc1d0.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "stars",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "872423",
+      "name": "芸画画要好好努力吖",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1058/6c/f6ca2dfb9d63ee0877a54224a6e4bb_180_135.jpg?1645188530",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "265742",
+      "name": "歌手-小希",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1052/96/824f8bad3409b79e69cc163ec32dc5_180_135.jpg?1622082195",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "631402",
+      "name": "嘟嘟了个嘟嘟呀",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1054/01/dd80eb6e1dae7dc2841cb52d8f686d_180_135.jpg?1667788781",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "22592516",
+      "name": "虹猫蓝兔官方",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1047/74/6540b5614f776556eca506d2797d61_180_135.jpg?1591594458",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "3415150",
+      "name": "奈姬niki",
+      "avatar": "https://i2.hdslb.com/bfs/face/dcb05e82a70ba599352a53c64264fda079a61f35.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "544625",
+      "name": "祈Inory",
+      "avatar": "https://i2.hdslb.com/bfs/garb/40528e7c06c3a871e28689ac0f14e785bf6c3d23.png",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "22746343",
+      "name": "艾露露Ailurus",
+      "avatar": "https://i2.hdslb.com/bfs/face/d66b3b7535f54c13ca846de38b002e5dfa7efac4.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "6374209",
+      "name": "小可学妹",
+      "avatar": "https://i1.hdslb.com/bfs/face/d0073f1a0a37009a0af44f7bf329eaf13ba3c775.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "103071",
+      "name": "花布凉凉",
+      "avatar": "https://i0.hdslb.com/bfs/face/3454dde9fe8e92b376a5350c4c316003408c94ce.png",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "26421197",
+      "name": "草莓猫Taffy",
+      "avatar": "https://i0.hdslb.com/bfs/face/f0e9784c368b1258e090fbf03be99dd414f26b80.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "21672023",
+      "name": "弥希Miki",
+      "avatar": "https://i2.hdslb.com/bfs/face/58b8ecf4df30320c9fddbd5f085001a650243fee.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "47377",
+      "name": "泠鸢yousa",
+      "avatar": "https://i1.hdslb.com/bfs/garb/22d62658a1810625bd569cf84a33f5555fe06984.png",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "22637261",
+      "name": "嘉然今天吃什么",
+      "avatar": "https://i2.hdslb.com/bfs/face/9ea3dfdcf336f9dee7f763d9f9b0a0b427bb0fa9.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "22886883",
+      "name": "星瞳_Official",
+      "avatar": "https://i0.hdslb.com/bfs/garb/a5a22989a3c14027c478ac95c2062e3241cec892.png",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "22625027",
+      "name": "乃琳Queen",
+      "avatar": "https://i1.hdslb.com/bfs/face/d7dac0d2c7a42b1ef9b018c2186092f5cd650a97.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "41682",
+      "name": "早稻叽",
+      "avatar": "https://i1.hdslb.com/bfs/face/66c42613a4a2b890121cb234a13dd4e232771205.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "8792912",
+      "name": "咩栗",
+      "avatar": "https://i2.hdslb.com/bfs/face/5c26e72882e93fca4051a4ef4449f28f943d4cb8.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "22632424",
+      "name": "贝拉kira",
+      "avatar": "https://i2.hdslb.com/bfs/face/3ccbfd77f000cf3154762b78694724cd9e6719e5.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "22625025",
+      "name": "向晚大魔王",
+      "avatar": "https://i0.hdslb.com/bfs/face/599aa32d217cdf6c8ce113b37aca5b19b9f07b3e.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "22673512",
+      "name": "扇宝",
+      "avatar": "https://i0.hdslb.com/bfs/face/16fe7b9033af74ace62a7370c4f69e1fe8b3d356.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "23771189",
+      "name": "恬豆发芽了",
+      "avatar": "https://i2.hdslb.com/bfs/garb/970bfd963751b6ed298f75ab7d5fcb1faf8d24ff.png",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "25034104",
+      "name": "明前奶绿",
+      "avatar": "https://i0.hdslb.com/bfs/face/d3eac4f99cea7577efad379b138b6a3bffabab9f.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "22778610",
+      "name": "勾檀Mayumi",
+      "avatar": "https://i2.hdslb.com/bfs/face/1fb69d482db5d033fe1e43ed112a51821f2c6ec2.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "62734",
+      "name": "少年霜",
+      "avatar": "https://i2.hdslb.com/bfs/face/0c9b4f6e837e3fb4b5916e8c888f28b9922ff990.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "25512501",
+      "name": "柚恩不加糖",
+      "avatar": "https://i2.hdslb.com/bfs/face/36af60dc02012a836542959c85cfc787a477e276.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "25512443",
+      "name": "露早GOGO",
+      "avatar": "https://i0.hdslb.com/bfs/face/16349efa991f28e8e36be9e458ee0fa5ebb37bed.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "30849777",
+      "name": "心宜不是心仪",
+      "avatar": "https://i1.hdslb.com/bfs/face/994a4c66de1803e0a9e2fb3f72e0e5adaf84e486.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "22634198",
+      "name": "珈乐Carol",
+      "avatar": "https://i1.hdslb.com/bfs/face/a7fea00016a8d3ffb015b6ed8647cc3ed89cbc63.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "30533413",
+      "name": "沙雕刘一手",
+      "avatar": "https://i2.hdslb.com/bfs/face/020d0a27169349e6c826b6365f83f54f4661b04c.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "25512465",
+      "name": "米诺高分少女",
+      "avatar": "https://i2.hdslb.com/bfs/face/628e66a93b2e2f107816319b8fe8c4663e5e3d87.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "24393",
+      "name": "雪狐桑",
+      "avatar": "https://i0.hdslb.com/bfs/face/67af9f708def710f48519e343ae5d240e2370fcd.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "8633637",
+      "name": "躲在天台的猫猫",
+      "avatar": "https://i2.hdslb.com/bfs/face/b3c68117f0e8468c8283942846fbb2c44d631534.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "30858592",
+      "name": "思诺snow",
+      "avatar": "https://i1.hdslb.com/bfs/face/2e1b50dcc480c6f34f8eb183edf34a8a458006d8.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1996443760",
+      "name": "琼羽_Anny",
+      "avatar": "https://i1.hdslb.com/bfs/face/b7111ca2539ab731beb3dd7004b5071fd9ef36e5.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "32614979",
+      "name": "十依sama",
+      "avatar": "https://i2.hdslb.com/bfs/face/309b937c961476ec8e816a12c2f60e46e3840a28.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "31405244",
+      "name": "福宝Official",
+      "avatar": "https://i2.hdslb.com/bfs/face/078283cbbd6a6a79d334c355710bfbf4d23f04e5.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1713548468",
+      "name": "莉蔻Liko",
+      "avatar": "https://i1.hdslb.com/bfs/face/76bc0d765ad624d2412582eabf709be9ea44c3de.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "27481656",
+      "name": "洁绯",
+      "avatar": "https://i1.hdslb.com/bfs/face/c934dd24e034854dfb04c5255612e697bb2e09ed.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "23777594",
+      "name": "七禾いえ",
+      "avatar": "https://i2.hdslb.com/bfs/face/0ef587c948deb173d482c4029dc2ef9a47ead5e4.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1993743676",
+      "name": "白夭夭-Yy",
+      "avatar": "https://i0.hdslb.com/bfs/face/3bc2a7ba229023fef3b4134cd34e185aa5573797.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "30832217",
+      "name": "小小怪only",
+      "avatar": "https://i2.hdslb.com/bfs/face/b5224684f5de5820818ac74ea3965fc6343d9dc2.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "23369901",
+      "name": "蝶蝶Hikari",
+      "avatar": "https://i2.hdslb.com/bfs/face/7cab077e33503f91999e3839d5ccda05cbdc3e5e.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "23246736",
+      "name": "栀小朵",
+      "avatar": "https://i2.hdslb.com/bfs/face/a06e0c7108af65d413481b2221535f05eff522f5.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1791260716",
+      "name": "犬绒Mofu",
+      "avatar": "https://i2.hdslb.com/bfs/face/d9a08b44f608c86f36ce9a0b05fe34735a84bf58.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "26854650",
+      "name": "哈鹿hallu",
+      "avatar": "https://i2.hdslb.com/bfs/face/a5dae3472e3116011ad2892f1674e7da33c37fd6.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1889480514",
+      "name": "熙茜莉娅",
+      "avatar": "https://i0.hdslb.com/bfs/face/347c7b5f3288bcd2c3ba523727bd5f18a675e90c.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "30579108",
+      "name": "魚板鲨",
+      "avatar": "https://i1.hdslb.com/bfs/face/0a8bd028d7433349d4b41a77c0f350b3658f2319.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "25896305",
+      "name": "ElevenOfficial_",
+      "avatar": "https://i0.hdslb.com/bfs/face/b76644fd04eb78b12fbb0925af7d251e32ec5868.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "14120116",
+      "name": "伊达洌子official",
+      "avatar": "https://i2.hdslb.com/bfs/face/a935a7183727c1cfb31470c74f6d5da3e5cf0374.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1907445415",
+      "name": "不怜水Hisame",
+      "avatar": "https://i2.hdslb.com/bfs/face/73069dc2adbad3442812d951d719252e6fa923c7.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "31310804",
+      "name": "甜崽小兔Tenn",
+      "avatar": "https://i1.hdslb.com/bfs/face/859bae832434226868101d28910c8fb1a93941fb.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1844415177",
+      "name": "迪莎拉dechala",
+      "avatar": "https://i0.hdslb.com/bfs/face/b71b675121586f3f0cb7120da21057649e678108.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "25566357",
+      "name": "许小蛋哇哦",
+      "avatar": "https://i0.hdslb.com/bfs/face/3d0315ef96408ec4540ee68c6436bcb43e8ed3f1.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "25604373",
+      "name": "百万mami",
+      "avatar": "https://i2.hdslb.com/bfs/face/d5161dc82a71b2e928918b0f46aba88c83b3aa0d.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "25144904",
+      "name": "楽烯Roky",
+      "avatar": "https://i0.hdslb.com/bfs/face/ae55b8fd588674f3c37287342187cec47bd51818.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "26545331",
+      "name": "鲸鱼娘西丝特official",
+      "avatar": "https://i2.hdslb.com/bfs/face/ec0112068f97e43c3280b694af8b38db8deceefc.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1851659518",
+      "name": "破碎白巧-cathy",
+      "avatar": "https://i2.hdslb.com/bfs/face/23e734ce868f0a8cbd58709df865c11fc934f2b0.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "3237809",
+      "name": "伊南娜Ishtar",
+      "avatar": "https://i0.hdslb.com/bfs/face/ca68e2ea61d9d43e58a11396a2167b4ca5c8b0ff.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1951471070",
+      "name": "猫可奈sunny",
+      "avatar": "https://i0.hdslb.com/bfs/face/e6c77a520161a33ffe2a5ea7d2896b0687cb12d4.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "31293252",
+      "name": "芝士_Power",
+      "avatar": "https://i2.hdslb.com/bfs/face/a68cd2bd756748776aa9e3b8f09d7bcd3a2dd7e1.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1912366159",
+      "name": "郝热rr-草木宠冠",
+      "avatar": "https://i1.hdslb.com/bfs/face/b016748c1c2f7903beeb121ead5380b6de03f920.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1753102219",
+      "name": "傲娇阮阮oO",
+      "avatar": "https://i1.hdslb.com/bfs/face/9426c8baaae4293ff7d68f1786dc195065bb359b.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "32378653",
+      "name": "星光Kirarin",
+      "avatar": "https://i0.hdslb.com/bfs/face/892ddb23f356a7d2f0cf1f567660ea90735df593.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1866756344",
+      "name": "糖豆豆-呀咪呀咪",
+      "avatar": "https://i0.hdslb.com/bfs/face/e0669e3a9220715b97e53f5aab7a8cf40aa3bd4a.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "30073189",
+      "name": "小花居呀",
+      "avatar": "https://i0.hdslb.com/bfs/face/a18e2b583b2d61b5b59050a59ff24b3563e55920.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1727076670",
+      "name": "枝堇Sumire",
+      "avatar": "https://i0.hdslb.com/bfs/face/49f233cd223442f858ed756e1289caefaee6780e.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1992279553",
+      "name": "雾渺miia",
+      "avatar": "https://i2.hdslb.com/bfs/face/15bd8fc9b17e9ae7cb94cac2f6c964f0c95b275d.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "13328782",
+      "name": "圆圆小石头",
+      "avatar": "https://i2.hdslb.com/bfs/face/707ecb63d417ce993a0d7e7c057a0e1cc98eb644.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "810538",
+      "name": "亭子ww",
+      "avatar": "https://i1.hdslb.com/bfs/face/8f2dc2098e0be51f36778f5e190df909abee9f0e.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "22749172",
+      "name": "库莉姆Cream",
+      "avatar": "https://i1.hdslb.com/bfs/face/afa24e0ddde4bfc78db7927bbfb9d6dcd4da0ca7.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "30686467",
+      "name": "桃之夭Tyao",
+      "avatar": "https://i2.hdslb.com/bfs/face/f0f3c2f8e04b581f812d4a9200f20b150405b88c.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1724774315",
+      "name": "清漪吖",
+      "avatar": "https://i1.hdslb.com/bfs/face/5dc9a6cefb1930b2da332ac5dc3c761cc248de5b.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "26551342",
+      "name": "月绛八分甜",
+      "avatar": "https://i2.hdslb.com/bfs/face/b1c2874df7b30bc99a620ffa491609317ab818fb.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1811333355",
+      "name": "菟叽Numi白光冠",
+      "avatar": "https://i2.hdslb.com/bfs/face/98bf2faa26ee511d66b92df3462c2bbea083c29d.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1852632492",
+      "name": "喃樱Shine",
+      "avatar": "https://i1.hdslb.com/bfs/face/48558b49e8e7b31583caceb7c4a7b6ff307674ef.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1729697205",
+      "name": "是汐夏吖_负负得正啊",
+      "avatar": "https://i0.hdslb.com/bfs/face/08a556fc2f325917dced7762c9d3cfc5f19ac855.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1828676195",
+      "name": "库卡kuki",
+      "avatar": "https://i2.hdslb.com/bfs/face/6e0e960647afe165bb21a5613e781cb086baed90.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "30370968",
+      "name": "不知名温-",
+      "avatar": "https://i0.hdslb.com/bfs/face/294dd8eab0c09b7cc2655fffe511b552c0fcc226.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "23526339",
+      "name": "吖朵儿吖-生日版琪冠",
+      "avatar": "https://i0.hdslb.com/bfs/face/081f06d0477e1ebe41daf7f854ec9c3ac75c3fc6.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "27251788",
+      "name": "貔小貅Xiu",
+      "avatar": "https://i1.hdslb.com/bfs/face/9529ea0d0f12b573eed8cb5a5471479251412667.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "30126264",
+      "name": "超爱蛋挞吖-",
+      "avatar": "https://i0.hdslb.com/bfs/face/2ee3e0aa4a800ccfcf3372aa6bb757084bd335a9.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1850496542",
+      "name": "夏日碎冰冰_Official",
+      "avatar": "https://i0.hdslb.com/bfs/face/888ee101ca47a1173727224d9a8c6742151761a0.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1783356911",
+      "name": "乖乖的菜菜",
+      "avatar": "https://i1.hdslb.com/bfs/face/4b5d3dbd082dd4444369d6265d9bd15122d7d1cd.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "31424221",
+      "name": "免免呀",
+      "avatar": "https://i2.hdslb.com/bfs/face/407699429daedda1d2b32105f3b5464eed14407f.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1899306331",
+      "name": "青荼吖",
+      "avatar": "https://i1.hdslb.com/bfs/face/ce3bcbb1d4bc4440404b45e4f6e68db1c0f6cddc.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1949308563",
+      "name": "羽泠儿er",
+      "avatar": "https://i1.hdslb.com/bfs/face/afe5b7efa6777facad54ad4fb8721fd6d0177246.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "23094410",
+      "name": "画外灯official",
+      "avatar": "https://i2.hdslb.com/bfs/face/b6745cbc21f9b306aec3ee797cc100f4a9ba5482.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1924296058",
+      "name": "大柚公主",
+      "avatar": "https://i2.hdslb.com/bfs/face/0059bdf5465d01a4d2944b8274334b99ffe8e49f.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1940892662",
+      "name": "月亮tasty-小生私皮冠",
+      "avatar": "https://i2.hdslb.com/bfs/face/29b52ddd735975777419fe6bce87eb76511147a4.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1813449185",
+      "name": "骇零Hyrin",
+      "avatar": "https://i2.hdslb.com/bfs/face/f3d12e1b5bb05cd2ae2d43aef8e21042c6e7e565.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1773208550",
+      "name": "To绒茸-Rr",
+      "avatar": "https://i0.hdslb.com/bfs/face/b06b33f85f02a20f14762f06c834a9af25f23c66.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1972368500",
+      "name": "恶鬼roro",
+      "avatar": "https://i2.hdslb.com/bfs/face/3d50a3a5dca1551ec656357f73a22cbf5959f395.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "4109869",
+      "name": "伊莎蓓尔Isabel",
+      "avatar": "https://i2.hdslb.com/bfs/face/c771eb35da0e1a87b8a09ebe69aec7e1944718ab.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1771627725",
+      "name": "悦悦小狐悦-白菜冠",
+      "avatar": "https://i2.hdslb.com/bfs/face/1e3fe8952fd1f9aeff656ca0dd2f539fc77b7fef.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1889482389",
+      "name": "大白兔奶糖oo_",
+      "avatar": "https://i2.hdslb.com/bfs/face/8f8a206cfce8f5bd8e1bde0dbc85cb10f0261717.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1855578265",
+      "name": "风月不困",
+      "avatar": "https://i0.hdslb.com/bfs/face/90ee1bc2f9ca81b58551fa20c84745351372ac01.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "31364543",
+      "name": "桃小小の",
+      "avatar": "https://i2.hdslb.com/bfs/face/280b0b87c5c970233114c6c047a2808881926efb.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1790627000",
+      "name": "Bess小猫",
+      "avatar": "https://i0.hdslb.com/bfs/face/eab0e15e2171da9a058f2e7bf939e75900786eb6.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1791269118",
+      "name": "水奈Rin",
+      "avatar": "https://i2.hdslb.com/bfs/face/9bf0907221335a5c9a12bc7e7167dd016f4a0d78.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "30563995",
+      "name": "天占milo_Official",
+      "avatar": "https://i2.hdslb.com/bfs/face/2c9dce54b82eaf54e288efb7f4cc85171ab8c9eb.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "32485104",
+      "name": "琳喃喃吖",
+      "avatar": "https://i0.hdslb.com/bfs/face/955cf15837dd5d63bc1f42304a55c07776c6063b.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1950858146",
+      "name": "银竹-忆",
+      "avatar": "https://i0.hdslb.com/bfs/face/1d884a8399682e181125884f61498122e30d1615.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1949301475",
+      "name": "-米娅是Mia-",
+      "avatar": "https://i1.hdslb.com/bfs/face/410da033c489820028acd78a9fa2d52230b2a342.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1906089504",
+      "name": "傅九の酒",
+      "avatar": "https://i1.hdslb.com/bfs/face/a11d24beeb5f64553c1a83a68268d6bac273eec6.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1936498269",
+      "name": "诶悠",
+      "avatar": "https://i1.hdslb.com/bfs/face/49b87e04270c554f8fe31e320f1cfb6d507cd98b.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "2369183",
+      "name": "悠姆帕不是大果冻",
+      "avatar": "https://i0.hdslb.com/bfs/face/cef2fa5df2d9ff519d2d291e103cc14ba036ce70.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "8652769",
+      "name": "狼灵雪",
+      "avatar": "https://i2.hdslb.com/bfs/face/d5113a32542c102af338757a240a59ba6d72f03a.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1787653543",
+      "name": "沈清辞er",
+      "avatar": "https://i2.hdslb.com/bfs/face/70f17c2063353cbea081b033fd252433a17fbd8f.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "25908077",
+      "name": "紫贝儿official",
+      "avatar": "https://i1.hdslb.com/bfs/face/6e063326fd027cf058c5ac9f7f387dd92568a77d.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "26667744",
+      "name": "安歌儿Angel",
+      "avatar": "https://i0.hdslb.com/bfs/face/d2397c647c12c9e38854a7faa6a8c2f3bd81f0e4.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1790091534",
+      "name": "森野猫耶Symye",
+      "avatar": "https://i2.hdslb.com/bfs/face/600bb710c404e616b3c83acb3790de4f1ba7e77a.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "21399689",
+      "name": "Milky_Vtuber",
+      "avatar": "https://i0.hdslb.com/bfs/face/5db942e8a3bd0161ecbff195debb8bea86cf1262.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1812801917",
+      "name": "清漓-Lili",
+      "avatar": "https://i0.hdslb.com/bfs/face/2c8f553393c4c44313af6dcd4e2b8ecb9d973e08.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1943677286",
+      "name": "观韵-tea",
+      "avatar": "https://i1.hdslb.com/bfs/face/d2ce06fa020e037ac7aa1e1fde2f4b4c459902fc.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "286906",
+      "name": "Color_黄色",
+      "avatar": "https://i0.hdslb.com/bfs/face/52400d48202ffd2afd05f1d3eaa23faa56e68931.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "22815988",
+      "name": "小千村柚柚",
+      "avatar": "https://i1.hdslb.com/bfs/face/cb0c0199fa1f4d2fdd6ac0d0572cd35d0ab5a71c.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "31231390",
+      "name": "兔豆尼Doki",
+      "avatar": "https://i1.hdslb.com/bfs/face/47526ace3cab981064170b5e41800fbc6c5c8795.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1747118228",
+      "name": "米啄绒奈-dan",
+      "avatar": "https://i1.hdslb.com/bfs/face/0dbbf7d31f10619e3408f8c957523da5d89cef77.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1890514766",
+      "name": "忧郁屑米饼",
+      "avatar": "https://i1.hdslb.com/bfs/face/2f89c4ceae7dfc42d3737b8037c783f96bef6909.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1907445396",
+      "name": "醒醒Lucky-私皮筹备中",
+      "avatar": "https://i1.hdslb.com/bfs/face/1b726a1312e11b48139777d8cc290cfb8d04449f.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1753115899",
+      "name": "温琳Wlin",
+      "avatar": "https://i2.hdslb.com/bfs/face/01cab2a73a3134ac28e98e096b392d6a50957f06.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1840995822",
+      "name": "奈尔学姐s",
+      "avatar": "https://i0.hdslb.com/bfs/face/87eebda606ad3269a011560f4eb264bd74dba737.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1881506254",
+      "name": "风屿小楠n",
+      "avatar": "https://i1.hdslb.com/bfs/face/c6d32b83ae5e41bec053360e7d46c90f372edf34.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1957024528",
+      "name": "阿沐Koi",
+      "avatar": "https://i1.hdslb.com/bfs/face/a8059cef03d3b5cec18b258d268a6b897b02dab2.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "92450",
+      "name": "綾音Aya",
+      "avatar": "https://i0.hdslb.com/bfs/face/50822916c4a464c3c4fd31f3c7c667db7a312d78.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1940890858",
+      "name": "晕晕晕fufu",
+      "avatar": "https://i0.hdslb.com/bfs/face/c34ab6ac3c0368d1fd51ec1af95839fa86c6b7db.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1777439603",
+      "name": "系懒懒吖_MiMore",
+      "avatar": "https://i2.hdslb.com/bfs/face/d7edc2e5ff8ceefa35fa2a382894e0398f3cbaf2.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "26995307",
+      "name": "雪糕绒绒roro",
+      "avatar": "https://i0.hdslb.com/bfs/face/d4652a299c0d8d736db2f65a7639a15061ae64eb.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "32164437",
+      "name": "綿綿糯米冰",
+      "avatar": "https://i0.hdslb.com/bfs/face/75aebdbbb0d12bc68c01f7124a957c15c4a00deb.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "32768010",
+      "name": "只宝饿了EL",
+      "avatar": "https://i1.hdslb.com/bfs/face/fbaa2d050eed48afd45d0c33646273c729adfd24.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "31241514",
+      "name": "欧耶是淑女",
+      "avatar": "https://i1.hdslb.com/bfs/face/1dac4378c968ccfd83bfd49884df41d7c20941a6.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1840116438",
+      "name": "猫屋凛凛a",
+      "avatar": "https://i1.hdslb.com/bfs/face/c1ab0991c094b5d241fbab713000200f93fd0095.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1808574349",
+      "name": "芙芙Bunny",
+      "avatar": "https://i0.hdslb.com/bfs/face/f6631cdb0c4f403549d895c913b78346d214fddb.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1751762938",
+      "name": "甜奈TNai-接好运",
+      "avatar": "https://i1.hdslb.com/bfs/face/7a06aef33c1ce60707139fc0c4d3fffb118b1fa0.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1936492057",
+      "name": "星频喵Signal",
+      "avatar": "https://i1.hdslb.com/bfs/face/ee072c50aa128816ac81e63a40d6724f4bbcdc58.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1905050455",
+      "name": "可可大王CoCo_前夫冠",
+      "avatar": "https://i0.hdslb.com/bfs/face/c278fc777d86d7579072e9dd4e683e40d11d3bbe.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1714602504",
+      "name": "喵喵_oi",
+      "avatar": "https://i0.hdslb.com/bfs/face/5ca091f7668c51900832358ecb7715c19b129d83.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1730075469",
+      "name": "洛纱礼鸾Lira",
+      "avatar": "https://i1.hdslb.com/bfs/face/163d25db57c6eb82bf5bc9b682f939858daf98db.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "7688602",
+      "name": "花花Haya",
+      "avatar": "https://i0.hdslb.com/bfs/face/a236568c7b61c7b670ab8c783de0d8a05c0d13c3.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "26102732",
+      "name": "猫羽芙漓Foli",
+      "avatar": "https://i0.hdslb.com/bfs/face/75779673a66f3e723b60f032de1a722e2cd9aa57.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "80397",
+      "name": "阿梓从小就很可爱",
+      "avatar": "https://i0.hdslb.com/bfs/face/bd4253b0eb80684a86efa0097935004527bcc773.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "21452505",
+      "name": "七海Nana7mi",
+      "avatar": "https://i0.hdslb.com/bfs/face/971ef0f04571f866bcd2384248ded054649b7790.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "chzzk",
+      "roomId": "45e71a76e949e16a34764deb962f9d9f",
+      "name": "아야츠노 유니",
+      "avatar": "https://nng-phinf.pstatic.net/MjAyNTAzMzFfMjQw/MDAxNzQzNDMwNTM4OTg4.Bam6imHvAZLBWT0GHFprz94iS5CaGFmVI9RoXktnY-4g.AkwRyhY_RhSGzEiBXTvs4pEyo7KxI4GmUd151O8cVcYg.PNG/%EC%9C%A0%EB%8B%883.png",
+      "sections": [
+        "kr",
+        "stars",
+        "p-chzzk"
+      ]
+    },
+    {
+      "platform": "chzzk",
+      "roomId": "b044e3a3b9259246bc92e863e7d3f3b8",
+      "name": "시라유키 히나",
+      "avatar": "https://nng-phinf.pstatic.net/MjAyNjA0MTNfMjQx/MDAxNzc2MDY0NDg2MTI3.R9iKGvCIe2yTsl2srojhOYmdKoas_v5EWA1D96uNjYQg.LjMY6UtlQGuYxztJ9iaOtsx2AgO5uTpfpfGGbfFaJWYg.JPEG/image.jpg",
+      "sections": [
+        "kr",
+        "stars",
+        "p-chzzk"
+      ]
+    },
+    {
+      "platform": "chzzk",
+      "roomId": "8fd39bb8de623317de90654718638b10",
+      "name": "유즈하 리코",
+      "avatar": "https://nng-phinf.pstatic.net/MjAyNjAxMTFfODgg/MDAxNzY4MDYyMjk4MTg5.cyeP_FgjeBirqW4Y-tZ-9yFilWFLZYfX20BfI3pevE4g.ggyLmYSLY8tQGC4PI4YJoK8gPSO_5XmdNk1-wOP1LkIg.PNG/image.png",
+      "sections": [
+        "kr",
+        "stars",
+        "p-chzzk"
+      ]
+    }
+  ]
+}
