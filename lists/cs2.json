@@ -1,0 +1,1190 @@
+{
+  "schemaVersion": 1,
+  "name": "CS2 主播单",
+  "description": "CS2（反恐精英）热门主播合集（含各平台分区人气前列主播与不限开播状态的知名主播）：斗鱼、虎牙、B站 CS2 分区人气主播，Twitch / CHZZK 海外主播，以及知名主播与赛事直播间。",
+  "author": {
+    "name": "小红书·良哥看未来"
+  },
+  "updatedAt": "2026-10-11",
+  "sections": [
+    {
+      "id": "cn",
+      "name": "国内主播"
+    },
+    {
+      "id": "global",
+      "name": "海外主播"
+    },
+    {
+      "id": "stars",
+      "name": "知名主播（不限开播状态）"
+    },
+    {
+      "id": "p-huya",
+      "name": "虎牙"
+    },
+    {
+      "id": "p-bilibili",
+      "name": "B站"
+    },
+    {
+      "id": "p-douyu",
+      "name": "斗鱼"
+    },
+    {
+      "id": "p-twitch",
+      "name": "Twitch"
+    },
+    {
+      "id": "p-douyin",
+      "name": "抖音"
+    },
+    {
+      "id": "p-kuaishou",
+      "name": "快手"
+    }
+  ],
+  "entries": [
+    {
+      "platform": "douyin",
+      "roomId": "csgo6657",
+      "name": "玩机器CSGO",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/mosaic-legacy_2eb9200074ed7daa6e3a7.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "stars",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyu",
+      "roomId": "6979222",
+      "name": "玩机器丶Machine",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/201905/badbf01f7ab943358bf78bcd9245305f_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "5544313",
+      "name": "QKA付志海",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202608/04d9e0419fe045e6a14b99c9c27ff4d3_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "10674166",
+      "name": "bulaQoQ",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202502/aba888647c83497ebec71a2d58a3cf74_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "178432",
+      "name": "QuQu非常规大师",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202311/92f2a1e9602e4005a73012397adff54b_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "6959154",
+      "name": "CSGO馒头",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/201905/7f49f32c513241ed8984943b9ffd93fe_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "12882186",
+      "name": "薯条大王Fritta",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202608/0477092021834455a7ce5abe44d76745_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "6808817",
+      "name": "洛頔超月可楚山圆豆猫",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202410/74e4039eebe642fbb5a8f06902006339_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "8002619",
+      "name": "冰草同学",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202603/8ba409e48d884d41ac3aeaf608c76ebc_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "1250638",
+      "name": "豆子豆子Dz",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar/face/201605/26/ed941ad906126331a72d0d7da8368db9_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "12905806",
+      "name": "进军蛋神",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202610/705cc0fef35c430baab58eb144d1462a_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "12905886",
+      "name": "CakeCole",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202511/18a38775e190432e9cbd8eeb50bd0be1_big.jpg"
+    },
+    {
+      "platform": "huya",
+      "roomId": "483917",
+      "name": "ESLCS频道",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1034/74/821b6f155b6e3ebe2afa641404516d_180_135.jpg?1638026721",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "30764404",
+      "name": "Niko",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1068/60/3db646e0ef0ecc86b8d7d5571d9ac7_180_135.jpg?1769053861",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "610714",
+      "name": "悦风丶白老师",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1045/5c/6379d62144e121ffd6ce2c568e7159_180_135.jpg?1645260398",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "29640048",
+      "name": "Max-KbKb",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1028/d1/76394a2f2e5f2146593c920d27c05c_180_135.jpg?1786089768",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "30764405",
+      "name": "m0NESY",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1093/b3/145bd8344bc1e7c3da551792509801_180_135.jpg?1756778674",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "30255406",
+      "name": "椰汁糕冬瓜强",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1079/f4/045ab0f9964e5e56de77b20baab385_180_135.jpg?1727380688",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "30764407",
+      "name": "ZywOo",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1017/05/be51137aac220fdac6b690c0ff0ad6_180_135.jpg?1767780544",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "27869609",
+      "name": "n3o",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1040/6d/48090477d484e2cf514f954103195c_180_135.jpg?1783349062",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "30359241",
+      "name": "diyy刘頔",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1084/7d/968ecdd15770b6d88dd01d39688ec9_180_135.jpg?1731409860",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "367825",
+      "name": "Weeekly",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1013/24/ce385255ef8d3a6932c16976481ee9_180_135.jpg?1636619827",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "31402958",
+      "name": "琴音清管乐",
+      "avatar": "https://diy-assets.msstatic.com/cqhfolder/NewDefault.png",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "31403746",
+      "name": "海岸暖淡蓝",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1068/a7/e6448013998a4a3c2d0cce36b083af_180_135.jpg?1791616199",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "31404483",
+      "name": "晴川初烟灰",
+      "avatar": "https://diy-assets.msstatic.com/cqhfolder/NewDefault.png",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "31402181",
+      "name": "H-〽an",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1016/e7/019a064a5de5671e8e04d2aa0078f6_180_135.jpg?1720341830",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "29193415",
+      "name": "AQ艾契",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1074/38/d399eef49a1485f6adf982883e219c_180_135.jpg?1691549181",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "31386703",
+      "name": "仙术杰",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1018/77/5400a4a0dea0591a4122899d3f7f17_180_135.jpg?1643892063",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "29462534",
+      "name": "瓶子响叮当",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1032/21/55dec2023613b586dfad74771eb36f_180_135.jpg?1700618602",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "30517461",
+      "name": "ct6666",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1085/e2/02c2df326fae99e8ccc99914cf2b4b_180_135.jpg?1785144849",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "80397",
+      "name": "阿梓从小就很可爱",
+      "avatar": "https://i0.hdslb.com/bfs/face/bd4253b0eb80684a86efa0097935004527bcc773.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "21301839",
+      "name": "喜欢草莓的橘子可",
+      "avatar": "https://i1.hdslb.com/bfs/face/0326690e5e64912ef0739842c26fdbe629a76d45.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "21622811",
+      "name": "CSGO官方赛事",
+      "avatar": "https://i1.hdslb.com/bfs/face/0c89136f648dbf1f1145a7af13eb06ae984de0c4.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1827705402",
+      "name": "CS2赛事万花筒",
+      "avatar": "https://i2.hdslb.com/bfs/face/797f7dbb47c7717af64ba0c44f747c55a8ada796.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1726012314",
+      "name": "井ノ上たきな-Takina",
+      "avatar": "https://i2.hdslb.com/bfs/face/6ea638927226cd86a491718421e7d70c5b9435b2.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "22686972",
+      "name": "CS2伯爵",
+      "avatar": "https://i2.hdslb.com/bfs/face/1a76ca15eee549b88f259b5437522e7386d7a8fc.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "7111885",
+      "name": "芷芷想睡觉鸭",
+      "avatar": "https://i0.hdslb.com/bfs/face/ddf8431a20cbf219096dc3203051c9a704b42527.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "22889518",
+      "name": "CS2-德云两鬼",
+      "avatar": "https://i2.hdslb.com/bfs/face/e2932c394eedfbc9494b7c104850dcaed2d13c30.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1778754302",
+      "name": "CS2猫三岁吖",
+      "avatar": "https://i2.hdslb.com/bfs/face/66e952f09447ff5bdc5b3cc85c72db540b8f1c7b.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1833443885",
+      "name": "毛毛菜ovO",
+      "avatar": "https://i2.hdslb.com/bfs/face/6979781a96ca50a89f002213996372e6ff3ab600.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "13118452",
+      "name": "巧克力喵栗",
+      "avatar": "https://i0.hdslb.com/bfs/face/9b1ad408587268da9cf1441703300c2adc4df227.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "24677998",
+      "name": "雪影KSC",
+      "avatar": "https://i1.hdslb.com/bfs/face/d51d0c6e986b29f12a80abc0a727e7499bd8e012.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "24236116",
+      "name": "一口小圆子ovo",
+      "avatar": "https://i1.hdslb.com/bfs/face/8850ba276369c604ae8d29c995d32f2866fd392d.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1226049",
+      "name": "嘉乐r3medy",
+      "avatar": "https://i0.hdslb.com/bfs/face/41a329837987dca351bad0e9c47beb61484e152d.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "22518802",
+      "name": "NO_GUESS-猜猜",
+      "avatar": "https://i1.hdslb.com/bfs/face/98e87f635106ce4044e55b1f30475b8eff5d2cfb.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "24926419",
+      "name": "小一_OvO",
+      "avatar": "https://i0.hdslb.com/bfs/face/c2ed2f9a83e61dd2d8d4b8169cf9dee4ca7be50b.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "9769644",
+      "name": "洛洛洛轩",
+      "avatar": "https://i1.hdslb.com/bfs/face/a8a0cb2f63a4d34e662888ad7fb856dded127d59.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1778469977",
+      "name": "珊沐_",
+      "avatar": "https://i0.hdslb.com/bfs/face/aac8c4d36825526f718ad16e0be32eba5347d510.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "32430117",
+      "name": "不会KZ的云龙",
+      "avatar": "https://i0.hdslb.com/bfs/face/574ca6bfcdcc1c74ec9f1f73fa0d219d29fc6b2c.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1866958487",
+      "name": "阿玉玉ya",
+      "avatar": "https://i2.hdslb.com/bfs/face/cf69ad95908294fb570e0b0b8ca67849ba614c62.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1982182498",
+      "name": "_EarenDel",
+      "avatar": "https://i2.hdslb.com/bfs/face/2b1f87878fe2fb5820c7061de8211fec5e7658c3.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "32030332",
+      "name": "Amamiyaaaa",
+      "avatar": "https://i1.hdslb.com/bfs/face/b4173024215540094147df4b4acc94992df2962a.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1944725450",
+      "name": "cs2哥",
+      "avatar": "https://i1.hdslb.com/bfs/face/6f83a0b3e2cb9cae08781d4499e8bc3a330bea15.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1746709135",
+      "name": "这徐志魔了",
+      "avatar": "https://i2.hdslb.com/bfs/face/e1c7f04e72f4e0cae46092ca894a233d163c2505.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1718743341",
+      "name": "Luatss",
+      "avatar": "https://i2.hdslb.com/bfs/face/f5b38597aed59b5c59f50080194f3dd73b3f79f4.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "11053518",
+      "name": "Mitee米糖",
+      "avatar": "https://i0.hdslb.com/bfs/face/d7abbccc50f1a212622b38575ac8120bed474aa8.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1708416429",
+      "name": "Yubees0ftQAQ",
+      "avatar": "https://i0.hdslb.com/bfs/face/e7cfac8283d9f76fefbb89249a4c78aa9c1c3a60.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "32381352",
+      "name": "兔年UMR",
+      "avatar": "https://i1.hdslb.com/bfs/face/664001dd18539a88ba6822d12e023050f6bf9092.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "8432159",
+      "name": "wheReovo_",
+      "avatar": "https://i1.hdslb.com/bfs/face/7e882cee0878159b8b09b70d4fbbd5f385f3f585.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1869210333",
+      "name": "冻梨_DONGLI",
+      "avatar": "https://i1.hdslb.com/bfs/face/0c22a94715e69ce84dd6400ce34bf4b7d1fcb8be.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1849251896",
+      "name": "鱼板0721",
+      "avatar": "https://i0.hdslb.com/bfs/face/a3f712ad69b00186ff92ed12b3ef520a2c52a39c.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "3359959",
+      "name": "R1nxia",
+      "avatar": "https://i2.hdslb.com/bfs/face/4679bdf1faa1fbab1fd62b32bb5085a0ff61a076.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1965475729",
+      "name": "我不叫三文雨",
+      "avatar": "https://i2.hdslb.com/bfs/face/c3de51593a084d3fd57dc6fb136f3cc1c70f7d8c.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1796298759",
+      "name": "老嫂子是只男娘",
+      "avatar": "https://i1.hdslb.com/bfs/face/c7eb93ff39923adc1cf32493f5f8396ef182313f.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "271744",
+      "name": "某幻君",
+      "avatar": "https://i2.hdslb.com/bfs/face/a7eda2f97431d13f89a43b310262d1b19be83c01.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "kuaishou",
+      "roomId": "kuaishou_csgo",
+      "name": "CS2赛事频道",
+      "sections": [
+        "stars",
+        "p-kuaishou"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "s1mple",
+      "name": "s1mple",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/146bf883-600b-4edd-a73c-01794e9a6901-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "stars",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "strogo",
+      "name": "StRoGo",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8a9c0603-7ff0-4189-bdc1-3072029a613d-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "stars",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "eslcsb",
+      "name": "ESLCSb",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/88ebc32c-7684-4cbd-a4fe-c26997ad8875-profile_image-300x300.jpeg",
+      "sections": [
+        "global",
+        "stars",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "skywhywalker",
+      "name": "skywhywalker",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/6cf5c0a9-24f3-4e63-8433-022ef586e279-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "stars",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "aslanshukasha",
+      "name": "aslanshukasha",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/ec278337-127d-4001-be81-3b6401684c24-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "stars",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "fl0m",
+      "name": "fl0m",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/fl0m-profile_image-efa66f8f4aa42f40-300x300.png",
+      "sections": [
+        "global",
+        "stars",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "deko",
+      "name": "deko",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/99c6e2ab-8acf-4c72-9fd6-8d6945f901e8-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "stars",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "aunkere",
+      "name": "Aunkere",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/92c5a182-3a76-4116-82cf-89758b7025b3-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "stars",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "inkmate0",
+      "name": "inkmate0",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/7c940bd3-7d46-421d-8e33-80c0a10bac0d-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "stars",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "bysl4m",
+      "name": "bySL4M",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/aebf02e9-bede-4b89-9e06-0210a0c98b68-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "stars",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "c_a_k_e",
+      "name": "C_a_k_e",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/6c25e97e-731e-42ea-b38d-1162d40cda65-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "stars",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "squeex",
+      "name": "Squeex",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a2ecf408-3633-42f9-a461-b3081088308c-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "stars",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "97zoner",
+      "name": "97zoner",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/199e59d8-aaaf-4bbe-9aad-2a0c5f14f2d5-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "stars",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "m3wsu",
+      "name": "m3wsu",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/47ba28f7-3d76-4885-973c-ba0eaf209987-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "stars",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "watchfultv",
+      "name": "watchfulTV",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9e44c8e1-d40c-4cf6-b807-96e1b0bd0914-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "stars",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "blastpremier",
+      "name": "BLASTPremier",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/d5a4b94c-5f59-4136-9e00-3311b06fdc63-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "stars",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "merabella",
+      "name": "merabella",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/87c42a22-81ee-4369-ac49-e8b61c8eb19f-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "cozart_2s1",
+      "name": "Cozart_2s1",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/98e64572-7435-4a81-af5c-e30848d82282-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "chatterbox",
+      "name": "Chatterbox",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b4b91a9a-1b95-4b27-8837-61dd20d9f033-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "eslcs",
+      "name": "ESLCS",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c1ecbcd5-b8b6-4e0c-9d5f-e01d610aa97d-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "keliencs",
+      "name": "keliencs",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c7b8d2d9-af3e-4233-8b68-137474c2b170-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "saullo",
+      "name": "Saullo",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/10611d15-841d-45b2-96ae-22be08efe862-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "onewaywater",
+      "name": "onewaywater",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1148a617-b939-48e6-8cf6-f386222d3792-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "ariwka21",
+      "name": "ariwka21",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c41e8b51-4476-45c3-95ab-c847865ba921-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "xkr4k",
+      "name": "xKr4k",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c75f5b0c-5bb1-4cfa-a028-f97b2aca40ab-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "top1sacer",
+      "name": "top1sacer",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3f6c557d-39dc-4e2a-8b65-f70dd68b1afb-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "buichka",
+      "name": "BUICHKA",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/0811bda4-3a73-499e-a03a-05083a4d672e-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "zockenlive",
+      "name": "ZockenLive",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/888c14bd-e56b-43dc-b058-7461a5ee0d05-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "wolfercs",
+      "name": "WolferCS",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/d8091eed-d124-4301-a8e0-91b4826551d5-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "rodos1k_",
+      "name": "rodos1k_",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/d176a9ce-a69e-4e95-8805-12e2a94cfd19-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "gratisfaction",
+      "name": "Gratisfaction",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/gratisfaction-profile_image-79f678e3879a17af-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "pbomba_",
+      "name": "pbomba_",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/54dcb505-beae-4269-a121-09d0a1aa5dbe-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "deez",
+      "name": "deez",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/29dda345-88ef-409a-b35f-60de4c00ab44-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "dyhace",
+      "name": "dyhace",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/07680d35-e755-407d-a0fe-06cb0ee73189-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "skillhub96",
+      "name": "Skillhub96",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a413e6eb-d431-49ea-95b1-6aa3b9af653f-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "valtrakk",
+      "name": "valtrakk",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/4c6618d4-b628-4803-a6f4-f3fdc184f4ff-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "pengwin",
+      "name": "Pengwin",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/67905647-e29a-43ba-88d6-18949920c4ac-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "juaanch1",
+      "name": "juaanch1",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b771311a-d7d5-4409-be1c-ac2160a9a548-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "waveigl",
+      "name": "waveigl",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/42fd0559-19df-412a-9de7-5c976bce3d3e-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "murilo",
+      "name": "Murilo",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/f03d524e-117a-4571-ae94-6db03563762e-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "xtape23",
+      "name": "xtape23",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/04c08df6-6c06-47bd-a2ca-4035425719c7-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "natra3p",
+      "name": "natra3p",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcd66355-ac42-4efb-b89a-50ac3db58562-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "donkgordo",
+      "name": "donkgordo",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/88d5a488-7cc8-4b35-b3a4-4f1a27074e83-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "7mzwh565etgy",
+      "name": "7mzwh565etgy",
+      "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/75305d54-c7cc-40d1-bb9c-91fbe85943c7-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "supernovaa",
+      "name": "SuperNovaa",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/2557cc08-7409-4955-8dca-202fefdac660-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "hyza",
+      "name": "hyza",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/ee7edd04-0d46-458e-9e5a-92aa3f803423-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    }
+  ]
+}

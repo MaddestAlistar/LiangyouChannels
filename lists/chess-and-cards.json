@@ -1,0 +1,893 @@
+{
+  "schemaVersion": 1,
+  "name": "棋牌主播单",
+  "description": "棋牌、象棋、围棋、桌游类主播合集：斗鱼、虎牙、B站棋牌分区与 Twitch 国际象棋主播。",
+  "author": {
+    "name": "小红书·良哥看未来"
+  },
+  "updatedAt": "2026-10-11",
+  "sections": [
+    {
+      "id": "cn",
+      "name": "国内主播"
+    },
+    {
+      "id": "global",
+      "name": "海外主播"
+    },
+    {
+      "id": "stars",
+      "name": "知名主播（不限开播状态）"
+    },
+    {
+      "id": "p-huya",
+      "name": "虎牙"
+    },
+    {
+      "id": "p-bilibili",
+      "name": "B站"
+    },
+    {
+      "id": "p-douyu",
+      "name": "斗鱼"
+    },
+    {
+      "id": "p-twitch",
+      "name": "Twitch"
+    },
+    {
+      "id": "p-douyin",
+      "name": "抖音"
+    },
+    {
+      "id": "p-kuaishou",
+      "name": "快手"
+    }
+  ],
+  "entries": [
+    {
+      "platform": "douyin",
+      "roomId": "sunhaoyuxiangqi",
+      "name": "孙大刀（象棋大师孙浩宇）",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_1bd55f2e13ce0bd61ac029a014605d38.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "stars",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "xyc1975",
+      "name": "象棋许银川",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/hotsoon-avatar_8a1bfe5a9a2246509bdde1906c3f1d79.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "stars",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "xqzwt",
+      "name": "象棋郑惟桐",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_d7d67f49528d4530b30ebe60d0f23c3a.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "stars",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "53288242206",
+      "name": "象棋赵鑫鑫",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_e89ebc88791fb329218f09b93412a063.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "stars",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyu",
+      "roomId": "474669",
+      "name": "刷白",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202211/4521ec976ddb4b86a42ef27b7ba67e37_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "160504",
+      "name": "菜刀三国杀",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avanew/face/201806/b082bcf3b7809ce46e0030f8861c4456_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "488743",
+      "name": "JJ斗地主官方",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202311/c8b36c89318b490789d3d4a48bbea62b_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "4487219",
+      "name": "帽子戏法Chess",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202004/0c898b1f6c714c308d390f6c067f343f_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "291514",
+      "name": "雷疯小叔",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/201903/b6824877c6084e01b3905110733bbbed_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "280087",
+      "name": "四国军棋欠你幸福",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202602/7928561ef01c43e78c7c18e122048bb2_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "4369877",
+      "name": "肖九拙",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avanew/face/201805/5e5cd947be91bcaf66b720ee758b345b_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "11650230",
+      "name": "阿广隶哥",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avanew/face/201709/18/02/204147aafabbe26b7adbc68c6dbd8487_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "8241554",
+      "name": "娜北北",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202403/7361c4566f6e4d6ba076151e5a30f76f_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "1227260",
+      "name": "大神KOR",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avanew/face/201802/01/00/78e1aab504d4112b3d1f9d4db05eae7b_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "691696",
+      "name": "DS丶淄博陈大少",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202207/b5fe5a8df8ab41f48179e174cf2fb6ee_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "2293920",
+      "name": "日月轮回888",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/201807/c94582f0cb5436bfac73f3b8f13a7a80_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "12448923",
+      "name": "洋葱炸蒜",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202509/835c874f767d4606a69d2e9fc4d10f6b_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "307589",
+      "name": "雨子话",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/201901/bf1700c191e441d4a97c92ad39a3b154_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "6463691",
+      "name": "是蓝莓丫",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202602/aad57878eadc4bc1a91dc5b9f417f3e0_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "273956",
+      "name": "联众老菜鸟的棋中说奇",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avanew/face/201801/16/15/77739c1c93d8af7cc585a8ead2bc2d4a_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "10382810",
+      "name": "吃个橘子吧99959",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/201807/249bbace7a369a861333756a2a2d2c0f_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "10855685",
+      "name": "Alex阿冰",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202210/0a145555fac94035bbf3dc0fa8180e92_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "274533",
+      "name": "弹子兵法",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar/017/46/50/95_avatar_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "6391615",
+      "name": "海大炮王o",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202009/0d5e06e2ffbd49b1a39330aae7a8db5e_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "12267970",
+      "name": "弃徒x.",
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202409/3f2bebc5cfd9408ba8b70b44ff731dc5_big.jpg",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "822251",
+      "name": "象棋特级大师王天一",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1024/fb/c252c099c1f22ea0586199d3652cc4_180_135.jpg?1685000265",
+      "sections": [
+        "cn",
+        "stars",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "652539",
+      "name": "渝乐",
+      "sections": [
+        "cn",
+        "stars",
+        "p-huya"
+      ],
+      "avatar": "https://huyaimg.msstatic.com/avatar/1056/43/588a8bfdd0c7ddf8415b7f5cbe582c_180_135.jpg?0"
+    },
+    {
+      "platform": "huya",
+      "roomId": "30255695",
+      "name": "八卦象棋大师",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1042/14/7abc23c4ae45e0984b602a784bd4c1_180_135.jpg?1727406006",
+      "sections": [
+        "cn",
+        "stars",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "417221",
+      "name": "虎牙怂俊",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1083/cd/c369346a788ab2670b4c765f388a71_180_135.jpg?1610701925",
+      "sections": [
+        "cn",
+        "stars",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "847683",
+      "name": "浪涛丶星星会长",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1048/ff/cf2b8d708c65a236c595383645203c_180_135.jpg?1725847052",
+      "sections": [
+        "cn",
+        "stars",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "270033",
+      "name": "欢乐丶木易",
+      "sections": [
+        "cn",
+        "stars",
+        "p-huya"
+      ],
+      "avatar": "https://huyaimg.msstatic.com/avatar/1019/84/a05934954e740af89442bf42f59ece_180_135.jpg?1516102210"
+    },
+    {
+      "platform": "huya",
+      "roomId": "30549030",
+      "name": "月光大魔王丶",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1064/89/f71b8593415d2f0447b8070ef164b4_180_135.jpg?1738389751",
+      "sections": [
+        "cn",
+        "stars",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "158235",
+      "name": "朝朝-798",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1064/6e/93e08ce7e3b7a36c9b53af6dc6f87e_180_135.jpg?1775239437",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "11003519",
+      "name": "阿钟r",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1032/e1/09ad016741efb4a0df854595aa8e12_180_135.jpg?1780843430",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "117736",
+      "name": "BF-小瑞宝",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1094/22/4556a8b4398e54181ccb612d9db26c_180_135.jpg?1532841005",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "152698",
+      "name": "JJ斗地主",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1008/76/466b874cc7c71ab43ff0bff273437d_180_135.jpg?1699338836",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "27658505",
+      "name": "麻将丹丹子",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1055/6d/ec9d311cd5adf43af818bbf61402fd_180_135.jpg?1768204625",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "294379",
+      "name": "秃创-鲍勃哥",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1096/95/2b2e8859e13b98cfde67136daa925f_180_135.jpg?1681734887",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "31003238",
+      "name": "听雨xq",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1048/ff/4d3d0a053e4a1047eba9461c4c65c7_180_135.jpg?1771400550",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "23259542",
+      "name": "尚娱-斗圣",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1044/d5/3d96094cdada04bd49a94e560261c4_180_135.jpg?1751606468",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "22833989",
+      "name": "够级潶总",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1061/8b/0bd71501f2955555d658d2ee84ebda_180_135.jpg?1656968263",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "793481",
+      "name": "璀璨丶战神",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1045/7f/340014a1c732dfa539c447bffd340e_180_135.jpg?1607715457",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "182458",
+      "name": "璀璨丶噬魂斗地主",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1088/cb/d7cf8317b3e5df42135a4906f6fa79_180_135.jpg?1498760801",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "27202343",
+      "name": "尚娱-大圣",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1091/7c/a2ee73c28dcbb4de80594f038b8a4f_180_135.jpg?1653322173",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "30541877",
+      "name": "酷酷的7老父亲",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1057/7f/3f679a506a35b6e623bd210e8b8d59_180_135.jpg?1777458160",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "487836",
+      "name": "象棋戴少帅",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1021/f7/8d32df9e7f50aebb0ab03be7c790f2_180_135.jpg?1589633657",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "17320629",
+      "name": "浪涛丶牛哥",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1040/f0/818a8f62477cfe07a255cad4db9c6c_180_135.jpg?1664691694",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "30260687",
+      "name": "九妹笑笑",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1053/da/bcd0966ca737c5f92d319e7598485e_180_135.jpg?1727648555",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "31154188",
+      "name": "璀璨丶清风",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1042/58/1a1ca360907777394d354989c47ec5_180_135.jpg?1769838777",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "30258359",
+      "name": "靓旭",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1039/8f/1059b169ca82d278dbeea4a13050c1_180_135.jpg?1727526753",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "30574568",
+      "name": "神机小诸葛",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1059/69/8ff6f4e34d6223f993e9b95ccef94d_180_135.jpg?1739362304",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "26658202",
+      "name": "龙龙斗地主",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1073/b2/92789d039abdc598ea50bd74e66fa5_180_135.jpg?1646699247",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "294392",
+      "name": "小宅妹呀",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1075/4b/8cb133808472fc39e560a9e4426910_180_135.jpg?1784688957",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "294398",
+      "name": "欢乐丶宇少",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1031/99/3d79b4d9009a1154f317979ee41268_180_135.jpg?1646398760",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "22634825",
+      "name": "尚娱-大师",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1009/c9/1fc55b22b9aef25eada93cd16f43f0_180_135.jpg?1638264465",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "30841782",
+      "name": "象棋特大唐丹",
+      "avatar": "https://diy-assets.msstatic.com/cqhfolder/NewDefault.png",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "21103928",
+      "name": "【HSL】欢乐斗地主",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1016/34/5e1b847f415d929a4be4a86bdcf312_180_135.jpg?1606286372",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "30841786",
+      "name": "慈善大师吕德华",
+      "avatar": "https://diy-assets.msstatic.com/cqhfolder/NewDefault.png",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "382310",
+      "name": "孙浩宇大师",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1054/79/78efebfde6a856a961f40e2f5cce31_180_135.jpg?1504191200",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "21359045",
+      "name": "广西棋王陈建昌",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1005/2a/6671d1ce15a4db2965e729077ac1cb_180_135.jpg?1597762004",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "31404249",
+      "name": "音符与星河",
+      "avatar": "https://diy-assets.msstatic.com/cqhfolder/NewDefault.png",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "612931",
+      "name": "518王炸节",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1031/29/7dcf37ee5c54c7552fedc8bf0285c1_180_135.jpg?1620631221",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "5269",
+      "name": "蛇哥colin丶",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1013/be/5b8bde4a7f4727361165d63acc9b81_180_135.jpg?1768056386",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "520611",
+      "name": "小战",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1087/56/d331b2a91744b15644fd3682778670_180_135.jpg",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "22021983",
+      "name": "JJ斗地主官方",
+      "avatar": "https://i0.hdslb.com/bfs/face/9c4a68efed0b765bcc806167e08a90285369ec8a.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "23555200",
+      "name": "柯洁",
+      "avatar": "https://i2.hdslb.com/bfs/face/7c2103f936383451c15866bf4097d62c045845ce.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "23890939",
+      "name": "疯狂的阿LI",
+      "avatar": "https://i2.hdslb.com/bfs/face/0efa2a68a505e048083fee3a6ea995eacf59fa6a.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1779352557",
+      "name": "最高位战中国本部",
+      "avatar": "https://i2.hdslb.com/bfs/face/cdcbad3faac7da24f116782748d07e5829295e53.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "23288321",
+      "name": "_Essentia_",
+      "avatar": "https://i1.hdslb.com/bfs/face/8c5635686c1eba07625aae3479c0632b0da2d975.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "22339786",
+      "name": "不咸的盐汽水",
+      "avatar": "https://i0.hdslb.com/bfs/face/5a99fb27abcd0120336ad425b97b66a6e38b81d9.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "14672710",
+      "name": "懒悠悠的兔子",
+      "avatar": "https://i2.hdslb.com/bfs/face/90a659b3ee120d598ca7ac793a636a42e6e15b72.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1778468347",
+      "name": "香港麻雀协会HKMA",
+      "avatar": "https://i2.hdslb.com/bfs/face/57eb84aae873a1b305b2c25b0ed644f91f39faeb.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1986258916",
+      "name": "济南浪速云起雀庄",
+      "avatar": "https://i0.hdslb.com/bfs/face/f59082f76410d6c8a6cb16123d715f7d28c4c6fe.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "31803803",
+      "name": "公羽象棋",
+      "avatar": "https://i0.hdslb.com/bfs/face/9854d9a54140fc0caa3932326873e8500059f886.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "27947812",
+      "name": "天津锦鲤雀庄",
+      "avatar": "https://i1.hdslb.com/bfs/face/3f7e1ec7a0412655ef46f5217c2d7540cda9b6e5.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1755379818",
+      "name": "草根围棋",
+      "avatar": "https://i2.hdslb.com/bfs/face/33a0d44f58cb88c8a278e969acd851aec5d3f8f7.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "41412",
+      "name": "Tl君",
+      "avatar": "https://i1.hdslb.com/bfs/face/21a22d48449847b8cea1ffb52b3a8ad5600b4fb5.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "25252229",
+      "name": "浪速雀庄",
+      "avatar": "https://i0.hdslb.com/bfs/face/afc68c15a01d242e20a9e12001d1fcf087fa43d2.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1779506816",
+      "name": "西农棋社",
+      "avatar": "https://i0.hdslb.com/bfs/face/d7f55ab302b9ad0c46b54177a3826ddda0b50bc7.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1776266590",
+      "name": "立直约",
+      "avatar": "https://i2.hdslb.com/bfs/face/ed49997647134d21ced39b0084c6fff8c980c4c8.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "25747272",
+      "name": "阿呆军棋",
+      "avatar": "https://i2.hdslb.com/bfs/face/9f80d4c8b7afc08925f35b24be0885594a994c5d.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "kuaishou",
+      "roomId": "wtyalien",
+      "name": "“坏心人”王天一",
+      "sections": [
+        "cn",
+        "stars",
+        "p-kuaishou"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "ashdeanna",
+      "name": "AshDeanna",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/38ab348d-b0d3-4e7d-8397-2f1acc79c115-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    }
+  ]
+}

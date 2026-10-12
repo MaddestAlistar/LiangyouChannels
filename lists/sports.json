@@ -1,0 +1,1031 @@
+{
+  "schemaVersion": 1,
+  "name": "体育主播单",
+  "description": "体育类主播合集：虎牙体育、B站运动体育分区与 Twitch Sports 人气主播（不含赛事转播轮播间）。",
+  "author": {
+    "name": "小红书·良哥看未来"
+  },
+  "updatedAt": "2026-10-11",
+  "sections": [
+    {
+      "id": "cn",
+      "name": "国内主播"
+    },
+    {
+      "id": "global",
+      "name": "海外主播"
+    },
+    {
+      "id": "stars",
+      "name": "知名主播（不限开播状态）"
+    },
+    {
+      "id": "p-huya",
+      "name": "虎牙"
+    },
+    {
+      "id": "p-bilibili",
+      "name": "B站"
+    },
+    {
+      "id": "p-twitch",
+      "name": "Twitch"
+    },
+    {
+      "id": "p-douyin",
+      "name": "抖音"
+    },
+    {
+      "id": "p-kuaishou",
+      "name": "快手"
+    }
+  ],
+  "entries": [
+    {
+      "platform": "douyin",
+      "roomId": "liujianhong",
+      "name": "刘建宏",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_eb844f9d9c7b72ba103ca5173de37185.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "stars",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "1096996129",
+      "name": "杨毅",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/mosaic-legacy_2df6c0003056e1b3ccc05.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "stars",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "693372879",
+      "name": "段暄",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_a1a2c979e90b564be3793d9e7686b59f.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "stars",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "huangjianxiang15",
+      "name": "黄健翔",
+      "avatar": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_7e4e70a8f45b93917b68873e85ddf6ad.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "stars",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "zhanjun8",
+      "name": "评述员詹俊",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_59a38fe7c84e7a70e9f3ea7a88f7f8b5.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "stars",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "10147",
+      "name": "一诺台球解说",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1079/65/99843b7a01aa8b78f3929828aed52b_180_135.jpg?1752665201",
+      "sections": [
+        "cn",
+        "stars",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "51911",
+      "name": "沪娱-UU加油",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1020/2d/3d1bcdc99b9f534ad877cdcacb16f2_180_135.jpg?1589534155",
+      "sections": [
+        "cn",
+        "stars",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "398147",
+      "name": "星辰斯诺克解说",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1044/14/b2fc49d7e05e51dcf2fd85990804be_180_135.jpg?1599168994",
+      "sections": [
+        "cn",
+        "stars",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "880214",
+      "name": "虎牙斯诺克",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1049/4d/ec3add7d2b61dd7d5cf4fdbab8c4fe_180_135.jpg?1674142778",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "880221",
+      "name": "虎牙羽毛球",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1054/a7/c415a6df664ce75c475aa201630beb_180_135.jpg?1752489919",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "30020991",
+      "name": "体育小站",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1000/95/e369442feaac509c10313a8090ad0d_180_135.jpg?1731058039",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "30805932",
+      "name": "虎牙羽毛球副台",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1034/66/587f259fdcbc312afc25921019e658_180_135.jpg?1752489726",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "30862527",
+      "name": "水叔羽球",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1041/8c/9d5955814b00d87d6d8dd320851a9d_180_135.jpg?1751362155",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "20072621",
+      "name": "虎牙斯诺克2号桌",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1066/a9/69fcaf134f2f9db49a04b835b3c862_180_135.jpg?1731558236",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "27599671",
+      "name": "老唐-斯诺克",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1087/e0/016e77da25aca59a5846d3d179abe8_180_135.jpg?1659358584",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "20072620",
+      "name": "虎牙斯诺克1号桌",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1013/f4/7152942a5b6fb7dbac83fe351377d9_180_135.jpg?1731558564",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "18501408",
+      "name": "虎牙斯诺克3号桌",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1037/a8/cfa25f602c0e04f814fab9eaf6799a_180_135.jpg?1731558522",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "31348506",
+      "name": "雯雯斯诺克解说",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1042/b5/db7aaf617d2f9bf503908ea567dc03_180_135.jpg?1791387502",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "31189969",
+      "name": "云端体育",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1057/73/427bd1b89cb486502acbba4fb4c986_180_135.jpg?1788132681",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "26245146",
+      "name": "龙3木",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1071/a8/f7a1fd332b5cba75504ca003a179f9_180_135.jpg?1641542632",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "31371024",
+      "name": "广东俊哥斯诺克",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1098/e8/3bbba4522bba13da8fac0615bffd5b_180_135.jpg?1788793114",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "31189591",
+      "name": "波哥【斯诺克解说】",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1047/ff/1ab3744a8c1eb34fc5d145851ee7e1_180_135.jpg?1772797782",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "31107095",
+      "name": "郭燃台球",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1065/81/247713d15d5b2dcea9a350f9073b7a_180_135.jpg?1765867437",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "32588",
+      "name": "划线百嘉",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1058/57/fd9fe190b95e9c7cda2978704b2511_180_135.jpg?1726803893",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "154825",
+      "name": "老范说台球-斯诺克",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1010/55/d9c2e43561a7ea04337a402bd1578e_180_135.jpg?1671244586",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "17693860",
+      "name": "39为菜",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1020/fc/600340f81f2f12ba4f786a22579d1e_180_135.jpg?1605541706",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "880625",
+      "name": "虎牙斯诺克副舞台",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1011/a4/532a7a569da281024e99d2711b21e7_180_135.jpg?1674143052",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "15373958",
+      "name": "去疼片",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1087/5b/5b14fc391d0b4e83320129265e1079_180_135.jpg?1620804834",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "30608702",
+      "name": "围球夜话",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1061/07/4d089c4015480cdc0925361664503c_180_135.jpg?1751464307",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "30875270",
+      "name": "多哥聊台球",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1035/82/61dd7e10101795fdb7cd50d0e76d0f_180_135.jpg?1754324989",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "27720884",
+      "name": "WWE敬哥解说",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1079/57/cff370e890fbb8ff14a783fd26813a_180_135.jpg?1784252496",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "593667",
+      "name": "Grimmmz",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1007/bf/b36ab443e7346ad8b706f6de5cef4d_180_135.jpg?1639735725",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "564185",
+      "name": "女子世界冠军石春侠",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1096/12/a844c5298a587fb6779a1c8c996ca9_180_135.jpg?1648193185",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "18501329",
+      "name": "虎牙斯诺克6号桌",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1001/e3/883e1b8616718d4d1d823b5221fbd1_180_135.jpg?1731558671",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "18501324",
+      "name": "虎牙斯诺克4号桌",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1064/68/0229c09a523d56665a38e7381fe6b6_180_135.jpg?1731558603",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "18501166",
+      "name": "虎牙斯诺克7号桌",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1043/24/2379b21f1ff00fc76bbaf41ddf425e_180_135.jpg?1731558713",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "17611785",
+      "name": "赵心童未来可期",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1065/b2/01731ea4d930854129731c423a44bd_180_135.jpg?1644305587",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "880237",
+      "name": "火箭赛事专场",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1030/16/5783ae38214a99eff17f770a2203c8_180_135.jpg?1613828875",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "24302120",
+      "name": "红魔鲁小胖",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1037/aa/fee95e8257439095a59f0c9c48c185_180_135.jpg?1621240443",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "22886023",
+      "name": "帅soserious",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1084/05/938f412af153f682e04cf6fb4d9745_180_135.jpg?1574146377",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "16289380",
+      "name": "小虎牙-h2chaE6vsD",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1013/27/c0c2da1bbd564e3902dc035176d57e_180_135.jpg?1628849016",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "17455465",
+      "name": "虎牙斯诺克5号桌",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1003/4d/ea6fb1d9e921b9119d2d42a4786bb0_180_135.jpg?1731558647",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "31358783",
+      "name": "毛毛说台球",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1058/6b/e4986858764cd463247d1f6ba78adc_180_135.jpg?1778415895",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "17455046",
+      "name": "虎牙斯诺克视频精选",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1003/31/e0ccb6197dde90f6b07fcfb24a3584_180_135.jpg?1606445129",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "880211",
+      "name": "丁俊晖赛事专场",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1009/6a/8ecf9a79c9b790b5c64292722b8cbd_180_135.jpg?1613964363",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "880239",
+      "name": "斯诺克夺冠时刻",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1097/d5/fa83d49d11c5b3932aa6f6a793be44_180_135.jpg?1646039532",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "31368404",
+      "name": "传奇台球",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1032/9a/029845506cca2a5ca54f189871f7dd_180_135.jpg?1788580096",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "30805957",
+      "name": "羽毛球男单专场",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1031/28/cc197e89aa697e98943e78f29eb876_180_135.jpg?1752118932",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "7641118",
+      "name": "草莓味鸡胸肉",
+      "avatar": "https://i0.hdslb.com/bfs/face/a488a0d288e3f54f037ed2fbed6fd9f551802682.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "24569401",
+      "name": "F1赛事资讯",
+      "avatar": "https://i0.hdslb.com/bfs/face/53e2c9f4be68ee2992eb10f4c823785319afe64d.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "32210509",
+      "name": "德国足球甲级联赛",
+      "avatar": "https://i2.hdslb.com/bfs/face/5a9f359d8ddad81110e99e66e197d84d6b2d8f0f.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "23582997",
+      "name": "杨毅侃球",
+      "avatar": "https://i2.hdslb.com/bfs/face/c206eb4e365422146a26db2e74627f939b3cf380.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1730466996",
+      "name": "哔哩哔哩篮球赛事",
+      "avatar": "https://i2.hdslb.com/bfs/face/09d3ff422620897e7d9e97b322c78c554e2fa9e6.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1982181049",
+      "name": "梦回乒乓",
+      "avatar": "https://i1.hdslb.com/bfs/face/82347e0b0e1af75a4191caca173358eecb298f50.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "26118168",
+      "name": "国乒之家",
+      "avatar": "https://i0.hdslb.com/bfs/face/a3e9526c59b934ffd29635e44b6d3795fd52d683.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1876316531",
+      "name": "锦鲤小甜兔",
+      "avatar": "https://i0.hdslb.com/bfs/face/7951dcd39672e5349c250308fb7a27e350d47ea3.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "21273215",
+      "name": "黑影儿TV",
+      "avatar": "https://i0.hdslb.com/bfs/face/0ec62fb74c5bc32941df361c8a25738c42f1f685.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "3655912",
+      "name": "龙哥搞主任",
+      "avatar": "https://i1.hdslb.com/bfs/face/f950968422f3a7544c91a5a782da1947081d4982.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1713421146",
+      "name": "鹅城钢铁厂NCAA",
+      "avatar": "https://i2.hdslb.com/bfs/face/2c229cdbea2d780d8b7ea6887eb4c40718e8847d.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1852631864",
+      "name": "乒乓球迷小屋",
+      "avatar": "https://i2.hdslb.com/bfs/face/a2663eb7d07c64800f453147c973b3dc3031e65d.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1934302588",
+      "name": "Belli朱古カ",
+      "avatar": "https://i0.hdslb.com/bfs/face/cc59c5fafa30f6280b2b4a7aa8f2636dad2fe451.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "23943357",
+      "name": "堂主lee",
+      "avatar": "https://i2.hdslb.com/bfs/face/665a151899c136218c3ba7de064ecc67090c219e.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "25924268",
+      "name": "贝当元帅球",
+      "avatar": "https://i0.hdslb.com/bfs/face/b6d7338f5aeccf85a9fa03cc5263f52f5007a90b.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "22798496",
+      "name": "赵德柱15",
+      "avatar": "https://i2.hdslb.com/bfs/face/b9e064c55f211b1da1e6443651df80bb81bd1946.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "32207172",
+      "name": "不太自律的余某人",
+      "avatar": "https://i2.hdslb.com/bfs/face/d5af2443a26cbb41601e27e3fde40a3cf83f5968.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1880711164",
+      "name": "体育办公室主任",
+      "avatar": "https://i2.hdslb.com/bfs/face/392c9c58e8d3e26e092332becafae960f767a477.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1943673793",
+      "name": "篮球万花筒",
+      "avatar": "https://i2.hdslb.com/bfs/face/76b98acf4ce93ff5b65affd0e0274a059045034b.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1726554990",
+      "name": "辰子有腹肌",
+      "avatar": "https://i2.hdslb.com/bfs/face/59fa87f74c77813406d094567d3031bfd8057b6c.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1882308624",
+      "name": "侃球的阿布",
+      "avatar": "https://i0.hdslb.com/bfs/face/efd224ccb5908549baf66a13a52c4deac64e3dab.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1994826226",
+      "name": "九玖足球",
+      "avatar": "https://i0.hdslb.com/bfs/face/f75b26beaa91edf6b6a5bfa66bb9c15a5647716b.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1791691588",
+      "name": "绿茵足球战术",
+      "avatar": "https://i1.hdslb.com/bfs/face/b5b7c78c49b90c7a6e933264fe144b8981ee0b6c.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1993295515",
+      "name": "胜哥足球预测",
+      "avatar": "https://i0.hdslb.com/bfs/face/6b6f9863a9303abd39500270931d7c1d0d088158.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1838243067",
+      "name": "拐哥说球",
+      "avatar": "https://i0.hdslb.com/bfs/face/b49a54f6b3259b5bebef0253bfc462be63fcdc8f.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "31847213",
+      "name": "FIBA3x3",
+      "avatar": "https://i2.hdslb.com/bfs/face/416dfc7fbcd73385e88091eb4a1c885f209f253f.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1766746209",
+      "name": "老虎足球直播",
+      "avatar": "https://i0.hdslb.com/bfs/face/3f48b5d481f5cbec5e79ff30578bf261ed4136ae.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1840999968",
+      "name": "老谭-说球",
+      "avatar": "https://i1.hdslb.com/bfs/face/b551e946e61c6b61ebdda1ec7826b6ccc58c66c7.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1756756586",
+      "name": "毛毛聊球jz",
+      "avatar": "https://i1.hdslb.com/bfs/face/95a7611ab31de3ff83694b0cf6a6863c3d025513.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1957023213",
+      "name": "学妹战术板",
+      "avatar": "https://i2.hdslb.com/bfs/face/2f432b35ff13e13e2a2c3a91a5bb3deda45f7708.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1778469102",
+      "name": "足球大世界57",
+      "avatar": "https://i0.hdslb.com/bfs/face/22fbba2b5224c99210ca9a3f0489e3e0f9e6b33f.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "11316699",
+      "name": "KartCamp",
+      "avatar": "https://i0.hdslb.com/bfs/face/261c18caca11e6d6d54d2b851ba3058289d91f24.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1941169487",
+      "name": "原味侃球005",
+      "avatar": "https://i0.hdslb.com/bfs/face/member/noface.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1993294049",
+      "name": "浩哥耍球",
+      "avatar": "https://i2.hdslb.com/bfs/face/fbfe596cffcbebe21f526846e8b3389a2f4afa12.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "31800724",
+      "name": "大阳乒乓乐",
+      "avatar": "https://i1.hdslb.com/bfs/face/e0acd151616862d4fdc259bd55b0827d37599423.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1851400562",
+      "name": "尤里说足球",
+      "avatar": "https://i1.hdslb.com/bfs/face/3dff79d74d9d29440d2f8cfcf3947f98a87c6dab.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1748138839",
+      "name": "左老师爱看球",
+      "avatar": "https://i2.hdslb.com/bfs/face/91ca04aaa0d6888e17b354fe0ab17860456a4210.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1879006876",
+      "name": "姆九佩说球",
+      "avatar": "https://i0.hdslb.com/bfs/face/f0cc95863317c9f23a5e334f835e1b3cd7e91529.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1713543142",
+      "name": "曹可耐promax肌肉版",
+      "avatar": "https://i2.hdslb.com/bfs/face/f746ec7f3ca2f27887a61360cbda55847a1097ed.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1751766731",
+      "name": "雷哥leige1",
+      "avatar": "https://i1.hdslb.com/bfs/face/ebd3757e1092127bc43d3e9cfa3c3a3479d16dda.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "21669525",
+      "name": "雨说体育徐静雨",
+      "avatar": "https://i0.hdslb.com/bfs/face/c48ae21d7e98c746d8219a215744a9ad5320d102.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "primevideo",
+      "name": "PrimeVideo",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b6095450-4712-4ff9-9215-930fbb45503e-profile_image-300x300.jpeg",
+      "sections": [
+        "global",
+        "stars",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "gerardromero",
+      "name": "gerardromero",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/49bdc39f-4b83-491b-8b99-8719ed8faca9-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "stars",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "betboomtennis2",
+      "name": "BetBoomTennis2",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/49a406f1-529e-48b1-9aa7-cadbb7d28358-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "motobattlelive",
+      "name": "motobattlelive",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/17a2818f-7a37-4866-ac30-d4c82b150952-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "betboomtennis",
+      "name": "BetBoomTennis",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d67f34c-e19e-490d-9083-ccf8ac871ef7-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "buriburiakiba",
+      "name": "ヨシコウ",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/90a000f5-5694-4fd3-bc85-954287c1cf5e-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "drjesus_edf",
+      "name": "DrJesus_EdF",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c344d491-1692-4c3b-8051-fdc8e242aeaa-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "zuletalb",
+      "name": "ZuletaLB",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8710fa45-d874-4d7e-a86c-a353a94b52bc-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,583 @@
+{
+  "schemaVersion": 1,
+  "name": "美食主播单",
+  "description": "美食、吃播主播合集：虎牙、斗鱼、B站美食分区，韩国 SOOP 吃播与 Twitch Food & Drink。",
+  "author": {
+    "name": "小红书·良哥看未来"
+  },
+  "updatedAt": "2026-10-11",
+  "sections": [
+    {
+      "id": "cn",
+      "name": "国内主播"
+    },
+    {
+      "id": "kr",
+      "name": "韩国主播"
+    },
+    {
+      "id": "global",
+      "name": "海外主播"
+    },
+    {
+      "id": "stars",
+      "name": "知名主播（不限开播状态）"
+    },
+    {
+      "id": "p-huya",
+      "name": "虎牙"
+    },
+    {
+      "id": "p-bilibili",
+      "name": "B站"
+    },
+    {
+      "id": "p-soop",
+      "name": "SOOP"
+    },
+    {
+      "id": "p-twitch",
+      "name": "Twitch"
+    },
+    {
+      "id": "p-douyin",
+      "name": "抖音"
+    }
+  ],
+  "entries": [
+    {
+      "platform": "douyin",
+      "roomId": "mizijun0405",
+      "name": "密子君",
+      "avatar": "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_2495d047a2151315f8d1d85a3ceb0bcd.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "stars",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "roomId": "271070878",
+      "name": "浪胃仙做自己",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_6b5c6956d4d525957be4682521dbfd8d.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "stars",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "1995",
+      "name": "小小小酷哥-组织",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1056/cc/2ae247f33b3d03046c0b41eddf8ac9_180_135.jpg?1756555664",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "11798",
+      "name": "图一一798",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1018/b9/aaab206c7afa7a00461f957a5af144_180_135.jpg?1786814624",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "31327603",
+      "name": "壮壮-798",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1069/f7/96575f338ab2ef89cdf30e65f7f4ce_180_135.jpg?1784898333",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "525",
+      "name": "虎子【1995】",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1016/df/3dafc65e7db5e4da674e1b3de5e3a1_180_135.jpg?1790833694",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "33001",
+      "name": "瑞秋儿【能心】恩师毛毛",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1056/35/d53705ab1412462f3a47e108616b6c_180_135.jpg?1782539340",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "84265",
+      "name": "集梦阿乐【布弟】1380",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1053/18/aecfde818be73688906fa0f3db0130_180_135.jpg?1728601889",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "57798",
+      "name": "大锤酱798",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1074/1b/99d6af0e29efe786c28698c118b894_180_135.jpg?1780862572",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "27708672",
+      "name": "天九-798",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1011/b4/a2c6b7b023cffd63d7c7f89ae60e24_180_135.jpg?1694117487",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "158672",
+      "name": "江江【能心】",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1026/06/626e2dad6d1d6286f557ecdd351366_180_135.jpg?1782889346",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "157964",
+      "name": "集梦小六-【116】白",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1061/6c/ac66968e17a1e83c4a05adac23cfd2_180_135.jpg?1787320663",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "158956",
+      "name": "小青团【AJ】白白白欧",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1068/5a/95a40eaef81249407b1461b74f6326_180_135.jpg?1784123791",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "158691",
+      "name": "小宝-798",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1046/8e/3f57ed9cb9e1f1f9a82d74002905ca_180_135.jpg?1785354945",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "22798",
+      "name": "小二拦不住【798】",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1049/a2/2ace91ec8b0abfe39c1582b8305ca8_180_135.jpg?1784281410",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "919",
+      "name": "集梦罗玉姬子【1995】",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1082/33/c91fe6601b6a9a354c2831a9962601_180_135.jpg?1785678382",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "158268",
+      "name": "x11-798",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1070/27/554decbd6d3ee57008d18a32bd5a6f_180_135.jpg?1782287866",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "31380896",
+      "name": "冰墩墩-798",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1053/39/609013fd8547a9c2df5017a0483064_180_135.jpg?1789710899",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "158362",
+      "name": "王子彦798",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1003/75/22e3f73302c8b557bcf312c216ffeb_180_135.jpg?1678607542",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "57899",
+      "name": "呆呆渔【1995】",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1075/1a/d535389836234850d2006f17ec41d3_180_135.jpg?1788762908",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "16028",
+      "name": "丫头【16028】",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1010/41/f735ac1ab2d3fb22be6aac751916f3_180_135.jpg?1709121889",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "77233",
+      "name": "集美鱼儿【ZKL】无敌白",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1077/94/845b1d1874a39a4f66841314a2a8d1_180_135.jpg?1790176596",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "158731",
+      "name": "史莱姆-798",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1075/94/a2433871636e82594c6a261752c75e_180_135.jpg?1783360731",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "159132",
+      "name": "小妍【AJ】财来财来",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1057/83/00a29e43c1ee4aef0fa0340d4a28ab_180_135.jpg?1788603358",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "157961",
+      "name": "文彬【798】",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1041/ae/6e2f5a0af9a90be5306c7f6305d8b6_180_135.jpg?1784668404",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "158724",
+      "name": "集美咯咯【ZKL】",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1015/05/64fc31dcc87887a8e63ac0c6de72ea_180_135.jpg?1781204869",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "154685",
+      "name": "集梦瑶瑶酷马仔【18】",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1014/a0/68eba836f21d2176808eb697b481df_180_135.jpg?1762445730",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "149674",
+      "name": "Hot-汤汤",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1022/7b/8a466cd4755a237f822e1c82fb904f_180_135.jpg?1785826519",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "152732",
+      "name": "视觉丶桔梗",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1099/f6/f3177b71c93a4e33836abae4419d55_180_135.jpg?1772252631",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "616",
+      "name": "小六子【1995】",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1071/d4/3d0035462216e4ea94bec3e3cc52aa_180_135.jpg?1764906675",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "31384000",
+      "name": "顾顾【能心】",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1026/af/21e4af97b67cf2d747ee04e8b9ad6d_180_135.jpg?1789813650",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "179966",
+      "name": "蛇类科普蛇哥",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1060/ea/77c5068206e109a964a18099f36061_180_135.jpg?1742973928",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "671234",
+      "name": "小杨【16028】",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1038/e7/bc59aeb1ea38422a63142f49fa19b6_180_135.jpg?1787897780",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "31366457",
+      "name": "钧木、锦汐汐",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1071/9d/2fdc74a8fc83b5d3f309cebad50f9f_180_135.jpg?1787724197",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "157849",
+      "name": "悦桐【AJ】【518】",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1010/2b/703de200448ed3e628621a52e696c1_180_135.jpg?1787942568",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "19951",
+      "name": "Blue组织",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1015/6a/7520fb2d452653ee3dbf69c7dba27a_180_135.jpg?1698945085",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "158692",
+      "name": "集美羊崽【ZKL】",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1036/73/f022cbb88078248c5c44e7dd7ac503_180_135.jpg?1789536299",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "157847",
+      "name": "集梦火炎【18】白白白",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1097/e3/f30d94944cbbfd7c792c4d8a83331d_180_135.jpg?1775108718",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "158395",
+      "name": "集梦小酥肉【18】",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1038/52/94ce2ff3a14169d0ee19d7a7400212_180_135.jpg?1780911494",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "147215",
+      "name": "池子【1995】",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1013/ff/23a71ddae64159301f96e4e5f1a3d1_180_135.jpg?1748017044",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "520570",
+      "name": "觅音-桃子酥",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1097/06/358cd5fdb87333ef29bd178597d5f9_180_135.jpg?1651633021",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "31313644",
+      "name": "飒飒798",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1077/71/971ed5edeab5b5a8309bb9d49a9b8b_180_135.jpg?1783137228",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "22903017",
+      "name": "王师傅和小毛毛",
+      "avatar": "https://i0.hdslb.com/bfs/face/024a29e8cf627ac388faf9152f42e940b7b01cc6.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "24978608",
+      "name": "派大林小小厨",
+      "avatar": "https://i1.hdslb.com/bfs/face/52dd0c9fb1115df35e093b0c28507ec46c810a45.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "31097163",
+      "name": "联华供销社",
+      "avatar": "https://i2.hdslb.com/bfs/face/fdbf6ee28815c8dbffc7d15694b91b1b8e855160.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "30129063",
+      "name": "俄罗斯AKKOND进口馆",
+      "avatar": "https://i1.hdslb.com/bfs/face/92c0fdd4013e6a915e7dfc6480205ead38275249.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "soop",
+      "roomId": "120510",
+      "name": "범프리카",
+      "sections": [
+        "kr",
+        "p-soop"
+      ],
+      "avatar": "https://profile.img.sooplive.co.kr/LOGO/12/120510/120510.jpg"
+    },
+    {
+      "platform": "soop",
+      "roomId": "ahfotlrp0675",
+      "name": "으악이네",
+      "sections": [
+        "kr",
+        "p-soop"
+      ],
+      "avatar": "https://profile.img.sooplive.co.kr/LOGO/ah/ahfotlrp0675/ahfotlrp0675.jpg"
+    },
+    {
+      "platform": "soop",
+      "roomId": "seunghye97",
+      "name": "고진숙",
+      "sections": [
+        "kr",
+        "p-soop"
+      ],
+      "avatar": "https://profile.img.sooplive.co.kr/LOGO/se/seunghye97/seunghye97.jpg"
+    },
+    {
+      "platform": "twitch",
+      "roomId": "koragi_ch",
+      "name": "koragi_ch",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5cd528b0-fe58-48e5-8687-dd25c27140c0-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "bloodydrongo",
+      "name": "BloodyDrongo",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/4e55582b-f2f0-4203-bca9-370f86fe012b-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "hungry",
+      "name": "Hungry",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b2900f8b-5076-4e96-8081-47d567b05abb-profile_image-300x300.jpeg",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "roomId": "beststreetfood",
+      "name": "BestStreetFood",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5435389f-2a04-4b81-8c0d-1427984f1d5d-profile_image-300x300.png",
+      "sections": [
+        "global",
+        "p-twitch"
+      ]
+    }
+  ]
+}

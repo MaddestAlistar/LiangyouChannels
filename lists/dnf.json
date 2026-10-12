@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "name": "地下城与勇士主播单",
+  "description": "地下城与勇士（DNF 端游 / 手游）热门主播合集（含各平台分区人气前列主播与不限开播状态的知名主播）：斗鱼、虎牙、B站 DNF 分区人气主播。",
+  "author": {
+    "name": "小红书·良哥看未来"
+  },
+  "updatedAt": "2026-10-11",
+  "sections": [
+    {
+      "id": "official",
+      "name": "赛事官方"
+    },
+    {
+      "id": "cn",
+      "name": "国内主播"
+    },
+    {
+      "id": "stars",
+      "name": "知名主播（不限开播状态）"
+    },
+    {
+      "id": "p-douyu",
+      "name": "斗鱼"
+    },
+    {
+      "id": "p-huya",
+      "name": "虎牙"
+    },
+    {
+      "id": "p-bilibili",
+      "name": "B站"
+    },
+    {
+      "id": "p-douyin",
+      "name": "抖音"
+    }
+  ],
+  "entries": [
+    {
+      "platform": "douyin",
+      "roomId": "renyixu1989",
+      "name": "旭旭宝宝",
+      "avatar": "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_f246f34fbc1f4da300834745a9dfa0fa.jpeg?from=3067671334",
+      "sections": [
+        "cn",
+        "stars",
+        "p-douyin"
+      ]
+    },
+    {
+      "platform": "douyu",
+      "roomId": "470321",
+      "name": "DNF官方直播间",
+      "sections": [
+        "official",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202601/c38bc3486505485c87141d5cef6a8a9c_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "5518350",
+      "name": "丶才孑",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202301/73599c67bdc44ee19d79dbdeac8e52e8_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "8150119",
+      "name": "DNF秋风",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202012/834985b1cafa4a609c21d445c9a519f6_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "338568",
+      "name": "全职pk惜别",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/201908/da9d4be7ddbc481db6ddbcccf327c1d2_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "5401083",
+      "name": "一个胖胖的橙子",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202010/279c58d314154329b81fd2b7507a4250_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "5339079",
+      "name": "帅帅的李逍遥",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/201807/54ea68fda83620cb74edb6d445ce7cfc_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "10241454",
+      "name": "小桥纤羽",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202202/79fd0e38b3a245d0987f76aad547317c_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "11390993",
+      "name": "DNF才艺",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202304/31ed412db6fa461080dd7e6c6c847442_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "7191589",
+      "name": "爱搬砖的老虎",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/201907/c3ebcc9da1cd42ed875f4dd59074ab38_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "229864",
+      "name": "一Eiji一",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avanew/face/201803/24/11/c7d92e77011567afe9c4597a9b4d9877_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "9946408",
+      "name": "北海小小卷",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/201911/627fcbc68efc49568ced6ef2464a6881_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "7093905",
+      "name": "灬乄丶孤独",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/202208/ec9e21d1a0314760ae522cc80008de4a_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "3878131",
+      "name": "人称郑帅",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/201809/90718b4a753605e75721ee42fe2d46b2_big.jpg"
+    },
+    {
+      "platform": "douyu",
+      "roomId": "877395",
+      "name": "酷酷的帅少",
+      "sections": [
+        "cn",
+        "p-douyu"
+      ],
+      "avatar": "https://apic.douyucdn.cn/upload/avatar_v3/201903/2016d45816f64e7c8642cb70a3b9a135_big.jpg"
+    },
+    {
+      "platform": "huya",
+      "roomId": "660143",
+      "name": "DNF官方直播间",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1034/8d/fc2d659a6d9433ac175a22a13a1fda_180_135.jpg?1700279154",
+      "sections": [
+        "official",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "100011",
+      "name": "疯奶丶大硕",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1024/ef/5e6644aeb6f7ea21c52a1d4660a45f_180_135.jpg?1729159308",
+      "sections": [
+        "cn",
+        "stars",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "30259878",
+      "name": "武神59",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1064/6e/43430dad1e6d2d300d12a1a9092491_180_135.jpg?1727608756",
+      "sections": [
+        "cn",
+        "stars",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "764447",
+      "name": "AH丶仇冬生",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1030/d7/f5eba047edf63b42aee3f7f01df9ee_180_135.jpg?1624189750",
+      "sections": [
+        "cn",
+        "stars",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "132032",
+      "name": "AH丶苏澈",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1072/a4/6ddd87feea7586849a77ea71477cde_180_135.jpg?1738968124",
+      "sections": [
+        "cn",
+        "stars",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "123579",
+      "name": "东二梦想",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1084/bf/88bc4add2dc1e2778eda0d00a0c601_180_135.jpg?1546834234",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "80518",
+      "name": "AH丶仙哥哥",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1071/36/0d45fab0bc3f386f64492439973fd8_180_135.jpg?1684827097",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "233244",
+      "name": "AH丶杰哥助您圆梦",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1033/74/2ce6d9922a86f55f9d15429197be99_180_135.jpg?0",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "26108248",
+      "name": "账号鉴定师--老胡",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1023/32/79c237769deafe59327785f06b874f_180_135.jpg?1725261568",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "20248010",
+      "name": "AH丶小飞飞",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1012/c2/fdc08de6cc4124dc81b2506b8af749_180_135.jpg?1653352515",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "29907336",
+      "name": "天众丶仓鼠921",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1067/65/8089b65d4ab58713a2b3ecd320f535_180_135.jpg?1730427043",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "21491515",
+      "name": "AH、孤九",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1085/68/78b2dc06ced30a3b5c5ce36ea58055_180_135.jpg?1784685354",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "27520155",
+      "name": "HHDNF永恒Y",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1030/69/5712a5217d71bae3686dfd6ab9db64_180_135.jpg?1693575338",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "11819540",
+      "name": "AH丶狂舞",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1041/8d/ac3f570923ea04a9810d9c606799a9_180_135.jpg?1708082588",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "143827",
+      "name": "AH丶魔刀",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1035/e7/5270f5866825908ad2a4cbf5371ae0_180_135.jpg?1716878351",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "11213933",
+      "name": "AH丶小江",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1053/30/0c995ef59a2c0a97834b6286ac796e_180_135.jpg?1556162276",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "143182",
+      "name": "DNF柔道-迎港",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1043/a7/79087ae57b677b5b9d8884c110f94f_180_135.jpg?1709055694",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "23471490",
+      "name": "好好学习要努力哦",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1018/0c/6ba4aeed8922245f8391752eaa47bc_180_135.jpg?1603516648",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "28798852",
+      "name": "Szg丶洋洋",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1090/83/f60764cbed1f5e543d88fd519b2e63_180_135.jpg?1666875205",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "22653863",
+      "name": "AH丶暴力哥",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1022/9b/f1196fbcc2b0ea45ce9ab4a81541bd_180_135.jpg?1636654259",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "25040320",
+      "name": "DNF兵哥搬砖",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1019/e5/a9bafe9eae7b3d887beb418d33da2f_180_135.jpg?1696927278",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "25059471",
+      "name": "可乐周z",
+      "avatar": "https://diy-assets.msstatic.com/cqhfolder/NewDefault.png",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "30343431",
+      "name": "今日不服",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1087/47/bc9278f461ab166b843ada72eb1d73_180_135.jpg?1730839610",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "30017085",
+      "name": "满创-落花",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1032/78/274f412e5fe16dbf77e19a82950999_180_135.jpg?1719232651",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "23060065",
+      "name": "AzZ丶知秋",
+      "avatar": "https://diy-assets.msstatic.com/cqhfolder/NewDefault.png",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "25911990",
+      "name": "-墨老-",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1030/20/9b5eeb6accc8b49e033a3a3cebdeff_180_135.jpg?1635399478",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "huya",
+      "roomId": "25060682",
+      "name": "风剑心",
+      "avatar": "https://huyaimg.msstatic.com/avatar/1079/6b/92b73a62d6ae6dd1657a8859188a78_180_135.jpg?1624612542",
+      "sections": [
+        "cn",
+        "p-huya"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "10483690",
+      "name": "Sky灬素颜",
+      "avatar": "https://i0.hdslb.com/bfs/face/6a14111c94bb9cc5d425af246662d1af4271d516.jpg",
+      "sections": [
+        "cn",
+        "stars",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "23843809",
+      "name": "药研老哥",
+      "avatar": "https://i2.hdslb.com/bfs/face/dc0655081fee8971343f3ae66dd98f9d6b191914.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "23207684",
+      "name": "DNF欧皇晴",
+      "avatar": "https://i2.hdslb.com/bfs/face/dcdd4a1a616c5bc6a2d76ba5aae06a4df7bb080a.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "27349753",
+      "name": "冬瓜大大大",
+      "avatar": "https://i0.hdslb.com/bfs/face/456182b4715361a755013fb61f82058382290bd9.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "10687795",
+      "name": "骑乌龟的蜗牛z",
+      "avatar": "https://i1.hdslb.com/bfs/face/2cdafa6d666c8be41f8568a89c9b43915a994c4f.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "26882492",
+      "name": "小学毒奶粉",
+      "avatar": "https://i1.hdslb.com/bfs/face/747a8f5cc64baa1652657b2e2a96ce01c0a96f0d.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "31115422",
+      "name": "绝攻灬小喆",
+      "avatar": "https://i0.hdslb.com/bfs/face/686cd7450ad8b5e6963d676780f69d75d2f66515.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "27547990",
+      "name": "瀾澜阑",
+      "avatar": "https://i2.hdslb.com/bfs/face/d590ceeec535a8b3cc395fa899b18be7ecd19ca9.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "31025149",
+      "name": "小缪斯wink",
+      "avatar": "https://i2.hdslb.com/bfs/face/2e59326614d2f2a810be6c86ae674decd388f5a9.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1923359044",
+      "name": "喵夜梓",
+      "avatar": "https://i1.hdslb.com/bfs/face/65e39e4f29b8799093586b7a794e7021cab7e6a7.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "23516897",
+      "name": "颜色color乀",
+      "avatar": "https://i2.hdslb.com/bfs/face/5afc1e9607ed16bdd700aea0deeb008c57b5de1b.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1851657476",
+      "name": "Riss-似酒",
+      "avatar": "https://i2.hdslb.com/bfs/face/b30dd6d1bc8cf9c2789d148136a35c180c80f15f.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1700307794",
+      "name": "番茄打个蛋",
+      "avatar": "https://i2.hdslb.com/bfs/face/75a3497c6d012965c1e1a63b8a5649c48bcc06b4.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1842866516",
+      "name": "dnf蛙太美",
+      "avatar": "https://i2.hdslb.com/bfs/face/e564d2f44776385923edd36e74b6537c8e02acf3.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "roomId": "1792362335",
+      "name": "電競馬保國",
+      "avatar": "https://i1.hdslb.com/bfs/face/8f8d599a8f16ceac4874d717558d1339f4cec724.jpg",
+      "sections": [
+        "cn",
+        "p-bilibili"
+      ]
+    }
+  ]
+}
